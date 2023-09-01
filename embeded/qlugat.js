@@ -18,7 +18,7 @@ function withStems(list) {
     });
     return outList;
 }
-const HOST = 'https://bismigalis.pythonanywhere.com';
+const HOST = 'http://lugat.yzz.me';
 const maxListLength = 20;
 
 var app = new Vue({
