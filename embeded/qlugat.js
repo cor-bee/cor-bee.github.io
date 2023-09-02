@@ -18,7 +18,7 @@ function withStems(list) {
     });
     return outList;
 }
-const HOST = 'https://bismigalis.pythonanywhere.com';
+const HOST = '/data/';
 const maxListLength = 20;
 
 var app = new Vue({
@@ -43,7 +43,7 @@ var app = new Vue({
         },
         submit: function (word) {
             if (!this.wordsDb[word]) {
-                fetch(HOST + '/get_json?word=' + word).then(response => response.json()).then(data => {
+                fetch(HOST + word[0].toLowerCase() + '/' + word).then(response => response.json()).then(data => {
                     if (Object.keys(data).length === 0) {
                         this.dictEntry = null;
                     } else {
@@ -126,7 +126,7 @@ var app = new Vue({
                 this.dictEntry = null;
                 this.wordSelected = '';
             } else if (!this.suggestDb[stem[0]]) {
-                fetch(HOST + '/suggest?&token=' + word[0])
+                fetch(HOST + word[0].toLowerCase() + '/_index.json')
                     .then(response => response.json())
                     .then(data => {
                         this.suggestDb[stem[0]] = withStems(data);
