@@ -1,0 +1,14 @@
+{
+    "word": "молодец",
+    "shortening_pos": 0,
+    "articles": [
+        {
+            "text": "(<i>парень</i>) yigit, deliqanlı; <b>добрый ~</b> yigit oğlan",
+            "accent_pos": 2
+        },
+        {
+            "text": "1. m<stress>a</stress>şalla,<stress>e</stress>valla,<stress>a</stress>ferin; <b>~, что пришёл</b> kelgeniñ pek yahşı oldı, kelgeniñe m<stress>a</stress>şalla; <b>он ~</b> onıñ maşallası bar; <b>сын у нас ~</b> oğlumıznıñ maşallası bar; 2. (<i>одобрительный возглас</i>)<stress>a</stress>ferin!; m<stress>a</stress>şalla!; <stress>e</stress>valla!; eşq olsun!; yaşa!; barekalla! (<i>уст.</i>) ◊<b>всяк ~ на свой образец</b> <i>погов.</i><b/>er dülberniñ bir quyu bar; <b>~ против овец, а против молодца – сам овца</b> <i>погов.</i><b/>başqasına t<stress>i</stress>ymeysiñ e, oña küçüñ yet<stress>e</stress>mi?",
+            "accent_pos": 6
+        }
+    ]
+}

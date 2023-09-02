@@ -1,0 +1,14 @@
+{
+    "word": "мука",
+    "shortening_pos": 3,
+    "articles": [
+        {
+            "text": "1. un; <b>пшеничная ~а</b> boğday unu; <b>ржаная ~а</b> çavdar unu; <b>мешок для ~и</b> un çuvalı; <b>обвалять в ~е</b> unğa bulamaq; <b>сеять муку, просеивать ~у</b> un elemek; <b>посыпать ~ой</b> unlamaq; <b>вывозиться в ~е</b> unlanmaq; 2.:<b>суперфосфатная ~а</b> <i>хим.</i>,<i>с.-х.</i> superfosfat tozu",
+            "accent_pos": 4
+        },
+        {
+            "text": "(<i>страдание</i>) azap, belâ, eziyet, işkence, horluq, ıstırap; <b>~и голода</b> açlıq azabı; <b>адские ~и</b> ceennem azabı; <b>родовые ~и</b> doğıruv sancıları ◊<b>не жизнь, а ~и!</b> yaşayış degil, ceennem azabı!; <b>~а мне с ним!</b> başıma belâ oldı!",
+            "accent_pos": 2
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "word": "микрометр",
+    "shortening_pos": null,
+    "articles": [
+        {
+            "text": "<i>тех.</i> mikr<stress>o</stress>metr",
+            "accent_pos": 5
+        },
+        {
+            "text": "<i>физ.</i> (<i>микрон</i>) mikrometr",
+            "accent_pos": 7
+        }
+    ]
+}

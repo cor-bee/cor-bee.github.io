@@ -1,0 +1,14 @@
+{
+    "word": "ссылка",
+    "shortening_pos": 5,
+    "articles": [
+        {
+            "text": "1. (<i>высылка, депортация</i>) sürgünlik; sürgün etüv, sürgün etm<stress>e</stress>; sürgün etilüv, sürgün etilm<stress>e</stress>; sürgün cezası (<i>вид наказания</i>); <b>приговорить к ~е</b> sürgün cezasına maküm etmek (<i>или</i> oğratmaq); 2. (<i>место ссылки</i>) sürgün (<i>или</i> sürgünlik) yeri; <b>жить в ~е</b> sürgünlik yerinde oturmaq",
+            "accent_pos": null
+        },
+        {
+            "text": "1. (<i>указание источника</i>) atıf (-tfı); <b>давать ~у на что-либо</b> bir şeyge atıf etmek; <b>со ~ой на кого-либо</b> birine atıf etip, birine<stress>a</stress>tfen; <b>без ~и на источники</b> menbalarğa atıf<stress>e</stress>tmeyip, menba köst<stress>e</stress>rmeyip; 2. (<i>гиперссылка на интернет-странице</i>) bağlantı; <b>пришли мне ~у на этот сайт</b> maña bu saytqa bağlantını yolla; 3. (<i>на причину</i>) sıltav, sıltam<stress>a</stress>; <b>~а на занятость</b> pek meşğul olğanına sıltav",
+            "accent_pos": null
+        }
+    ]
+}

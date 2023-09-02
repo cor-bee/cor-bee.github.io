@@ -1,0 +1,14 @@
+{
+    "word": "парить",
+    "shortening_pos": 5,
+    "articles": [
+        {
+            "text": "1. (<i>подвергать действию пара, варить на пару</i>) buvlamaq, buvda tutmaq; <b>~ть капусту</b> qapıst<i>а</i> buvlamaq; <b>~ть овощи</b> zarzavatlarnı buvda tutıp pişirmek; 2. (<i>кипятить</i>) qaynatmaq; <b>~ть бельё</b> çamaşırnı qaynatmaq; 3.:<b>~ть ноги</b> ayaqlarını sıcaq suvda tutmaq; 4. (<i>о погоде</i>) sıcaq olmaq, (yahşı etip) qızdırmaq; <b>~т</b> boğucı sıcaq bar; <b>~т перед грозой</b> yağmur olacaqqa yaqın yahşı etip qızdıra",
+            "accent_pos": 2
+        },
+        {
+            "text": "avelemek, süzülmek, qanatlarını q<stress>a</stress>qmayıp uçmaq; <b>орёл ~т под облаками</b> qartal bulutlar tübünde aveley (<i>или</i> süzüle, qanatlarını q<stress>a</stress>qmayıp uça)",
+            "accent_pos": 4
+        }
+    ]
+}

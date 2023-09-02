@@ -1,0 +1,14 @@
+{
+    "word": "мышка",
+    "shortening_pos": 4,
+    "articles": [
+        {
+            "text": "1. (<i>маленькая мышь</i>) sıçançıq; 2.<i>комп.</i> sıçan; <b>выделить ~ой фрагмент текста</b> metinniñ bir parçasını sıç<stress>a</stress>nnen saylamaq",
+            "accent_pos": null
+        },
+        {
+            "text": "<b>у него под ~ой</b> onıñ qoltuğında; <b>взять под ~и</b> qoltuğından almaq; <b>нести под ~ой</b> qoltuğında tutıp ketmek",
+            "accent_pos": null
+        }
+    ]
+}

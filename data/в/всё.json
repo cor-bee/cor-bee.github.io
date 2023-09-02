@@ -1,0 +1,14 @@
+{
+    "word": "всё",
+    "shortening_pos": 0,
+    "articles": [
+        {
+            "text": "<i>мест. в знач</i> :<b>~ его радовало</b> onı er şey sevindire (<i>или</i> quvandıra) edi; <b>~ необходимое</b> kerek (<i>или</i> lâzim) olğan er şey; <b>возьми ~, что надо</b> ne kerek olsa, onı al; <b>~ это им давно известно</b> bütün bularnı (<i>или</i> bularnıñ episini) olar çoqtan bile; <b>это ещё не ~</b> bu daа episi degil, bunıñ daа devamı bar; ~!<stress>a</stress>na (<i>или i</i>şte) bu qadar!, bitti! ◊<b>от всего сердца</b> can-yürekten",
+            "accent_pos": null
+        },
+        {
+            "text": "<i>нареч.</i> 1.:<b>он ~ работает</b> о ep çalışa; <b>он ~ хочет переехать</b> о ep köçem dep tura, о ep köçecek ola; <b>снег ~ еще идёт</b> qar ep daа yağa; <b>он ~ ещё болен</b> о ep daа hast<i>а</i>(dır); <b>не ~ коту масленница</b> <i>посл. эквив.</i> er sefer saña yağm<stress>a</stress> yoq; 2.:<b>это ~ из-за тебя</b> bütün bular senden sebep; 4.<i>сравн. ст.</i> barğan sayın, kett<stress>i</stress>kçe; <b>~ дальше и дальше</b> ketken sayın (<i>или</i> kett<stress>i</stress>kçe) uzaqlaşa; <b>~ лучше и лучше</b> ep yahşılaşıp bara; <b>погода ~ лучше и лучше</b> ava ketken (<i>или</i> barğan) sayın yahşılaşa; <b>~ смелее и смелее</b> ketken sayın cesaret artа; <b>я ~ думаю о вас</b> men ep sizni tüşünem; <b>мне ~ равно</b> maña ep bir; <b>он ~ равно приедет</b> о ep bir kelir",
+            "accent_pos": null
+        }
+    ]
+}

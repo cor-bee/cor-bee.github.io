@@ -1,0 +1,14 @@
+{
+    "word": "что-то",
+    "shortening_pos": 0,
+    "articles": [
+        {
+            "text": "<i>неопр.</i> bir şey, n<stress>e</stress>dir; <b>ты ~ сказал?</b> sen bir şey aytt<stress>ı</stress>ñmı?; <b>~ в этом роде</b> öyle bir şey, buña oşağan bir şey",
+            "accent_pos": null
+        },
+        {
+            "text": "<i>нареч. разг.</i> (<i>почему-то</i>) neg<stress>e</stress>dir, ne iç<stress>ü</stress>ndir (<i>разг.</i> neç<stress>ü</stress>ndir); bilmem neden; <b>он ~ не идёт</b> о ne iç<stress>ü</stress>ndir k<stress>e</stress>lmey; <b>мне ~ нездоровится</b> neç<stress>ü</stress>ndir biraz alım yoq",
+            "accent_pos": null
+        }
+    ]
+}

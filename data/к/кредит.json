@@ -1,0 +1,14 @@
+{
+    "word": "кредит",
+    "shortening_pos": 0,
+    "articles": [
+        {
+            "text": "kredit; <b>долгосрочный ~</b> uzun müddetli kredit; <b>банковский ~</b> bank krediti; <b>брать ~</b> kredit almaq; <b>возвращать ~, погашать ~</b> kreditni qaytarıp bermek",
+            "accent_pos": 5
+        },
+        {
+            "text": "<i>бух.</i> kr<stress>e</stress>dit",
+            "accent_pos": 3
+        }
+    ]
+}

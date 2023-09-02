@@ -1,0 +1,14 @@
+{
+    "word": "привод",
+    "shortening_pos": 0,
+    "articles": [
+        {
+            "text": "<i>тех.</i> köçürgiç; <b>автоматический ~</b> avtomat<stress>i</stress>k köçürgiç; <b>ременный ~</b> qayış köçürgiçi",
+            "accent_pos": 3
+        },
+        {
+            "text": "alıp kelüv (<i>или</i> kelm<stress>e</stress>); tutıp alıp kelüv (<i>или</i> kelm<stress>e</stress>); <b>~ в суд</b> <i>юр.</i> makemege tutıp alıp kelüv",
+            "accent_pos": 5
+        }
+    ]
+}

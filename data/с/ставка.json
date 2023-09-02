@@ -1,0 +1,18 @@
+{
+    "word": "ставка",
+    "shortening_pos": 5,
+    "articles": [
+        {
+            "text": "1. maaş (<i>или</i> aylıq) derecesi; maaş, aylıq (<i>зарплата</i>); <b>работать на полторы ~и</b> bir buçuq maaş alıp çalışmaq; <b>тарифные ~и</b> tarifege köre berilgen aylıq; <b>какая у вас ~а?</b> ne qadar aylıq al<stress>a</stress>sıñız?, aylığıñız ne qadar?; 2. (<i>в экономике</i>) derece; <b>~а подоходного налога</b> kelir bergisiniñ derecesi; <b>центральный банк понизил учётную ~у</b> merkeziy bank esaplaşuv derecesini tüşürdi; <b>процентная ~а по краткосрочным депозитам</b> qısqa müddetli depozitlerniñ faiz derecesi; 3. (<i>в азартных играх</i>) qoyulğan para (<i>или</i> aqça), biriniñ qoyğan parası (<i>или</i> aqçası); <b>~и сделаны!</b> para qoyuldı!; 4. (<i>расчёт, ориентация на кого-либо</i>) esaslanuv, esaslanm<stress>a</stress>; tayanuv, tayanm<stress>a</stress>; ümüt bağlav (<i>или</i> bağlam<stress>a</stress>); <b>сделать ~у на новую технику</b> yañı tehnikağa ümüt bağlamaq",
+            "accent_pos": null
+        },
+        {
+            "text": "<i>воен.</i> aliy komandanlıq, aliy komandanlıq yeri; <b>~ верховного главнокомандования</b> aliy komandanlıq; <b>~ Наполеона</b> Napoleonnıñ komandanlıq yeri",
+            "accent_pos": null
+        },
+        {
+            "text": "<b>очная ~а</b> yüzleştirüv, yüzleştirm<stress>e</stress>; bir-bir<stress>i</stress>nen körüştirüv (<i>или</i> körüştirm<stress>e</stress>); yüzleştirilüv, yüzleştirilm<stress>e</stress>; <b>ему устроили очную ~у с ...</b> o, ... ile yüzleştirildi",
+            "accent_pos": null
+        }
+    ]
+}

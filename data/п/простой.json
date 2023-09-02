@@ -1,0 +1,14 @@
+{
+    "word": "простой",
+    "shortening_pos": 5,
+    "articles": [
+        {
+            "text": "<i>прил.</i> 1. (<i>нетрудный</i>) qolay, sade; <b>~ое дело</b> qolay iş; 2. (<i>обыкновенный, непритязательный</i>) adiy, sade; <b>~ые люди</b> adiy adamlar; <b>~ая пища</b> sade aş (<i>или</i> yemek); <b>~ая одежда</b> sade urba; <b>это было не ~ое подражание</b> bu, sade bir taqlit degil edi; 3. (<i>однородный, несоставной</i>) sade, adiy; <b>~ое предложение</b> <i>лингв.</i> adiy cümle; <b>~ые тела</b> <i>физ.</i> sade cisimler",
+            "accent_pos": null
+        },
+        {
+            "text": "boş turuv (<i>или</i> turm<stress>a</stress>); işl<stress>e</stress>meden keçken vaqıt; <b>~й оборудования</b> donatmanıñ boş turuvı (<i>или</i> turması); <b>сокращать ~й машин</b> maşnalarnıñ boş turuv vaqtını qısqartmaq; (<b>каждый) час ~я станка</b> tezya işl<stress>e</stress>meyip (<i>или</i> işlet<stress>i</stress>lmeyip) keçken er saat",
+            "accent_pos": null
+        }
+    ]
+}

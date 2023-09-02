@@ -1,0 +1,14 @@
+{
+    "word": "ишь",
+    "shortening_pos": 0,
+    "articles": [
+        {
+            "text": "<b>~ ведь</b> <i>разг.</i> baqsa sen onı, baqsañız siz onı; <b>~ ведь как он ловко придумал</b> baqsa sen onı, ne tüşünip tapqan (<i>или</i> çıqarğan)",
+            "accent_pos": null
+        },
+        {
+            "text": "~ ты <i>разг.</i> 1. (<i>выражает удивление</i>) baqsa sen onı, baqsañız siz onı; <b>Тебя ведь Арзы зовут ? - ~ ты, знает ведь!</b> Seniñ adıñ Arzı deg<stress>i</stress>lmi? - Baqsa sen onı, bile eken!; 2. (<i>выражает несогласие</i>) ebet, bekle; <b>Ты должен сделать это! - ~ ты, и не подумаю!</b> Sen bunı yapmaq ker<stress>e</stress>ksiñ! - Ebet, bekle, al<stress>ı</stress>rsıñ!; <b>Я хочу на море! - ~ ты чего захотел!</b> Men deñizge barmaq ist<stress>e</stress>yim! - Baqsa sen onı, ne istey!",
+            "accent_pos": null
+        }
+    ]
+}

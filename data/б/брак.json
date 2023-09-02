@@ -1,0 +1,14 @@
+{
+    "word": "брак",
+    "shortening_pos": 0,
+    "articles": [
+        {
+            "text": "1. (<i>недоброкачественная продукция</i>) qusurlı, qusurlı mahsul, brak; <b>выпускать ~</b> qusurlı mahsulat çıqarmaq, brak çıqarmaq; 2. (<i>изъян</i>) qusur; <b> видите, вот тут ~?</b> m<stress>ı</stress>na bu yerde qusur olğanını kör<stress>e</stress>sizmi?",
+            "accent_pos": null
+        },
+        {
+            "text": "(<i>бракосочетание</i>) evlilik, evlenüv, evlenm<stress>e</stress>, nikâh; <b>гражданский ~</b> grajdan evlenm<stress>e</stress>; <b>состоять в ~е с кем-либо</b> birine evli olmaq; <b> рождённый вне ~а</b> evlilikten tış doğğan",
+            "accent_pos": null
+        }
+    ]
+}

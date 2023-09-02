@@ -1,0 +1,22 @@
+{
+    "word": "стан",
+    "shortening_pos": 0,
+    "articles": [
+        {
+            "text": "(<i>фигура, сложение</i>) boy-qıyafet, endam; <b>тонкий ~</b> ince bel",
+            "accent_pos": null
+        },
+        {
+            "text": "<i>тех.</i> tezya; <b>волочильный ~</b> çekm<stress>e</stress> tezyası; <b>прокатный ~</b> hadde, haddehane",
+            "accent_pos": null
+        },
+        {
+            "text": "<b>нотный ~</b> <i>муз.</i> n<stress>o</stress>tа yolu",
+            "accent_pos": null
+        },
+        {
+            "text": "(<i>лагерь</i>) l<stress>a</stress>ger, qırman; <b>полевой ~</b> qırman",
+            "accent_pos": null
+        }
+    ]
+}

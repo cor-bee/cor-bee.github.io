@@ -1,0 +1,14 @@
+{
+    "word": "ферма",
+    "shortening_pos": 0,
+    "articles": [
+        {
+            "text": "(<i>сельсхохозяйственная</i>) çiftlik, f<stress>e</stress>rma; <b>молочная ~</b> sütçülik çiftligi (<i>или</i> ferması)",
+            "accent_pos": null
+        },
+        {
+            "text": "(<i>конструкция</i>)<i>тех.</i> maqas, f<stress>e</stress>rma; <b>стальная ~</b> çelik maqas (<i>или</i> f<stress>e</stress>rma); <b>арочная ~</b> kemer maqası; <b>стропильная ~</b> çatqı maqası",
+            "accent_pos": null
+        }
+    ]
+}

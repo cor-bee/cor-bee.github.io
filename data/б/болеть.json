@@ -1,0 +1,14 @@
+{
+    "word": "болеть",
+    "shortening_pos": 4,
+    "articles": [
+        {
+            "text": "1. (<i>хворать</i>)hastalanmaq, hastа olmaq; <b>~ть гриппом</b> gripp olmaq, gr<stress>i</stress>ppnen hastalanmaq; <b>чем он ~ет?</b> onıñ ne hastalığı bar?, о n<stress>e</stress>nen hastа?; 2.(<i>сильно беспокоиться</i>:<i>за кого-либо, о ком-либо, чём-либо</i>)qayğırmaq, raatsız olmaq; içine dert olmaq (<i>о душе</i>); <b>~ть за «Таврию»</b> “Tavriya”nıñ tarafdarı olmaq, “T<stress>a</stress>vriya” içün raatsız olmaq",
+            "accent_pos": null
+        },
+        {
+            "text": "(<i>испытывать боль</i>)ağırmaq, sızlamaq, acımaq; <b>у меня ~ят зубы</b> tişlerim ağıra ◊<b>у меня душа ~ит о нём</b> onıñ içün yüregim (<i>или</i> içim) raatsızlana (<i>или</i> raats<stress>ı</stress>zdır)",
+            "accent_pos": null
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "word": "предложение",
+    "shortening_pos": 10,
+    "articles": [
+        {
+            "text": "1. teklif; <b>я возражаю против этого ~я</b> men bu teklifke qarşım (<i>или</i> qoş<stress>u</stress>lmayım); <b>внести ~е</b> teklif etmek; <b>по его ~ю</b> onıñ teklif<stress>i</stress>nen; 2. (<i>о браке</i>) evlenm<stress>e</stress> teklifi; <b>сделать кому-либо ~е</b> birine evlenm<stress>e</stress> teklifi yapmaq; 3.<i>эк.</i> arz; <b>спрос превышает ~е</b> talap arzdan ziyade, talap arznı aşıy",
+            "accent_pos": null
+        },
+        {
+            "text": "<i>лингв.</i> cümle; <b>простое ~</b> sade cümle; <b>сложное ~</b> mürekkep cümle",
+            "accent_pos": null
+        }
+    ]
+}
