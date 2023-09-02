@@ -24,8 +24,8 @@ const maxListLength = 20;
 var app = new Vue({
     el: '#app',
     data: {
-        startPos: -1,
         pos: -1,
+        startPos: -1,
         wordInput: '',
         wordSelected: '',
         dictEntry: null,
@@ -43,7 +43,7 @@ var app = new Vue({
         },
         submit: function (word) {
             if (!this.wordsDb[word]) {
-                fetch(HOST + word[0].toLowerCase() + '/' + word).then(response => response.json()).then(data => {
+                fetch(HOST + word[0].toLowerCase() + '/' + word + '.json').then(response => response.json()).then(data => {
                     if (Object.keys(data).length === 0) {
                         this.dictEntry = null;
                     } else {
@@ -126,7 +126,7 @@ var app = new Vue({
                 this.dictEntry = null;
                 this.wordSelected = '';
             } else if (!this.suggestDb[stem[0]]) {
-                fetch(HOST + word[0].toLowerCase() + '/_index.json')
+                fetch(HOST + word[0].toLowerCase() + '/+index.json')
                     .then(response => response.json())
                     .then(data => {
                         this.suggestDb[stem[0]] = withStems(data);
