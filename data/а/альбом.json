@@ -1,9 +1,9 @@
 {
     "word": "альбом",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. albom [-льб-], defter, cönk; <b>тематический ~</b> mevzulı albom; 2. (<i>музыкальный</i>) albom; <b>второй ~ группы Beatles</b> Beatles taqımınıñ ekinci albomı",
+            "text": "albom",
             "accent_pos": null
         }
     ]

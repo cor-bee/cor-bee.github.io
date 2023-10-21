@@ -1,9 +1,9 @@
 {
     "word": "статистика",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "stat<stress>i</stress>stika; <b>~ заболеваний</b> hastalıqlar statistikası; <b>математическая ~</b> riyaziy (<i>или</i> matemat<stress>i</stress>k) stat<stress>i</stress>stika",
+            "text": "statistika",
             "accent_pos": null
         }
     ]

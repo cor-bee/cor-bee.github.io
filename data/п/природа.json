@@ -1,9 +1,9 @@
 {
     "word": "природа",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "tabiat; <b>законы ~ы</b> tabiat qanunları; <b>явления ~ы</b> tabiat adiseleri; <b>на лоне ~ы</b> tabiattа, tabiat qoynunda; <b>любоваться ~ой</b> tabiatnı (<i>или</i> tabiat manzaralarını) seyir etmek",
+            "text": "tabiat",
             "accent_pos": null
         }
     ]

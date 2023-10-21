@@ -1,9 +1,9 @@
 {
     "word": "стимул",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "st<stress>i</stress>mul; <b>~ к работе</b> iş st<stress>i</stress>mulı; <b>экономические ~ы</b> iqtisadiy stimullar",
+            "text": "stimul",
             "accent_pos": null
         }
     ]

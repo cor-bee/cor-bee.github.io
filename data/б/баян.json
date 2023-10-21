@@ -1,9 +1,9 @@
 {
     "word": "баян",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "bayan; <b>играть на ~е</b> bayan çalmaq",
+            "text": "bayan",
             "accent_pos": null
         }
     ]

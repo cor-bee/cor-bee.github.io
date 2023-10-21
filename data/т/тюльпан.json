@@ -1,9 +1,9 @@
 {
     "word": "тюльпан",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>бот.</i> lâle, çarandafla (<i>диал. юж.</i>); <b>луковица ~а</b> lâle soğanı; <b>цветник из ~ов</b> lâlezar",
+            "text": "lâle",
             "accent_pos": null
         }
     ]

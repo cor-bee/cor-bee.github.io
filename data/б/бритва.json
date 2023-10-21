@@ -1,9 +1,9 @@
 {
     "word": "бритва",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ustra; <b>безопасная ~</b> havfsız (<i>или</i> telükesiz) ustra; <b>электрическая ~</b> elektr<stress>i</stress>k ustrası",
+            "text": "ustra",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "корзина",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "sepet; <b>~а для винограда</b> yüzüm sepeti; <b>в ~е не все яблоки спелые</b> sepetteki almalar arasında p<stress>i</stress>şmegen soyları da bar",
+            "text": "sepet",
             "accent_pos": null
         }
     ]

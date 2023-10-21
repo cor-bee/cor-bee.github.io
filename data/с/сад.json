@@ -1,9 +1,9 @@
 {
     "word": "сад",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "bağça; <b>фруктовый ~</b> meyva bağçası, meyvalıq; <b>заложить</b> (<i>или</i><b>разбить) ~</b> bağça saçmaq ◊<b>зоологический ~</b> ayvanat bağçası; <b>детский ~</b> bala(lar) bağçası; <b>ботанический ~</b> nebatat bağçası",
+            "text": "bağça",
             "accent_pos": null
         }
     ]

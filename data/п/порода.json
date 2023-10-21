@@ -1,9 +1,9 @@
 {
     "word": "порода",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>животных</i>) soy, cınıs (-nsı); 2. (<i>горная</i>) yer soyu, topraq soyu; <b>пористая ~</b> közenekli topraq soyu",
+            "text": "soy, cınıs (біол.); yer soyu (геол.)",
             "accent_pos": null
         }
     ]

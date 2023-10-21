@@ -1,9 +1,9 @@
 {
     "word": "правда",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. aqiqat, kerçek, doğru; <b>говорить ~у</b> doğrusını (<i>или</i> kerçekni, aqiqatnı) aytmaq; <b>любитель ~ы</b> aqiqatçı, aqiqatperver; 2.<i>в сказ.</i> aqiqat, kerçek; <b>это ~а</b> bu kerçek; 3. (<i>действительно</i>) aqiq<stress>a</stress>ten, aqiqattan (da), kerçekten (de) ◊<b>по ~е говоря</b> doğrusını aytqanda (<i>или</i> aytacaq olsaq); <b>не ~а ли он хорош?</b> о yahşı adam, doğru deg<stress>i</stress>lmi?; <b>всеми ~ами и неправдами</b> çeşit yoll<stress>a</stress>rnen, çeşit usullar qullanaraq",
+            "text": "aqiqat, aq",
             "accent_pos": null
         }
     ]

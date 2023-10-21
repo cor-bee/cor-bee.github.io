@@ -1,9 +1,9 @@
 {
     "word": "торжество",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. tantana, bayram; <b>семейное ~</b> aile bayramı; 2. tantana; <b>~ справедливости</b> adalet tantanası",
+            "text": "tantana",
             "accent_pos": null
         }
     ]

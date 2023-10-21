@@ -1,9 +1,9 @@
 {
     "word": "вино",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. şarap; <b>красное ~</b> qırmızı (<i>или</i> qızıl) şarap; <b>сухое ~</b> şekersiz şarap; <b>полусухое ~</b> yarı şekersiz şarap; <b>полусладкое ~</b> yarı tatlı şarap; <b>игристое ~</b> köpükli şarap; <b>креплёное ~</b> keskin şarap; 2. (<i>виноградное домашнее</i>) musallas; 3.<i>поэт.</i> bade, mey; akik (<i>красное</i>)",
+            "text": "şarap; musallas (хатнє вино)",
             "accent_pos": null
         }
     ]

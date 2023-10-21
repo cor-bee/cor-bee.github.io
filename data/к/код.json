@@ -1,9 +1,9 @@
 {
     "word": "код",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "kod; <b>~ доступа</b> irişim kodu; <b>~ ошибки</b> hata kodu; <b>~ символа</b> işaretniñ kodu",
+            "text": "kod",
             "accent_pos": null
         }
     ]

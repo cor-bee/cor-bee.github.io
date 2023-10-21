@@ -1,9 +1,9 @@
 {
     "word": "характер",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. tabiat, quy, hulq, mizac, meşrep; <b>твёрдый ~</b> sert tabiat; <b>у него тяжёлый ~</b> onıñ tabiatı ağır; <b>с дурным ~ом</b> yar<stress>a</stress>may tabiatlı, quypa; <b>с покладистым ~ом</b> yahşı (<i>или</i> güzel) tabiatlı (<i>или</i> quylu); <b>это у него в ~е</b> bu onıñ tabiatında bar, tabiatı öyle; 2. (<i>свойство, особенность</i>) hususiyet, hasiyet; <b>~ местности</b> yerniñ hususiyeti",
+            "text": "tabiat, quy",
             "accent_pos": null
         }
     ]

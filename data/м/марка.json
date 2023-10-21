@@ -1,9 +1,9 @@
 {
     "word": "марка",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>почтовая</i>) m<stress>a</stress>rka, pul; <b>наклеить ~у</b> markanı (<i>или</i> pulnı) yapıştırmaq; 2. (<i>сорт, разновидность</i>) çeşit, tür, soy; <b>~а бетона</b> beton çeşiti (<i>или</i> türü, soyu); 3. (<i>брэнд</i>) m<stress>a</stress>rka; <b>зарегистированная торговая ~а</b> qaydlı ticaret markası; 4. (<i>клеймо, маркировка</i>) tamğa, belgi; 5. (<i>денежная единица</i>) m<stress>a</stress>rka",
+            "text": "marka",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "автор",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "müellif; <i>bir şeyni</i> yapqan (<i>или</i> yasağan); <i>bir şey</i> yazğan; <b>~ проекта</b> leyhanı yapqan (adam), leyha müellifi; <b>~ картины</b> resimni yapqan (adam), resim(niñ) müellifi; <b>~ этих строк</b> bu satırlarnı yazğan (adam), bu satırlarnıñ müellifi ◊<b>~ (забитого) гола</b> <i>спорт.</i> golnıñ saibi",
+            "text": "müellif",
             "accent_pos": null
         }
     ]

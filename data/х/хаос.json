@@ -1,9 +1,9 @@
 {
     "word": "хаос",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "h<stress>a</stress>os, qarışıqlıq, qarma-qarışıqlıq; <b>в комнатах полный ~</b> odalar qarma-qarışıq",
+            "text": "qarışıqlıq",
             "accent_pos": null
         }
     ]

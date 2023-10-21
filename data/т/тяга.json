@@ -1,9 +1,9 @@
 {
     "word": "тяга",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>тянущая сила</i>) çeküv küçü, tartuv küçü; <b>на электрической ~е</b> elektr<stress>i</stress>knen çekilgen; 2.<i>ж.-д.</i>:<b>служба ~и</b> lokomotiv hızmeti; <b>перейти на электровозную ~у</b> elektr<stress>i</stress>k lokomotivlerine keçmek; 3. (<i>в трубе, печи</i>) çeküv, çekiş; <b>усилить ~у трубы</b> bacanıñ çekişini tezleştirmek; 4. (<i>стремление</i>) aves, ıntıluv, ıntılm<stress>a</stress>; <b>у него большая ~а к знаниям</b> bilgige pek avesl<stress>i</stress>dir, bilgige pek ıntıla",
+            "text": "çeküv",
             "accent_pos": null
         }
     ]

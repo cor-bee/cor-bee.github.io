@@ -1,9 +1,9 @@
 {
     "word": "момент",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. an (-ni), dem, vaqıt (-qtı), zaman, maal [-ль]; <b>в один ~</b> bir ande; <b>в этот ~ он был дома</b> bu vaqıttа о evde edi; <b>в любой ~</b> ümüt<stress>e</stress>tmegen vaqtıñda, er an; <b>в тот ~, когда вы звонили</b> siz telefon etken vaqıttа; 2.:<b>важный ~ работы</b> işniñ emiyetli (<i>или</i> müim) vaqtı ◊<b>в настоящий ~</b> ş<stress>i</stress>mdi, şu anda, şimdiki vaqıttа; <b>удобный ~</b> fırsat, çalım; oñayt; <b>настал подходящий ~</b> kelişken vaqtı (<i>или</i> sırası) keldi",
+            "text": "an",
             "accent_pos": null
         }
     ]

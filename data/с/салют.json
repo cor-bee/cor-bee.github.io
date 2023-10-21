@@ -1,9 +1,9 @@
 {
     "word": "салют",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "salüt (-tı); <b>дать артиллерийский ~</b> top salütı bermek, top atıp selâmlamaq ◊<b>~!</b> selâm!",
+            "text": "salüt ; selâm (вітання)",
             "accent_pos": null
         }
     ]

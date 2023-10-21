@@ -1,9 +1,9 @@
 {
     "word": "короткий",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>о предмете</i>) qısqa; çontuq (<i>куцый</i>); <b>~ое платье</b> qısqa anter; <b>~ий путь</b> qısqa yol; <b>~ий разговор</b> qısqa laf; <b>~ие волосы</b> qısqa saç(lar); 2. (<i>о времени</i>) qısqa, az; <b>дни стали ~ими</b> künler qısqardı; <b>за ~ое время</b> az (<i>или</i> qısqa) bir vaqıttа (<i>или</i> vaqıt içinde); 3. (<i>сокращённый</i>) qısqartılğan ◊<b>~ие волны</b> qısqa dalğalar; <b>~ое замыкание</b> qısqadan qapaluv (<i>или</i> alqalanuv); <b>у вас ~ие руки</b> siziñ maña küçüñiz yetmez, bu siziñ arcıñız degil, (siz) maña bir şey yapam<stress>a</stress>zsıñız; <b>у него ~ая память</b> aqlında t<stress>u</stress>rmay, tez unutа; afızası zayıf; <b>быть на ~ой ноге с кем-либо</b> bir<stress>i</stress>nen pek yaqın olmaq",
+            "text": "qısqa, qısqartılğan",
             "accent_pos": null
         }
     ]

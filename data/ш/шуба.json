@@ -1,9 +1,9 @@
 {
     "word": "шуба",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. ton; <b>меховая ~</b> kürk ton; 2. kürk; <b>лисья ~</b> tilki kürkü",
+            "text": "ton",
             "accent_pos": null
         }
     ]

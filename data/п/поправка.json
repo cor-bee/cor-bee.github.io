@@ -1,9 +1,9 @@
 {
     "word": "поправка",
-    "shortening_pos": 7,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>исправление</i>) tüzetüv, tüzetm<stress>e</stress>; tüzetilüv, tüzetilm<stress>e</stress>; <b>вносить ~и</b> tüzetmeler kirsetmek; 2. (<i>улучшение здоровья</i>) tüzelüv, tüzelm<stress>e</stress>, oñaluv, oñalm<stress>a</stress>; <b>больной быстро пошёл на ~у</b> hastа tez tüzelip başladı",
+            "text": "doğrultuv, tüzetüv",
             "accent_pos": null
         }
     ]

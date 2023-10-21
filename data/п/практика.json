@@ -1,9 +1,9 @@
 {
     "word": "практика",
-    "shortening_pos": 7,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ameliyat; <b>на ~е</b> ameliyattа; <b>применять на ~е</b> ameliyattа qullanmaq, tatbiq etmek; <b>иногда то, что кажется простым, на ~е оказывается сложным</b> kimerde sade körüngen bir şey ameliyattа mürekkep olıp çıqa; 2. (<i>опыт</i>) tecribe; <b>~а преподавания</b> oqutuv tecribesi",
+            "text": "ameliyat",
             "accent_pos": null
         }
     ]

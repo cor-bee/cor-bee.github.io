@@ -1,9 +1,9 @@
 {
     "word": "завод",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "zavod; <b>работать на ~е</b> zavodda çalışmaq",
+            "text": "zavod",
             "accent_pos": null
         }
     ]

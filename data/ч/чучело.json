@@ -1,9 +1,9 @@
 {
     "word": "чучело",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>животного, птицы</i>) tulup; <b>~ волка</b> qaşqır tulubı; 2. (<i>огородное</i>) qorqulıq; <b>огородное ~</b> bostan qorqulığı",
+            "text": "qorqulıq",
             "accent_pos": null
         }
     ]

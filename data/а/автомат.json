@@ -1,9 +1,9 @@
 {
     "word": "автомат",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. avtomat; <b>телефон-~</b> avtomat<stress>i</stress>k telefon; 2. (<i>оружие</i>) avtomat",
+            "text": "avtomat",
             "accent_pos": null
         }
     ]

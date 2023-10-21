@@ -1,9 +1,9 @@
 {
     "word": "азбука",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "elifbe; <b>~ Морзе</b> M<stress>o</stress>rze elifbesi; <b>крымскотатарская ~</b> qırımtatar elifbesi; <b>~ в картинках</b> resimli elifbe",
+            "text": "elifbe",
             "accent_pos": null
         }
     ]

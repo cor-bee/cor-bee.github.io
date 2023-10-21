@@ -1,9 +1,9 @@
 {
     "word": "раса",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ırq; <b>белая ~</b> beyaz ırq; <b>чёрная ~</b> qara ırq",
+            "text": "ırq",
             "accent_pos": null
         }
     ]

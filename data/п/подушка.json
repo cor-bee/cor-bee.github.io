@@ -1,9 +1,9 @@
 {
     "word": "подушка",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "yastıq; <b>пуховая ~</b> puf yastıq",
+            "text": "yastiq",
             "accent_pos": null
         }
     ]

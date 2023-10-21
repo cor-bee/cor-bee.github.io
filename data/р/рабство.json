@@ -1,9 +1,9 @@
 {
     "word": "рабство",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "qulluq; <b>освободиться от ~а</b> qulluqtan qurtulmaq (<i>или</i> azat olmaq); <b>быть у кого-либо в ~е</b> birine qul olmaq",
+            "text": "qulluq, esirlik",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "номер",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. nomer<stress>a</stress>; <b>~ дома</b> ev nomerası; <b>квартира ~ пять</b> beş nomeralı kvart<stress>i</stress>ra, beşinci kvart<stress>i</stress>ra; <b>он выступал под ~ом три</b> üç nomeralı f<stress>o</stress>rma kiygen edi; <b>порядковый ~</b> sıra nomerası; <b>набери ~ поликлиники</b> polikl<stress>i</stress>nika nomerasna telefon et; <b>неправильно набран ~</b> yañlış nomerağa telefon ett<stress>i</stress>ñiz; <b>новых ~ов в программе нет</b> programmada yañı nomer<stress>a</stress> yoq; 2. (<i>номер газеты, журнала</i>) san; <b>майский ~ газеты</b> gazetanıñ mayıs (<i>или</i> mayısta çıqqan) sanı; 3. (<i>в гостинице</i>) oda; <b>двухместный ~</b> eki adamlıq (<i>или</i> kişilik) oda; <b>~-люкс</b> lüks odası",
+            "text": "numara, san",
             "accent_pos": null
         }
     ]

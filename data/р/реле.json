@@ -1,9 +1,9 @@
 {
     "word": "реле",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>эл.</i> rele; <b>термическое ~</b> araret relesi; <b>~ напряжения</b> kerginlik relesi",
+            "text": "rele",
             "accent_pos": null
         }
     ]

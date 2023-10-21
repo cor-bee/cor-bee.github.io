@@ -1,9 +1,9 @@
 {
     "word": "педагог",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "pedagog, muallim, oca; <b>великий ~</b> ulu pedagog",
+            "text": "pedagog",
             "accent_pos": null
         }
     ]

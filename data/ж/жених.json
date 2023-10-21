@@ -1,9 +1,9 @@
 {
     "word": "жених",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>до свадьбы</i>) nişanlı; <b>это её ~</b> bu onıñ nişanlısı; 2. (<i>на свадьбе</i>) kiyev; <b>~ и невеста</b> kiyev ve kelin; 3. (<i>молодой человек</i>) yetişken oğlan (<i>или</i> deliqanlı)",
+            "text": "kiyev",
             "accent_pos": null
         }
     ]

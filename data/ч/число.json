@@ -1,9 +1,9 @@
 {
     "word": "число",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1.<i>мат.</i> sayı, san; <b>простое ~о</b> sade sayı; <b>дробное ~о</b> kesir sayı; <b>произвольное ~о</b> istenilgen sayı; <b>точное ~о</b> tam(am) sayı; <b>целое ~о</b> bütün sayı; 2. (<i>дата</i>) kün, tarih (-hı); <b>какое сегодня ~о?</b> bugün qaçı?; <b>какого ~а будет свадьба?</b> toy qaçında olacaq?; <b>в первых ~ах мая</b> mayısnıñ başlarında (<i>или</i> birinci künlerinde); <b>в последних ~ах апреля</b> aprelniñ soñunda (<i>или</i> soñlarında); <b>в заявлении нет ~а</b> arizada tarihı yoq (<i>или</i> qoy<stress>u</stress>lmağan); 3. (<i>количество</i>) miqdar, sayı; <b>~о мест в аудитории</b> auditoriyada oturmaq içün yerlerniñ sayısı (<i>или</i> miqdarı); 4.:<b>он не из ~а трусливых</b> о, qorqaqlardan degil; <b>в том ~е</b> bu cümleden; 5.<i>лингв.</i> sayı; <b>единственное ~о</b> teklik, teklik sayı; <b>множественное ~</b> çoqluq, çoqluq sayı; <b>в единственном ~е</b> teklikte ◊<b>в ~е</b> arasında, sırasında; <b>в ~е пришедших был и он</b> kelgenlerniñ arasında о da bar edi; <b>мой отец был в ~е почётных гостей</b> menim babam ürmetli musafirler sırasında edi ◊<b>задним ~ом</b> keçken k<stress>ü</stress>nnen, keçken künniñ tarih<stress>ı</stress>nen",
+            "text": "sayı; san",
             "accent_pos": null
         }
     ]

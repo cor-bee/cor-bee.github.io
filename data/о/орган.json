@@ -1,14 +1,10 @@
 {
     "word": "орган",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>часть организма</i>) müçe, uzuv (-zvu),<stress>o</stress>rgan; <b>~ы речи</b> laqırdı müçeleri (<i>или</i> uzuvları, organları); 2. (<i>организация</i>)<stress>o</stress>rgan; <b>~ы здравоохранения</b> sağlıqnı saqlav organları; <b>~ы государственной власти</b> devlet akimiyeti organları; <b>печатный ~</b> yayın organı",
-            "accent_pos": 1
-        },
-        {
-            "text": "<i>муз.</i> organ",
-            "accent_pos": 4
+            "text": "müçe (частина тіла)",
+            "accent_pos": null
         }
     ]
 }

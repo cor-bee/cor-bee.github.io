@@ -1,9 +1,9 @@
 {
     "word": "доза",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "d<stress>o</stress>za, miqdar; <b>~ лекарства</b> ilâс dozası; <b>смертельная ~</b> öldürici d<stress>o</stress>za (<i>или</i> miqdar) ◊<b>лошадиная ~</b> <i>шутл.</i> pek balaban (<i>или</i> büyük) bir d<stress>o</stress>za (<i>или</i> miqdar)",
+            "text": "doza",
             "accent_pos": null
         }
     ]

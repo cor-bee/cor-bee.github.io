@@ -1,9 +1,9 @@
 {
     "word": "виноград",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "yüzüm; <b>дикий ~</b> quş yüzümi; <b>кисть ~а</b> bir salqım yüzüm; <b>урожай ~а</b> yüzüm bereketi; <b>собирать ~</b> yüzüm cıymaq, bağ bozmaq (<i>уст.</i>); <b>время сбора ~а</b> yüzüm cıyuv vaqtı, bağ bozumı (<i>уст.</i>)",
+            "text": "yüzüm",
             "accent_pos": null
         }
     ]

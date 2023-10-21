@@ -1,9 +1,9 @@
 {
     "word": "союз",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1.<i>полит.</i> birlik, bağlaşım, ittifaq; <b>агрессивный военный ~</b> tecavuziy (<i>или</i> agressiv) arbiy birlik; <b>заключить ~</b> ittifaq tizmek (<i>или</i> akd etmek); <b>в ~е с кем-либо</b> bir<stress>i</stress>nen birlikte (<i>или</i> ittifaqlıqtа); <b>объединённый в ~</b> birleşken, müttefiq (<i>уст.</i>); <b>Советский ~</b> Şuralar Birligi, Sovetler Birligi; 2.<i>лингв.</i> bağlayıcı; <b>разделительный ~</b> ayırıcı bağlayıcı; <b>противительный ~</b> qarşı qoyuv bağlayıcısı; <b>соединительный ~</b> qoşucı bağlayıcı; <b>подчинительный ~</b> tabilev bağlayıcısı; <b>сочинительный ~</b> tizm<stress>e</stress> bağlayıcı",
+            "text": "ittifaq, birlik",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "указка",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "köstergiç; <b>показывать ~ой на карте</b> haritada kösterg<stress>i</stress>çnen köstermek",
+            "text": "köstergiç",
             "accent_pos": null
         }
     ]

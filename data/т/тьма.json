@@ -1,9 +1,9 @@
 {
     "word": "тьма",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. qaranlıq; <b>ночная ~</b> gece qaranlığı; 2. (<i>великое множество</i>) pek çoq; <b>у меня ~ дел</b> pek çoq işim bar",
+            "text": "1. qaranlıq (відсутність світла); 2. pek çoq (безліч)",
             "accent_pos": null
         }
     ]

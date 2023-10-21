@@ -1,9 +1,9 @@
 {
     "word": "процент",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "faiz (<i>вар.</i> fayız); <b>выплачивать ~ы по вкладу</b> emanet faizlerini ödemek; <b>десять ~ов избирателей</b> saylayıcılarnıñ on faizi; <b>незначительный ~ голосовавших</b> rey bergenlerniñ emiyetsiz bir faizi (<i>или</i> qısmı); <b>вкладывать деньги под ~ы</b> paranı faizge yatırmaq, paranı faizlendirmek; <b>выполнить план на 120 ~ов</b> plannıñ yüz yigirmi faizini yerine ketirmek (<i>или</i> eda etmek, becermek); <b>программа выполнена на сто ~ов</b> progr<stress>a</stress>mmanıñ yüz faizi yerine ketirildi; <b>простые и сложные ~ы</b> <i>мат.</i> sade ve mürekkep faiz; <b>в ~ах</b> faiz esab<stress>ı</stress>nen",
+            "text": "faiz",
             "accent_pos": null
         }
     ]

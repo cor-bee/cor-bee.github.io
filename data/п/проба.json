@@ -1,9 +1,9 @@
 {
     "word": "проба",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>действие</i>) sınav, sınam<stress>a</stress>; <b>~а сил</b> quvet sınaması; 2. (<i>образец</i>) nümüne; <b>взять ~у воды для анализа</b> talil içün suv nümünesi almaq; 3. (<i>металла</i>) ayar; <b>ставить ~у</b> (<i>на слитке, изделии</i>) ayar etmek ◊<b>~а пера</b> qalem tecribesi",
+            "text": "1. sına, sınama (дія); 2. ayar (дорогоцінних металів)",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "голова",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. baş, qafa; <b>у меня болит ~а</b> başım ağıra; 2. aqıllı, idraqlı; <b>светлая ~а</b> aqıllı adam, idraqlı adam; 3. (<i>начальник</i>) başlıq, reber baş; <b>он всему делу ~а</b> о, bütün işniñ başı; 4. ğalava, baş; <b>городской ~а Бахчисарая</b> Bağçasaray şeer ğalavası (<i>или</i> başı) ◊<b>ломать ~у</b> (<i>стараться понять что-то трудное</i>) baş yormaq; <b>как снег на ~у</b> oppadaqtan, apansızdan; <b>с ~ы до ног</b> baştan ayaq; <b>у меня ~а идёт кругом</b> başım aylana; <b>выкинуть из ~ы</b> aqlından çıqarmaq (<i>или</i> çıqarıp atmaq); <b>уйти с ~ой в работу</b> bütünley işke berilmek; <b>морочить ~у</b> baş kütmek; <b>с ~ой окунуться</b> а) (<i>нырнуть</i>) dalmaq, batmaq; б)<i>bir işke</i> baş<stress>ı</stress>nen ketip barmaq; <b>вбить в ~у</b> aytа-aytа añlatmaq; <b>на свою ~у</b> başına belâ (tapmaq); <b>~ой отвечать</b> cevapkâr olmaq; <b>намылить ~у</b> aqıl qoymaq; <b>в ~х</b> başı ucunda; <b>на ~у выше</b> bir baş yüksek; <b>старший на ~у выше младшего</b> büyügi kiçiginden bir baş yüksek",
+            "text": "baş, qafa",
             "accent_pos": null
         }
     ]

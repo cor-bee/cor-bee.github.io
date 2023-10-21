@@ -1,9 +1,9 @@
 {
     "word": "нюх",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "qoqu aluv (<i>или</i> alm<stress>a</stress>); <b>у собак хороший ~</b> köpekler yahşı qoqu ala",
+            "text": "qoqu aluv",
             "accent_pos": null
         }
     ]

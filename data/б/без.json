@@ -1,9 +1,9 @@
 {
     "word": "без",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "(<i>указывает на отсутствие чего-либо</i>)-sız (-siz, -suz, -süz); -mayıp (-meyip), -madan (-meden); <b>~ сахара</b> şekersiz; <b>~ ответа</b> cevapsız; <b>~ толку</b> faydasız; <b>~ нас</b> bizsiz; <b>~ свидетеля</b> şaatsız; <b>~ сомнения</b> şübesiz; <b>~ устали</b> bold<stress>u</stress>rmadan (<i>или</i> bold<stress>u</stress>rmayıp); <b>~ утайки</b> gizl<stress>e</stress>meden (<i>или</i> gizl<stress>e</stress>meyip); <b>~ спросу</b> sor<stress>a</stress>madan (<i>или</i> sor<stress>a</stress>mayıp); <b>~ умолку</b> t<stress>ı</stress>nmadan (<i>или</i> t<stress>ı</stress>nmayıp); <b>работать ~ отдыха</b> raatl<stress>a</stress>nmayıp çalışmaq; <b>это сделано ~ моего ведома</b> bu, menim haberim<stress>o</stress>lmadan yapılğan ◊<b>~ пяти минут три</b> beş daqqadan üç; <b>сейчас ~ четверти пять</b> ş<stress>i</stress>mdi on beş daqqadan beş; <b>не ~ причины</b> sebepsiz degil, sebebi yoq degil; <b>не ~ интереса</b> meraqsız degil, merağı yoq degil; <b>не ~ того</b> о da yoq degil, onsuz da degil ya",
+            "text": "-sız, -siz, -suz, -süz",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "тренер",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "idmancı, temrinci, tr<stress>e</stress>ner; <b>~ футбольной команды</b> futbol komandasınıñ idmancısı (<i>или</i> treneri)",
+            "text": "trener",
             "accent_pos": null
         }
     ]

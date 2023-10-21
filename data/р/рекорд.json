@@ -1,9 +1,9 @@
 {
     "word": "рекорд",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "rekord; <b>поставить ~</b> rekord etmek; <b>побить ~</b> evelki rekordnı bastırmaq; <b>мировой ~</b> dünya rekordı",
+            "text": "rekord",
             "accent_pos": null
         }
     ]

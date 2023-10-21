@@ -1,9 +1,9 @@
 {
     "word": "чисто",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. temiz, t<stress>e</stress>r-temiz; <b>~ вымыть руки</b> qollarnı temiz etip yuvmaq; <b>~-начисто</b> t<stress>e</stress>r-temiz; 2.<i>разг.</i> (<i>подлинно</i>) tamam, tıpqı, aynı; <b>~ по-матерински</b> tamam (<i>или</i> tıpqı,<stress>a</stress>ynı) ana kibi ◊<b>здесь дело не ~</b> bu yağda bir qıl bar",
+            "text": "temiz",
             "accent_pos": null
         }
     ]

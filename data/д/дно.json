@@ -1,9 +1,9 @@
 {
     "word": "дно",
-    "shortening_pos": 2,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "tüp (-bü); <b>без ~а</b> tüpsüz; <b>~о бочки</b> çapçaqnıñ tübü; <b>~о бутылки</b> şişeniñ tübü ◊<b>вверх ~ом</b> ast-üst, aqtar-tönter (<i>диал.</i>); <b>перевернуть вверх ~ом</b> astını üstüne çevirmek, ast-üst etmek, aqtar-tönter etmek (<i>диал.</i>); <b>идти ко ~у</b> batmaq",
+            "text": "tüp",
             "accent_pos": null
         }
     ]

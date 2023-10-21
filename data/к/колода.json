@@ -1,13 +1,9 @@
 {
     "word": "колода",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "kütük; <b>~ для рубки мяса</b> et kütügi",
-            "accent_pos": null
-        },
-        {
-            "text": "(<i>карточная</i>) deste; <b>взять карту из ~ы</b> desteden karta (<i>или</i> kâğıt) çekmek; <b>~а в пятьдесят две карты</b> elliekilik deste",
+            "text": "kütük",
             "accent_pos": null
         }
     ]

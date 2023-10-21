@@ -1,9 +1,9 @@
 {
     "word": "трава",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ot, ölen, köget (<i>диал.</i>); <b>зелёная ~</b> yeşil ot; <b>молодая ~</b> yaş ot, qırdış",
+            "text": "ot, ölen, köget",
             "accent_pos": null
         }
     ]

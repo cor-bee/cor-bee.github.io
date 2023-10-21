@@ -1,9 +1,9 @@
 {
     "word": "брат",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ağa (<i>старший</i>); kadâ, qardaş (<i>младший</i>); <b>старший ~</b> büyük ağa(sı); <b>средний ~</b> ortancısı; <b>младший ~</b> kiçik qardaş(ı); <b>младший ~ мужа</b> çelebi; <b>младший ~ жены</b> çelebi; <b>~ья</b> ağa-qardaş; <b>двоюродный ~</b> eki doğmuş ağa (<i>старший</i>), eki doğmuş qardaş (<i>младший</i>); <b>сводный ~</b> ögey qardaş(ı); <b>молочный ~</b> süt qardaş(ı) ◊<b>ваш ~</b> sizler; <b>наш ~</b> bizler; <b>ваш ~ студент</b> siz(ler) student milleti; <b>~ на ~а</b> adam başına",
+            "text": "ağa (старший); qardaş, kadâ (менший)",
             "accent_pos": null
         }
     ]

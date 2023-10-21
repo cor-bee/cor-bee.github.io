@@ -1,9 +1,9 @@
 {
     "word": "наш",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. -mız (-miz, -ımız, -imiz, -umız, -ümiz), bizim … -mız (-miz, -ımız, -imiz, -umız, -ümiz), bizim; bizimki; <b>~ дом</b> (bizim) evimiz; <b>~а деревня</b> (bizim) köyümiz; <b>в ~ем доме</b> evimizde; <b>положение ~его народа</b> halqımıznıñ vaziyeti; 2.<i>в</i><b>~и</b> bizimkiler; <b>~и уехали</b> bizimkiler ketti ◊<b>~а взяла!</b> biz yeñdik!, biz üstün çıqtıq (<i>или</i> keldik)!; <b>это ~е дело</b> bu bizim işimiz; <b>где ~а не пропадала</b> oldı olacaq, (qırıldı bacaq); <b>~ей эры (н.э.)</b> milâttan soñ (m.s.); <b>до ~ей эры (до н.э.)</b> milâttan evel (m.e.); <b>125 год до ~ей эры</b> milâttan evel 125 senesi",
+            "text": "bizim",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "коса",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1.<i>с.-х.</i> çalğı, tırpan; <b>точить ~у</b> çalğını qayramaq; 2. (<i>волосы</i>) örülgen saç, saç örümi, örm<stress>e</stress>, örm<stress>e</stress> saç; <b>заплести ~у</b> saç örmek; 3.<i>геогр.</i> bel ◊<b>нашла ~а на камень</b> adamına rastkeldi, bir-birinden qal<stress>ı</stress>şmay(lar)",
+            "text": "1. örülgen saç, örme saç (волосся); 2.çalğı (інструмент); 3. bel (геогр.)",
             "accent_pos": null
         }
     ]

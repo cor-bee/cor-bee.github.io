@@ -1,9 +1,9 @@
 {
     "word": "руль",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "dümen; <b>~ь высоты</b> yükseklik dümeni; <b>машина с левым (правым) ~ём</b> sol (oñ) dümenli maşna",
+            "text": "dümen",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "шпора",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "mamuz, tikiç, tikin (<i>диал.</i>); <b>петушиные ~ы</b> horaznıñ tikiçleri (<i>или</i> mamuzları); <b>дать лошади ~ы</b> atnı mamuzlamaq",
+            "text": "mamuz",
             "accent_pos": null
         }
     ]

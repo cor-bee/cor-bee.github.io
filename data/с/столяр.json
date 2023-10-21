@@ -1,9 +1,9 @@
 {
     "word": "столяр",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "dülger; <b>~-белодеревщик</b> adiy ağaç işleri dülgeri; <b>~-краснодеревщик</b> cınıs ağaç işleri dülgeri",
+            "text": "dülger",
             "accent_pos": null
         }
     ]

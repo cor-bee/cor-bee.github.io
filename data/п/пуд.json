@@ -1,9 +1,9 @@
 {
     "word": "пуд",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "put; <b>два ~а зерна</b> eki put aşlıq",
+            "text": "pud",
             "accent_pos": null
         }
     ]

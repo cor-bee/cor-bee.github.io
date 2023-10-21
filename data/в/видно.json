@@ -1,9 +1,9 @@
 {
     "word": "видно",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1.<i>в сказ.</i> körüne; <b>отсюда всё ~</b> mından er şey körüne; <b>мне ~</b> men körem, maña körüne; <b>ничего не ~</b> (iç) bir şey kör<stress>ü</stress>nmey; <b>несмотря на сумерки, было ещё хорошо ~</b> aqşam qaranlığı basqanına b<stress>a</stress>qmadan (<i>или</i> aqşam qaranlığına b<stress>a</stress>qmadan) ortalıq daа yahşı körüne edi; <b>по лицу ~, что это сделал ты</b> bunı sen yapqanıñ çırayıñdan körüne (<i>или</i> körünip tura); <b>их разговору не ~ конца</b> laflarınıñ soñu yoq (или kör<stress>ü</stress>nmey) edi; <b>~, что это не так</b> bunıñ böyle<stress>o</stress>lmağanı körünip tura; 2<i>. сл.</i> ğ<stress>a</stress>liba, añlaşıla ki, körüne ki; <b>он, ~, не придёт</b> ğ<stress>a</stress>liba, о kelmez, k<stress>e</stress>lmeycegine oşay ◊<b>ни зги не ~</b> zift qaranlıq; <b>конца и края не ~</b> soñu (<i>или</i> ucu-bucağı) kör<stress>ü</stress>nmey",
+            "text": "körüne",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "пух",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. puf, yün, ulpaq, yelek; <b>птичий ~</b> quş pufu (<i>или</i> yünü); <b>из верблюжьего ~а</b> deve yününden; 2. (<i>одуванчика</i>) yepelek ◊<b>разнести в ~ и прах</b> çil-parça etmek",
+            "text": "puf, ulpaq",
             "accent_pos": null
         }
     ]

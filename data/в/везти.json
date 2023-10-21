@@ -1,9 +1,9 @@
 {
     "word": "везти",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>перевозить</i>) alıp ketmek, taşımaq, ketirmek; <b>~ти груз на машине</b> yükni maşn<stress>a</stress>nen alıp ketmek; 2. (<i>иметь удачу</i>) oñ kelmek, oğurlı olmaq; <b>ему ~ёт</b> işi oñ kele, oğurl<stress>ı</stress>dır",
+            "text": "alıp ketmek",
             "accent_pos": null
         }
     ]

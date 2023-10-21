@@ -1,9 +1,9 @@
 {
     "word": "контакт",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1.<i>эл.</i> kontakt; <b>нет ~а</b> kontakt yoq; <b>точечный ~</b> noqta kontaktı; 2. temas, alâqa, kontakt; <b>вступить в ~ с кем-либо</b> bir<stress>i</stress>nen alâqada olmaq; 3. alâqa malümatı, kontakt; <b>пожалуйста, оставьте ваши ~ы, мы с вами свяжемся</b> l<stress>ü</stress>tfen, alâqa malümatıñıznı bild<stress>i</stress>riñiz, biz s<stress>i</stress>znen bağlan<stress>ı</stress>rmız",
+            "text": "kontakt",
             "accent_pos": null
         }
     ]

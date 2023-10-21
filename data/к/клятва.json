@@ -1,9 +1,9 @@
 {
     "word": "клятва",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ant, yemin, ahit (-hdi), biat; <b>оставаться верным ~е</b> antında turmaq; <b>давать ~у</b> ant (<i>или</i> yemin) etmek; <b>давший ~у</b> antlı, yeminli",
+            "text": "ant, emin",
             "accent_pos": null
         }
     ]

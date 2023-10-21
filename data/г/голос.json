@@ -1,9 +1,9 @@
 {
     "word": "голос",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. ses, seda, davuş; <b>с ~ом</b> davuşlı; <b>с приятным ~ом</b> hoş sesli, hınalı sesli; <b>с хриплым ~ом</b> qarıq sesli; 2. (<i>при голосовании</i>) rey; <b>отдать свой ~ кандидату от оппозиции</b> reyini muhalefet namzetine bermek; <b>решающий ~</b> al etici rey; <b>право ~а</b> rey berüv aqqı; <b>подсчёт ~ов</b> reylerni sayuv ◊<b>в один ~</b> bir ağızdan",
+            "text": "ses; rey (виборчий)",
             "accent_pos": null
         }
     ]

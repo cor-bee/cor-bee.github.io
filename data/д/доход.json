@@ -1,9 +1,9 @@
 {
     "word": "доход",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "kelir, kâr, deramet, irat; <b>приносить ~</b> kâr (<i>или</i> kelir) ketirmek; <b>незаконный ~</b> qanunğa<stress>u</stress>ymağan kelir; <b>средний ~</b> ortа (<i>или</i> orta qarar) kelir; <b>получать ~</b> kelir almaq; <b>национальный ~</b> milliy kelir",
+            "text": "kelir, deramet, irat, kâr",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "завезти",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ketirmek, alıp kelmek, alıp barıp bermek; <b>~ товар в магазин</b> tükânğa mal ketirmek (<i>или</i> alıp kelmek)",
+            "text": "ketirmek, alıp ketmek",
             "accent_pos": null
         }
     ]

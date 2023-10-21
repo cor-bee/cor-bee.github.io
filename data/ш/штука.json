@@ -1,9 +1,9 @@
 {
     "word": "штука",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. dane; <b>пять ~</b> beş dane; 2. (<i>предмет</i>) şey; <b>что это за ~а?</b> bu n<stress>a</stress>sıl şey?",
+            "text": "1. dane; 2. şey (справа)",
             "accent_pos": null
         }
     ]

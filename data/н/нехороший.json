@@ -1,9 +1,9 @@
 {
     "word": "нехороший",
-    "shortening_pos": 7,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "yahşı degil, eyi degil; yar<stress>a</stress>may, fena, osal (<i>плохой</i>); <b>~ий человек</b> yar<stress>a</stress>may bir adam; <b>~ая погода</b> yar<stress>a</stress>may ava; <b>он ~ собой, но душа у него прекрасная</b> onıñ yüzü çirkin olsa da, yüregi (<i>или</i> göñlü, qalbi) temiz",
+            "text": "nahoş",
             "accent_pos": null
         }
     ]

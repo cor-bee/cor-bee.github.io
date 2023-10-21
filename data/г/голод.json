@@ -1,9 +1,9 @@
 {
     "word": "голод",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. açlıq; <b>умереть от ~а</b> açlıqtan ölmek; <b>испытывать ~</b> а) aç olmaq, açıqmaq (<i>диал.</i>); б) açlıq çekmek; <b>в состоянии ~а</b> açın; 2. (<i>недостаток</i>) qıtlıq, yoqluq, yet<stress>i</stress>şmemezlik",
+            "text": "açlıq",
             "accent_pos": null
         }
     ]

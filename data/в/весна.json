@@ -1,9 +1,9 @@
 {
     "word": "весна",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "baar (-ri); <b>ранняя ~а</b> erte baar; <b>~ой</b> baarde; <b>в воздухе пахнет ~ой</b> (avada) baar qoqusı bar",
+            "text": "baar",
             "accent_pos": null
         }
     ]

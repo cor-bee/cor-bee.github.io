@@ -1,9 +1,9 @@
 {
     "word": "маршрут",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "marşrut, yol; <b>~ путешествия</b> seyaat yolu; <b>автобусный ~</b> avtobus marşrutı",
+            "text": "marşrut",
             "accent_pos": null
         }
     ]

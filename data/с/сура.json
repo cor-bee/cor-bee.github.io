@@ -1,9 +1,9 @@
 {
     "word": "сура",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "(<i>глава Корана</i>) sure; <b>~ аль-Фатиха</b> el-Fatiha suresi",
+            "text": "süre",
             "accent_pos": null
         }
     ]

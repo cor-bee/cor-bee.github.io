@@ -1,9 +1,9 @@
 {
     "word": "лопата",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>штыковая</i>) lesker; 2. (<i>совковая</i>) kürek; <b>убирать ~ой</b> küremek ◊<b>борода ~ой</b> lesker (<i>или</i><b/>tahtа) saqal; <b>грести деньги ~ой</b> para şıpırmaq, paranı qoymağa yer tap<stress>a</stress>mamaq",
+            "text": "lesker; kürek",
             "accent_pos": null
         }
     ]

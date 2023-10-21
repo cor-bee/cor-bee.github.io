@@ -1,9 +1,9 @@
 {
     "word": "костюм",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "kostüm; <b>тренировочный ~</b> idman kostümi",
+            "text": "kostüm",
             "accent_pos": null
         }
     ]

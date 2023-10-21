@@ -1,9 +1,9 @@
 {
     "word": "стандарт",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "standart; <b>государственные ~ы</b> devlet standartları",
+            "text": "standart",
             "accent_pos": null
         }
     ]

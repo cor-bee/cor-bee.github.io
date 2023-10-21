@@ -1,9 +1,9 @@
 {
     "word": "синдром",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "delâlet, sindrom; <b>~ приобретённого иммунодефицита (СПИД)</b> alınğan immunitet qıtlığı delâleti (AİQD)",
+            "text": "sindrom",
             "accent_pos": null
         }
     ]

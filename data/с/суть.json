@@ -1,9 +1,9 @@
 {
     "word": "суть",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "asıl (-slı), maiyet; <b>~ь дела</b> işniñ aslı (<i>или</i> maiyeti) ◊<b>по ~и, по ~и дела</b> aslında, aqiqatında; <b>по ~и, она ни минуты не сидела без дела</b> aslında, о bir daqqa işsiz ot<stress>u</stress>rmay edi; <b>по ~и дела, он построил дом вместе с сыном</b> aqaiqatında, о evini oğl<stress>u</stress>nen beraber qurdı (<i>или</i> yaptı)",
+            "text": "maiyet",
             "accent_pos": null
         }
     ]

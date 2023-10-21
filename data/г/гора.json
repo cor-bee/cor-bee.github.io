@@ -1,9 +1,9 @@
 {
     "word": "гора",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "dağ, bayır, qır; <b>вершина ~ы</b> dağ başı; <b>у подножья ~ы</b> dağ eteginde, dağnıñ tübünde; <b>в ~ах</b> dağlarda; <b>снежные ~ы</b> qarlı bayırlar (<i>или</i> dağlar); <b>идти под ~у</b> eniş-aşağı ketmek; <b>идти в ~у</b> bayırğa qarşı ketmek, bayırğa köterilmek; 2. (<i>куча, груда</i>) oba, yığın, top-top; <b>~а дров</b> bir oba odun ◊<b>у меня будто ~а с плеч свалилась</b> büyük bir yükniñ tübünden (<i>или</i> astından) çıqqan kibi oldım; <b>стоять ~ой</b> (<i>за кого-либо</i>) tarafını qatiy tarzda tutmaq; <b>сулить золотые ~ы</b> dünya malı işandırmaq; <b>не за ~ами</b> а) m<stress>ı</stress>na-m<stress>ı</stress>na olacaq, yaqın vaqıtta, yaqında, az qaldı; б) çoq uzaq degil; <b>пир ~ой</b> ur-patlasın qonuşm<stress>a</stress> (kete), sofrada neler-neler tek yoq",
+            "text": "dağ, bayır, qır",
             "accent_pos": null
         }
     ]

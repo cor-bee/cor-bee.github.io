@@ -1,9 +1,9 @@
 {
     "word": "карикатура",
-    "shortening_pos": 9,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "karikat<stress>u</stress>ra; <b>нарисовать ~у</b> karikat<stress>u</stress>ra yapmaq",
+            "text": "karikatura",
             "accent_pos": null
         }
     ]

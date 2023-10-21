@@ -1,9 +1,9 @@
 {
     "word": "око",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>поэт.</i> köz; <b>её карие очи</b> onıñ elâ közleri ◊<b>~ за ~, зуб за зуб</b> közge köz, tişke tiş",
+            "text": "köz",
             "accent_pos": null
         }
     ]

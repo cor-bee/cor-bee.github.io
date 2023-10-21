@@ -1,9 +1,9 @@
 {
     "word": "час",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. saat, bir saat; <b>который ~?</b> saat qaç?; <b>в котором ~у?</b> saat qaçtа?; <b>без десяти ~</b> saat on daqqadan bir; <b>через ~</b> bir saattan; <b>ждать ~ами</b> saatl<stress>a</stress>rnen beklemek; <b>эту работу можно сделать за ~</b> bu işni bir saattа yapıp bitirmek mümkün; <b>~ы работы</b> iş saatları; <b>в течение ~а</b> bir saat içinde; <b>он опоздал на ~</b> о, bir saat keç qaldı (<i>или</i> keçikti); <b>приёмные ~ы</b> qabul saatları; 2. (<i>время, пора</i>) vaqıt (-qtı), zaman, maal [-ль]; <b>~ обеда</b> üyle vaqtı (<i>или</i> maali) ◊<b>~ в ~</b> saatı saatına, t<stress>a</stress>m(am) vaqtında; <b>~ от ~у не легче</b> işler ketken sayın (<i>или</i> ket-kete) ağırlaşa; <b>до этого (до сего) ~а</b> bu vaqıtq<stress>a</stress>ce (<i>или</i> bu vaqıtqa qadar), bu zamanğ<i>ac</i>e (<i>или</i> bu zamanğa qadar), şimdig<stress>e</stress>ce; <b>в добрый ~!</b> oğurlı yollar olsun!, oğurlar olsun!",
+            "text": "vaqıt, zaman, maal, esna, saat, künü-saatı",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "дикий",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>о растениях</i>) kiyik, yabaniy; <b>~ий виноград</b> <i>бот.</i> kiyik yüzüm; <b>~ий лук</b> <i>бот.</i> qarğa soğanı, pirasa, kiyik soğan; 2. (<i>не приручённый</i>) kiyik, vahşiy; <b>~ая лошадь</b> kiyik at; <b>~ий кабан</b> kiyik domuz; 3. (<i>грубый, необузданный</i>) vahşiy, qaba, kiyik-kiyik; <b>~ие нравы</b> vahşiy adetler; <b>кричать ~им голосом</b> kiyik-kiyik qıçırmaq; 4. (<i>нелюдимый</i>) kiyik, utançaq, qorqaq, ürkek; <b>~ий ребёнок</b> qorqaq bala; 5. (<i>невероятный, ужасный</i>) qorqunçlı, müthiş; <b>~ий случай</b> müthiş bir vaqia",
+            "text": "kiyik",
             "accent_pos": null
         }
     ]

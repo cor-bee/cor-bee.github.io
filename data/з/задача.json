@@ -1,9 +1,9 @@
 {
     "word": "задача",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. mesele; <b>решить ~у</b> meseleni çezmek; <b>~а на вычисление</b> esap(lamaq) içün mesele; 2. (<i>цель</i>) vazife; <b>наша ~а – хорошо учиться</b> vazifemiz – yahşı oqum<stress>a</stress>q(tır)",
+            "text": "mesele",
             "accent_pos": null
         }
     ]

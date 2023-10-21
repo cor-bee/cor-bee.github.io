@@ -1,9 +1,9 @@
 {
     "word": "пиво",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "b<stress>i</stress>ra, p<stress>i</stress>vo (<i>разг.</i>); <b>пить ~</b> b<stress>i</stress>ra (<i>или</i> p<stress>i</stress>vo) içmek",
+            "text": "bira; келих пива – bir meşrepe bira ; пляшкове пиво – şişe birası",
             "accent_pos": null
         }
     ]

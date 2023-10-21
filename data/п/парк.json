@@ -1,9 +1,9 @@
 {
     "word": "парк",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. park, raatlıq bağçası, istiraat bağçası; <b>гулять в городском ~е</b> şeer parkında kezmek; 2. (<i>транспортный</i>) park; <b>троллейбусный ~</b> troll<stress>e</stress>ybus parkı",
+            "text": "park",
             "accent_pos": null
         }
     ]

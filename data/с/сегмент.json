@@ -1,9 +1,9 @@
 {
     "word": "сегмент",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. segment; <b>~ круга</b> daireniñ segmenti; <b>~ шара</b> kürreniñ segmenti; 2. buğum; <b>~ позвоночника</b> omurğa (<i>или</i> belkemik) buğumı",
+            "text": "segment",
             "accent_pos": null
         }
     ]

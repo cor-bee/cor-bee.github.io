@@ -1,9 +1,9 @@
 {
     "word": "горло",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>у живых существ</i>) boğaz, tamaq; <b>дыхательное ~о</b> boğurdaq, kekirdek; <b>у меня пересохло в ~е</b> ağzım qurudı (<i>или</i> qurup qaldı); <b>у него болит ~о</b> boğazı ağıra; 2. ağız; <b>~о бутылки</b> şişeniñ ağzı ◊<b>у него дел по ~о</b> işi boğurdaqtan; <b>он занят по ~о</b> işi başından aşa, işi başınıñ saçından çoq; <b>взять кого-либо за ~о</b> biriniñ boğazına yapışmaq; <b>кричать во всё ~о</b> bar ses<stress>i</stress>nen qıçırmaq; <b>слова застряли у него в ~е</b> nutqu tutuldı; <b>там всего по ~о</b> anda er şey boğurdaqtan; <b>я сыт по ~о</b> boğurdağım<stress>a</stress>ce (<i>или</i> boğazım<stress>a</stress>ce) t<stress>o</stress>qım; <b>промочить ~о</b> biraz içmek",
+            "text": "boğaz",
             "accent_pos": null
         }
     ]

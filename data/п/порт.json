@@ -1,9 +1,9 @@
 {
     "word": "порт",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. liman, port; <b>морской ~</b> deñiz limanı; <b>торговый ~</b> ticaret limanı; <b>~ выгрузки</b> boşatm<stress>a</stress> limanı; <b>зайти в ~</b> limanğa kirmek; 2.<i>комп.</i> port, bağlanm<stress>a</stress> noqtası; <b>USB-~</b> USB portu, USB bağlanm<stress>a</stress> noqtası",
+            "text": "port",
             "accent_pos": null
         }
     ]

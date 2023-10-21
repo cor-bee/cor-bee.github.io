@@ -1,9 +1,9 @@
 {
     "word": "лейтенант",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "leytenant; <b>младший ~</b> kiçik leytenant; <b>старший ~</b> üyken leytenant",
+            "text": "leytenant",
             "accent_pos": null
         }
     ]

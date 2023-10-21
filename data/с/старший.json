@@ -1,9 +1,9 @@
 {
     "word": "старший",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>по возрасту</i>) büyük, üyken; <b>~ий сын</b> üyken (<i>или</i> büyük) oğul; <b>~ий брат</b> ağa, aqa (<i>диал. ст.</i>); <b>~ая сестра</b> apte, tatа, abla (<i>диал. юж.</i>) 2. (<i>по положению</i>) üyken, baş; <b>~ий лейтенант</b> üyken leytenant; <b>~ий над рабочими</b> işçilerniñ başı, çavuş (<i>уст.</i>); 3.<i>в</i> (<i>взрослый</i>) büyük; <b>слушаться ~их</b> büyüklerni diñlemek; 4. yuqarı; <b>~ие классы</b> yuqarı sınıflar",
+            "text": "büyük, üyken; старшій шкільний вік – yuqarı sınıf çağı ; старші класи – yuqarı sınıflar",
             "accent_pos": null
         }
     ]

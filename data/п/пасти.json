@@ -1,9 +1,9 @@
 {
     "word": "пасти",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "otlatmaq, baqmaq; <b>~ скот</b> tuvar baqmaq",
+            "text": "otlatmaq",
             "accent_pos": null
         }
     ]

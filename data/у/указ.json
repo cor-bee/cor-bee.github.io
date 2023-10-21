@@ -1,9 +1,9 @@
 {
     "word": "указ",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ferman; <b>~ Президента Украины</b> Ukra<stress>i</stress>na Prezidentiniñ fermanı",
+            "text": "emir",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "салат",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>блюдо</i>) salat<i>а</i>; <b>~ из огурцов и помидоров</b> hıyar ve pamidor salatası; 2. (<i>растение</i>) yeşil salata",
+            "text": "salata",
             "accent_pos": null
         }
     ]

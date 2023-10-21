@@ -1,9 +1,9 @@
 {
     "word": "борщ",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "borşç; <b>варить ~</b> borşç pişirmek",
+            "text": "borşç",
             "accent_pos": null
         }
     ]

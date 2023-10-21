@@ -1,9 +1,9 @@
 {
     "word": "трамвай",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "tramvay; <b>сесть в ~</b> tramvayğa minmek",
+            "text": "tramvay",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "горб",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. qambır; 2. (<i>у верблюда</i>) örkeç; <b>у этого верблюда два ~а</b> bu deveniñ eki örkeçi bar ◊<b>я эти деньги заработал своим ~ом</b> men bu aqçanı mañlay ter<stress>i</stress>nen taptım",
+            "text": "qambır; örkeç (про верблюда)",
             "accent_pos": null
         }
     ]

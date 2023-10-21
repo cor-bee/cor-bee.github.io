@@ -1,9 +1,9 @@
 {
     "word": "колесо",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "köpçek, teger (<i>диал.</i>); çarq; <b>запасное ~о</b> yedek köpçek; <b>зубчатое ~о</b> çarq, çığırıq; <b>обод ~а</b> köpçek çevresi; <b>мельничное ~о</b> degirmen çarqı; <b>на колёсах</b> köpçekli ◊<b>вставлять палки в колёса</b> işke keder etmek, ayaq çalmaq",
+            "text": "köpçek",
             "accent_pos": null
         }
     ]

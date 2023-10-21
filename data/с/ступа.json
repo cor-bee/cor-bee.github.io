@@ -1,9 +1,9 @@
 {
     "word": "ступа",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "keli; avan (<i>металлическая</i>) ◊<b>толочь воду в ~е</b> avanda suv dögmek",
+            "text": "avan",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "стиль",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "üslüp; <b>газетный ~</b> gaz<stress>e</stress>tа üslübi; <b>~ писателя</b> <i>лит.</i> yazıcınıñ üslübi; <b>~ речи</b> <i>лингв.</i> nutuqnıñ üslübi",
+            "text": "üslüp, tarz; стиль писемної мови – kitabet",
             "accent_pos": null
         }
     ]

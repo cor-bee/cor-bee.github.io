@@ -1,9 +1,9 @@
 {
     "word": "блокада",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "blok<stress>a</stress>da, qamaçav, muasara; <b>экономическая ~</b> iqtisadiy blok<stress>a</stress>da; <b>морская ~</b> deñiz blokadası; <b>новокаиновая ~</b> <i>мед.</i> novokain blokadası",
+            "text": "qamaçav, qurşav",
             "accent_pos": null
         }
     ]

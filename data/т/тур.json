@@ -1,13 +1,9 @@
 {
     "word": "тур",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. tur; <b>второй ~ выборов</b> saylavlarnıñ ekinci turu; <b>первый ~ шахматного турнира</b> santıraç oyunı yarışınıñ birinci turu; <b>соревнования проводятся в три ~а</b> yarışlar üç tur üzerinden ötkerile; 2. (<i>путешествие</i>) kezinti, seyaat; <b>~ по Европе</b> Avr<stress>o</stress>pa boyunca kezinti (<i>или</i> seyaat); <b>~ в Египет</b> Mısırğa seyaat",
-            "accent_pos": null
-        },
-        {
-            "text": "1.<i>зоол.</i> (<i>горный козёл</i>) dağ eçkisi (<i>самка</i>), dağ tekesi (<i>самец</i>); <b>рога ~а</b> dağ tekesiniñ boynuzları (<i>или</i> müyüzleri); 2.<i>зоол.</i> (<i>вымерший вид дикого быка</i>) kiyik buğa",
+            "text": "1. tur; 2. kiyik buğa (тварина)",
             "accent_pos": null
         }
     ]

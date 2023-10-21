@@ -1,9 +1,9 @@
 {
     "word": "чистота",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. temizlik, paklik; saflıq; ismet (<i>целомудрие</i>); <b>соблюдать ~у</b> ,<b>содержать в ~е</b> temiz (<i>или</i> temiz-pak) tutmaq; 2. temizlik, paklik; <b>нравственная ~а</b> ahlâqiy temizlik (<i>или</i> paklik); 3. temizlik; <b>~а произношения</b> telâffuznıñ temizligi; <b>~а языка</b> tilniñ temizligi; 4. temizlik; <b>~а воды</b> suvnıñ temizligi",
+            "text": "temizlik, paklik, saflıq",
             "accent_pos": null
         }
     ]

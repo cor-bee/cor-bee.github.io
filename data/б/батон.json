@@ -1,9 +1,9 @@
 {
     "word": "батон",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "baton; <b>купить в магазине ~</b> tükândan baton almaq",
+            "text": "baton",
             "accent_pos": null
         }
     ]

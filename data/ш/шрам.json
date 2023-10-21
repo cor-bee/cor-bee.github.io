@@ -1,9 +1,9 @@
 {
     "word": "шрам",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "berç, yara izi; <b>со ~ом</b> berçli, dağlı; <b>весь в ~ах</b> er yerinde berçler bar; <b>без ~ов</b> berçsiz",
+            "text": "yara izi",
             "accent_pos": null
         }
     ]

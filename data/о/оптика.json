@@ -1,9 +1,9 @@
 {
     "word": "оптика",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>магазин очков</i>)<stress>o</stress>ptika; 2.<stress>o</stress>ptika, opt<stress>i</stress>k aletler; <b>тут вся ~ – японская</b> bu opt<stress>i</stress>k altlerniñ episi Yaponiyada yasalğan; 3. (<i>раздел физики</i>)<stress>o</stress>ptika",
+            "text": "optika",
             "accent_pos": null
         }
     ]

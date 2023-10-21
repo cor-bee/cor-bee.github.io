@@ -1,9 +1,9 @@
 {
     "word": "трибуна",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>для оратора</i>) minber; <b>речь, произнесённая с ~ы</b> minberden aytılğan nutuq; 2. (<i>для зрителей – на стадионе и т. п.</i>) trib<stress>u</stress>na; <b>зрительские ~ы</b> seyirciler tribunaları",
+            "text": "minber",
             "accent_pos": null
         }
     ]

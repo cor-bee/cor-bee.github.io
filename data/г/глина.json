@@ -1,9 +1,9 @@
 {
     "word": "глина",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "balçıq, kil, ılay (<i>диал.</i>); <b>огнеупорная ~а</b> ateşke dayanğan balçıq; <b>красная ~а</b> qırmızı (<i>или</i> qızıl) balçıq; <b>белая ~а</b> aq (<i>или</i> beyaz) balçıq; <b>из ~ы делают кирпич</b> balçıqtan tola yap<stress>a</stress>lar",
+            "text": "balçıq",
             "accent_pos": null
         }
     ]

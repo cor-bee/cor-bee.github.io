@@ -1,9 +1,9 @@
 {
     "word": "простота",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. sadelik, adiylik; 2. (<i>лёгкость</i>) qolaylıq; <b>~ решения задачи</b> meseleniñ qolaylığı",
+            "text": "adiylik",
             "accent_pos": null
         }
     ]

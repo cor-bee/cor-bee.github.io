@@ -1,9 +1,9 @@
 {
     "word": "все",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "epi, episi; <b>~ мы</b> epimiz, cümlemiz, bütünimiz (<i>разг.</i>), obamız (<i>разг.</i>); <b>~ вы</b> epiñiz, cümleñiz, bütüniñiz (<i>разг.</i>), obañız (<i>разг.</i>); <b>~ они</b> episi, cümlesi, bütüni (<i>разг.</i>), obası (<i>разг.</i>); <b>~ согласны</b> episi razı; <b>~ вместе, ~ сразу</b> toptan, t<stress>o</stress>pnen; <b>лучше ~х</b> er kesten yahşı",
+            "text": "ep, bir tamam; bitti! (закінчено!)",
             "accent_pos": null
         }
     ]

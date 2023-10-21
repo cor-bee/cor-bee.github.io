@@ -1,9 +1,9 @@
 {
     "word": "фанат",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>поклонник</i>) mühlis; <b>~ы «Таврии»</b> “T<stress>a</stress>vriya” mühlisleri; 2. (<i>фанатик</i>) mutaasip",
+            "text": "mühlis",
             "accent_pos": null
         }
     ]

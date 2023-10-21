@@ -1,9 +1,9 @@
 {
     "word": "лимон",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>бот.</i> limon; <b>чай с ~ом</b> limonlı çay ◊<b>как выжатый ~</b> sıqılğan limon kibi; <b>пожелтеть как ~</b> limon kibi sararmaq",
+            "text": "limon",
             "accent_pos": null
         }
     ]

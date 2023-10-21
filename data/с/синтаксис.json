@@ -1,9 +1,9 @@
 {
     "word": "синтаксис",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>лингв.</i> nahv, s<stress>i</stress>ntaksis; <b>специалист по ~у</b> nahv (<i>или</i> s<stress>i</stress>ntaksis) mütehassısı",
+            "text": "nahiv",
             "accent_pos": null
         }
     ]

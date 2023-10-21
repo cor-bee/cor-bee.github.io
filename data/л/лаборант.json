@@ -1,9 +1,9 @@
 {
     "word": "лаборант",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "laborant; <b>опытный ~</b> tecribeli laborant; <b>старший ~</b> üyken laborant; <b>работать ~ом</b> laborant olıp çalışmaq",
+            "text": "laborant",
             "accent_pos": null
         }
     ]

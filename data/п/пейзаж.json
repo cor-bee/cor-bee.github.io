@@ -1,9 +1,9 @@
 {
     "word": "пейзаж",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "peyzaj; manzara, körüniş (<i>вид</i>); <b>осенний ~</b> küz manzarası",
+            "text": "peyzaj",
             "accent_pos": null
         }
     ]

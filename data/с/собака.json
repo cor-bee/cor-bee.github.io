@@ -1,9 +1,9 @@
 {
     "word": "собака",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "köpek, it, baraq; <b>дворовая ~а</b> azbar köpegi; <b>охотничья ~а</b> avcı köpegi; <b>борзая ~а</b> tazı köpegi; <b>год ~и</b> köpek yılı; <b>миска для ~и</b> köpek savutı, yalaq; <b>свора ~</b> köpek sürüsi; <b>около ~и бегают щенята</b> köpekniñ yanında küçelekleri çapqalay ◊<b>~а лает – караван идёт</b> <i>посл.</i> it üre, kervan yüre",
+            "text": "köpek",
             "accent_pos": null
         }
     ]

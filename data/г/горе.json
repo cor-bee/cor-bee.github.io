@@ -1,9 +1,9 @@
 {
     "word": "горе",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. ğam-qasevet, qaar-qasevet, qayğı, dert, yanıq, külfat, üzünti, teessür; <b>он перенёс много ~я</b> о çoq qaar-qasevet körip keçirdi (<i>или</i> başından keçirdi); <b>поседеть от ~я</b> yanıqtan saçları çalarmaq (<i>или</i> ağarmaq); <b>на него свалилось ~е</b> onı qaar-qasevet bastı; <b>~е мне с тобой</b> başıma belâ oldıñ; <b>с ~я</b> kederden, qaar-qasevetten; 2. (<i>несчастье</i>) dert, belâ, felâket; <b>помочь ~ю</b> derdine bir çare (<i>или</i> derdine derman) tapmaq (<i>или</i> bulmaq) ◊<b>доехали с ~ем пополам</b> z<stress>o</stress>rnen (<i>или</i> pek qıynalıp) barıp çıqtıq",
+            "text": "ğam, qayğı, keder",
             "accent_pos": null
         }
     ]

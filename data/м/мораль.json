@@ -1,9 +1,9 @@
 {
     "word": "мораль",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. ahlâq (-qı); <b>нормы ~и</b> ahlâq qaideleri; <b>его представления о ~и</b> onıñ ahlâq añlayışı; 2.<i>разг.</i> (<i>нравоучение</i>) ögüt, nasiat, ögüt-nasiat, ahlâq dersi; 3. (<i>вывод</i>) ibret, mana, isse; <b>извлечь ~ь</b> ibret almaq; <b>~ь басни</b> qıssadan isse",
+            "text": "ahlâq; ögüt (повчання)",
             "accent_pos": null
         }
     ]

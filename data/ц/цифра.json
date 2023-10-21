@@ -1,9 +1,9 @@
 {
     "word": "цифра",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "raqam; <b>арабские ~ы</b> arap raqamları; <b>римские ~ы</b> R<stress>o</stress>ma raqamları",
+            "text": "raqam",
             "accent_pos": null
         }
     ]

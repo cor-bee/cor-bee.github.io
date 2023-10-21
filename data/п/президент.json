@@ -1,9 +1,9 @@
 {
     "word": "президент",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "prezident; <b>~ Украины</b> Ukra<stress>i</stress>na prezidenti",
+            "text": "prezident",
             "accent_pos": null
         }
     ]

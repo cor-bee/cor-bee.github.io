@@ -1,13 +1,9 @@
 {
     "word": "мир",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>вселенная</i>) kâinat, felek, feza; <b>сотворение ~а</b> dünyanıñ yaratıluvı; 2. (<i>земной шар</i>) dünya, cian, yer yüzü; 3. (<i>люди, население Земли</i>) alem, dünya; 4. (<i>среда</i>) alem; <b>литературный ~</b> edebiyat alemi; 5. (<i>область жизни</i>) alem; <b>растительный ~</b> nebatat alemi ◊<b>внутренний ~ человека</b> adamnıñ içki dünyası; <b>не от ~а сего</b> terkidünya; <b>бренный ~</b> faniy dünya; <b>загробный ~</b> о bir dünya; <b>жить в ~е грёз</b> hayal aleminde yaşamaq",
-            "accent_pos": null
-        },
-        {
-            "text": "1. (<i>спокойствие</i>) barışıq, tınçlıq, sulh [-льх]; <b>борьба за ~</b> barışıq içün küreş; <b>голубь ~а</b> tınçlıq (<i>или</i> barışıq) gögercini; 2. (<i>согласие</i>) muabbetlik (<i>разг.</i> mabetlik); <b>жить в ~е</b> muabbet (<i>разг.</i> mabet) yaşamaq",
+            "text": "tınçlıq, sulh, barışıq",
             "accent_pos": null
         }
     ]

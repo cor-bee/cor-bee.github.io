@@ -1,9 +1,9 @@
 {
     "word": "черепаха",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>зоол.</i> qaplı baqa ◊<b>идти как ~</b> qaplı baqa kibi yürmek",
+            "text": "qaplı baqa",
             "accent_pos": null
         }
     ]

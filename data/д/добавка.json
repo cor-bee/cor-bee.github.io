@@ -1,9 +1,9 @@
 {
     "word": "добавка",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. qoşm<stress>a</stress>, qoşumça; <b>просить ~и</b> qoşumça istemek; 2. qoşumça; <b>пищевые ~и</b> aş qoşumçaları; <b>биологически активная ~а (БАД)</b> biolog<stress>i</stress>kçe faal qoşumça (BFQ)",
+            "text": "qoşma",
             "accent_pos": null
         }
     ]

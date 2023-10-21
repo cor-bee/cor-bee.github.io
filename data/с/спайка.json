@@ -1,9 +1,9 @@
 {
     "word": "спайка",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>место спайки</i>) leim, leim yeri; 2. (<i>процесс</i>) leimlev, leimlem<stress>e</stress>; 3. birleşüv, birleşm<stress>e</stress>; <b>рабочая ~</b> işçiler birleşüvi (<i>или</i> birleşmesi); 4.:<i>мед., био.</i> müçelerniñ bir-birine yapışqan yeri; <b>~ кишок</b> içeklerniñ bir-birine yapışuvı (<i>или</i> yapışması)",
+            "text": "leimlev, biriküv, leim yeri",
             "accent_pos": null
         }
     ]

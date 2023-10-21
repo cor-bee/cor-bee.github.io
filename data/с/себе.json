@@ -1,9 +1,9 @@
 {
     "word": "себе",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "özüne, kendine (<i>диал.</i>); (<b>я) ~</b> özüme; (<b>ты)</b> ~ özüñe; (<b>он</b> ,<b>она</b> ,<b>оно) ~</b> özüne; (<b>мы) ~</b> özümizge; (<b>вы) ~</b> özüñizge; (<b>они) ~</b> özlerine; <b>сшить ~ платье</b> özüne anter tikmek; <b>возьми это кольцо ~</b> yüzükni al, seniñ olsun; <b>он думает только о ~</b> yalıñız özüni tüşüne ◊<b>~ на уме</b> işini bilgen; <b>пригласить кого-либо к ~</b> birini evine davet etmek; <b>мне не по ~</b> (<i>нездоровится</i>) als<stress>ı</stress>zım, keyfs<stress>i</stress>zim; <b>мне стало не по ~</b> (<i>неудобно</i>) qolaysız qaldım",
+            "text": "özümni (мене), özüñni (тебе), özüni (його)",
             "accent_pos": null
         }
     ]

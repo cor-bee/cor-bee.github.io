@@ -1,9 +1,9 @@
 {
     "word": "наука",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. ilim (-lmi), fen; <b>общественные ~и</b> içtimaiy fenler; <b>прикладные ~и</b> ameliy ilimler; <b>кандидат технических ~</b> t<stress>e</stress>hnika ilimleri namzeti; <b>Академия наук</b> İlimler akademiyası; 2. (<i>урок</i>) ders, ibret; <b>это тебе ~а!</b> bu saña bir ders olsun!",
+            "text": "ilim, fen",
             "accent_pos": null
         }
     ]

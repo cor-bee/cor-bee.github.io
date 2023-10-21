@@ -1,13 +1,9 @@
 {
     "word": "лук",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "(<i>растение</i>) soğan; <b>зелёный ~</b> yeşil soğan, qıyaq; <b>~-порей</b> pırasa; <b>нарезать зелёный ~</b> yeşil soğan (<i>или</i> qıyaq) doğramaq; <b>приправленный ~ом</b> soğanlı, içine soğan qoyulğan (<i>или</i> doğralğan); <b>дикий ~</b> <i>бот.</i> maybaş, qarğa soğan, katiça",
-            "accent_pos": null
-        },
-        {
-            "text": "(<i>оружие</i>) yay; <b>стрелять из ~а</b> oq atmaq",
+            "text": "yay",
             "accent_pos": null
         }
     ]

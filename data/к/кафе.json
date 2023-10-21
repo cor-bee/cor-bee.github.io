@@ -1,9 +1,9 @@
 {
     "word": "кафе",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "qavehane; <b>уютное ~</b> qıntavlı qavehane",
+            "text": "kafe",
             "accent_pos": null
         }
     ]

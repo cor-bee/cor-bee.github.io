@@ -1,9 +1,9 @@
 {
     "word": "теорема",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "teor<stress>e</stress>ma; <b>доказать ~у</b> teoremanı isbatlamaq; <b>доказательство ~ы</b> а) teoremanıñ isbatı; б) (<i>действие</i>) teoremanı isbatlav; <b>~а косинусов</b> kosinuslar teoreması; <b>~а Пифагора</b> Pifagornıñ teoreması",
+            "text": "teorema",
             "accent_pos": null
         }
     ]

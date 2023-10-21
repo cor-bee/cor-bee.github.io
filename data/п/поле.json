@@ -1,9 +1,9 @@
 {
     "word": "поле",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>возделанное</i>) tarla, ızan; <b>табачное ~</b> tütün tarlası; <b>вспаханное ~</b> qarasaban; <b>незасеянное ~</b> saç<stress>ı</stress>lmayıp qalğan tarla; 2. (<i>степь</i>) çöl; 3. meydan; <b>футбольное ~</b> futbol meydanı; <b>~ битвы</b> cenk meydanı; 4. (<i>край листа</i>) kenar, çet; <b>заметки на полях тетради</b> defterniñ kenarında yazılğan qaydlar; 5. (<i>поприще</i>) saа; <b>~ деятельности</b> faaliyet saası; 6.<i>мат.</i>,<i>физ.</i> alan; <b>векторное ~</b> vektor alanı; <b>электромагнитное ~</b> elektr<stress>i</stress>k-mıqnatis alanı",
+            "text": "1. çöl; 2. meydan (мат., фізичн.); поле зору – körüv meydanı",
             "accent_pos": null
         }
     ]

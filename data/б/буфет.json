@@ -1,9 +1,9 @@
 {
     "word": "буфет",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "bufet; <b>зайти в ~</b> bufetke kirmek",
+            "text": "bufet",
             "accent_pos": null
         }
     ]

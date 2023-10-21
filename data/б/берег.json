@@ -1,9 +1,9 @@
 {
     "word": "берег",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "yalı, sail, kenar; <b>сойти на ~</b> yalığa tüşmek; <b>~ моря</b> deñiz yalısı; <b>на ~у моря</b> deñiz yalısında (<i>или</i> sailinde) ◊<b>выйти из ~ов</b> taşmaq",
+            "text": "yalı; sail",
             "accent_pos": null
         }
     ]

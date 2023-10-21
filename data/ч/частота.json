@@ -1,9 +1,9 @@
 {
     "word": "частота",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "sıqlıq; <b>~ пульса</b> nabıznıñ (<i>или</i> nabız uruvınıñ) sıqlığı; <b>~ колебаний маятника</b> pulnıñ sallanuvı sıqlığı; <b>~ электрического тока</b> elektr<stress>i</stress>k aqımı deñişmesiniñ sıqlığı",
+            "text": "sıqlıq",
             "accent_pos": null
         }
     ]

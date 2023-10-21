@@ -1,9 +1,9 @@
 {
     "word": "табель",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "t<stress>a</stress>bel; <b>~ работы</b> iş tabeli",
+            "text": "tabel",
             "accent_pos": null
         }
     ]

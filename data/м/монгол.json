@@ -1,9 +1,9 @@
 {
     "word": "монгол",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "moğol; <b>вторжение ~ов</b> moğol istilâsı",
+            "text": "moğol",
             "accent_pos": null
         }
     ]

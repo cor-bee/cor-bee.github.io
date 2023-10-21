@@ -1,9 +1,9 @@
 {
     "word": "шкатулка",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "sandıçıq, qutuçıq; <b>~ с перламутровой инкрустацией</b> sadefli sandıçıq ◊<b>музыкальная ~</b> muzıkalı dögm<stress>e</stress> qutusı",
+            "text": "sandıçıq",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "насухо",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "quruğ<stress>a</stress>nce; <b>вытереть посуду ~</b> savutlarnı quruğ<stress>a</stress>nce sürtmek",
+            "text": "quruğance",
             "accent_pos": null
         }
     ]

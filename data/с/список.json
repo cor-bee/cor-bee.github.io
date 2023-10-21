@@ -1,9 +1,9 @@
 {
     "word": "список",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "cedvel; <b>~ избирателей</b> saylayıcılarnıñ cedveli; <b>~ рассылки</b> <i>комп.</i> yiberüv cedveli; <b>добавить в ~</b> cedvelge kirsetmek",
+            "text": "cedvel",
             "accent_pos": null
         }
     ]

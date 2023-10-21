@@ -1,9 +1,9 @@
 {
     "word": "борода",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "saqal; <b>с окладистой ~ой</b> keñ saqallı; <b>отпускать ~у</b> saqal yibermek",
+            "text": "saqal",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "фундамент",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "temel, negiz, fund<stress>a</stress>ment; <b>~ здания</b> binanıñ temeli; <b>заложить ~</b> temel atmaq; <b>~ глубокого (мелкого) заложения</b> teren (say) temel; <b>научный ~</b> ilmiy negiz",
+            "text": "temel, negiz",
             "accent_pos": null
         }
     ]

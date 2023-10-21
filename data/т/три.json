@@ -1,9 +1,9 @@
 {
     "word": "три",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "üç; <b>~ стола</b> üç masa; <b>~ умножить на два будет шесть</b> üçni ek<stress>i</stress>nen (<i>или</i> eki kere) arttırsaq, altı olur",
+            "text": "üç",
             "accent_pos": null
         }
     ]

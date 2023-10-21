@@ -1,9 +1,9 @@
 {
     "word": "штраф",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "cörem<stress>e</stress>, ştraf, para cezası; <b>платить ~</b> cörem<stress>e</stress> (<i>или</i> ştraf) ödemek (<i>или</i> tölemek); <b>взимать ~</b> cörem<stress>e</stress> (<i>или</i> ştraf) almaq; <b>не курить! ~ 100 гривен</b> tütün içmek yas<stress>a</stress>qtır! cezası 100 gr<stress>i</stress>vna.",
+            "text": "para cezası, cöreme",
             "accent_pos": null
         }
     ]

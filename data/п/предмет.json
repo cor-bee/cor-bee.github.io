@@ -1,9 +1,9 @@
 {
     "word": "предмет",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. predmet, nesne, şey; <b>твёрдый ~</b> qattı şey; <b>свойства ~а</b> predmetniñ (<i>или</i> nesneniñ) hususiyetleri; <b>неодушевлённый ~</b> cansız predmet (<i>или</i> nesne); 2. (<i>тема обсуждения</i>) mevzu, sebep; <b>~ разговора</b> lafnıñ (<i>или</i> subetniñ) mevzusı; <b>~ разногласия</b> añlaşmamazlıq mevzusı; 3. (<i>дисциплина</i>) fen; <b>сдать экзамен по всем ~ам</b> er bir fenden imtianlarnı bermek (<i>или</i> tapşırmaq) ◊<b>на ~ …</b> (<i>с целью, для</i>) … içün, … maqsad<stress>ı</stress>nen; <b>они подготовили документы на ~ поступления в институт</b> olar institutqa kirmek maqsad<stress>ı</stress>nen vesiqalarnı azırladı; <b>список был составлен на ~ материальной помощи</b> cedvel maddiy yardım içün yapılğan edi",
+            "text": "1. şey (річ); 2. fen (шкільний)",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "струна",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "tel; <b>~ы скрипки</b> kemaneniñ telleri ◊<b>задеть больную ~у</b> ağırğan yerine tiymek",
+            "text": "tel",
             "accent_pos": null
         }
     ]

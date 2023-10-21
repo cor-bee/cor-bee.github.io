@@ -1,9 +1,9 @@
 {
     "word": "сам",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "öz, kendi (<i>диал. юж.</i>); <b>я ~</b> özüm,<b>ты ~</b> özüñ; <b>он сам</b> özü; <b>мы ~и</b> özümiz; <b>вы ~и</b> özüñiz; <b>они ~и</b> özleri; <b>~ себе</b> öz-özüne; <b>~ собой</b> öz başına; <b>лично ~</b> ş<stress>a</stress>hsen özü; <b>я это сделал ~</b> men bunı özüm yaptım; <b>дверь ~а открылась</b> qapı özü (<i>или</i> öz başına) açıldı; <b>я ~ не рад</b> özüm de peşman etem; <b>~о собой разумеется</b> añlaşılğan şey",
+            "text": "я сам – özüm; ти сам – özüñ; він сам – özü",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "опера",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>o</i>pera; <b>театр ~ы и балета</b> <i>o</i>pera ve balet teatri",
+            "text": "opera",
             "accent_pos": null
         }
     ]

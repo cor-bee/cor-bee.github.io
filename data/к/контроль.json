@@ -1,9 +1,9 @@
 {
     "word": "контроль",
-    "shortening_pos": 7,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "yoqlav, yoqlam<stress>a</stress>, nezaret, kontrol [-ль]; teşkerüv, teşkerm<stress>e</stress> (<i>проверка</i>); <b>народный ~ь</b> halq yoqlaması (<i>или</i> nezareti); <b>под ~ем</b> nezaret astında; <b>пограничный ~ь</b> sıñır teşkerüvi (<i>или</i> yoqlavı)",
+            "text": "kontrol, nezaret",
             "accent_pos": null
         }
     ]

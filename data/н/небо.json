@@ -1,9 +1,9 @@
 {
     "word": "небо",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "kök, sema, felek; <b>голубое ~о</b> mavı kök; <b>~еса</b> kökler, semalar; <b>под открытым ~ом</b> açıq avada; <b>находящийся на ~есах</b> <i>рел.</i> ülviy, semaviy, semalarda olğan ◊<b>быть на седьмом ~е</b> başı kökke yetmek; <b>оказаться между ~ом и землёй</b> (<i>лишиться крова, работы</i>) tıştа (<i>или</i> evsiz-barqsız ve işsiz) qalmaq; <b>точно с ~а свалился</b> kökten engen kibi; <b>они отличаются друг от друга, как ~о и земля, они – ~о и земля</b> aralarında dağlar-taşlar (<i>или</i> qarlı dağlar) bar",
+            "text": "kök",
             "accent_pos": null
         }
     ]

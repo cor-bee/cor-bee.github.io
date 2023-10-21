@@ -1,9 +1,9 @@
 {
     "word": "термометр",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "term<stress>o</stress>metr, sıcaqölçer; <b>поставить больному ~</b> hastağa term<stress>o</stress>metr (<i>или</i> sıcaqölçer) qoymaq; <b>комнатный ~</b> oda termometri (<i>или</i> sıcaqölçeri)",
+            "text": "termometr, sıcaq ölçer",
             "accent_pos": null
         }
     ]

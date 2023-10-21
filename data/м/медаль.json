@@ -1,9 +1,9 @@
 {
     "word": "медаль",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "medal [-ль] ◊<b>обратная сторона ~и</b> medalniñ ters tarafı",
+            "text": "medal",
             "accent_pos": null
         }
     ]

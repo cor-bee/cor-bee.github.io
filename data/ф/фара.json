@@ -1,9 +1,9 @@
 {
     "word": "фара",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>авто.</i><b/>f<stress>a</stress>ra; <b>~ы ближнего (дальнего) света</b> yaqınnı (uzaqnı) köstergen faralar",
+            "text": "fara",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "проспект",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "cadde; <b>~ Вернадского</b> Vern<stress>a</stress>dskiy caddesi",
+            "text": "cadde",
             "accent_pos": null
         }
     ]

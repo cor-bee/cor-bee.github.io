@@ -1,9 +1,9 @@
 {
     "word": "акцент",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "aktsent; aytılış, telâffuz (<i>произношение, выговор</i>); <b>у меня есть ~?</b> aktsentim b<stress>a</stress>rmı?; <b>он говорит с турецким ~ом</b> o, türk aytılış<stress>ı</stress>nen (<i>или</i> telâffuz<stress>ı</stress>nen) laf ete; <b>узнать по ~у</b> aytılışından tanımaq",
+            "text": "aktsent",
             "accent_pos": null
         }
     ]

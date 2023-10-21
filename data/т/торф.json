@@ -1,9 +1,9 @@
 {
     "word": "торф",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "torf; <b>залежи ~а</b> torf yataqları; <b>добыча ~а</b> torf(nıñ) çıqarıluvı, torf çıqaruv",
+            "text": "torf",
             "accent_pos": null
         }
     ]

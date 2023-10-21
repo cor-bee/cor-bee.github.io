@@ -1,9 +1,9 @@
 {
     "word": "сон",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. yuqu, tüş; <b>короткий ~</b> çırım; <b>глубокий ~</b> teren yuqu; <b>крепкий ~</b> qattı yuqu; <b>сладкий ~</b> tatlı yuqu; <b>прерывать ~</b> yuqu bölmek; <b>у него пропал ~</b> yuqusı qaçtı; 2. (<i>сновидение</i>) tüş, ruya; <b>тяжёлый ~</b> ağır tüş; <b>вещий ~</b> kelecegini köstergen tüş; <i>рел.</i> muqadderatnı keşif etken tüş; <b>видеть ~</b> tüş körmek ◊<b>со сна</b> yuqu sersemlig<stress>i</stress>nen; <b>Назим ничего не мог понять со сна</b> Nazim yuqu sersemlig<stress>i</stress>nen bir şey añlap ol<stress>a</stress>may edi; <b>отойти ко сну</b> yuqlamağa yatmaq; <b>приятного сна!</b> geceler hayır!, yahşı tüşler kör!; <b>как свозь ~</b> (<i>помнить, видеть и т.п.</i>) tüş kibi; <b>спать вечным сном</b> közüni ebediy yummaq",
+            "text": "yuqu",
             "accent_pos": null
         }
     ]

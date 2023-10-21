@@ -1,9 +1,9 @@
 {
     "word": "символ",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. timsal [-ль], s<stress>i</stress>mvol; <b>стать ~ом победы</b> ğalebeniñ timsali olmaq; 2. (<i>буква, цифра, знак препинания</i>) işaret; <b>пароль должен состоять минимум из шести ~ов</b> parol eñ azından altı işaretten ibaret olmalı",
+            "text": "simvol",
             "accent_pos": null
         }
     ]

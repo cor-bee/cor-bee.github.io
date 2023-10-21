@@ -1,9 +1,9 @@
 {
     "word": "резервуар",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "rezervuar; <b>~ для воды</b> suv rezervuarı",
+            "text": "rezervuar",
             "accent_pos": null
         }
     ]

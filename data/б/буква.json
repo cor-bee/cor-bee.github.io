@@ -1,9 +1,9 @@
 {
     "word": "буква",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "arif (-rfi); <b>прописная ~а</b> büyük arif; <b>строчная ~а</b> kiçik arif; <b>по ~ам</b> arif-arif ◊<b>~а в ~у</b> arfi-arfine; <b>по ~е закона</b> qanunnıñ arfine uyğun olaraq",
+            "text": "arif",
             "accent_pos": null
         }
     ]

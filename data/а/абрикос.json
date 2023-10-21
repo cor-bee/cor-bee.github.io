@@ -1,9 +1,9 @@
 {
     "word": "абрикос",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>бот.</i> qaysı; <b>косточка ~а</b> qaysı(nıñ) çegirdegi; <b>дикий ~</b> zerdali",
+            "text": "qaysı; zerdali (дикий)",
             "accent_pos": null
         }
     ]

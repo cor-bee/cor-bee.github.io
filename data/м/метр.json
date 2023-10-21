@@ -1,9 +1,9 @@
 {
     "word": "метр",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "metr; <b>квадратный ~</b> metr kvadrat; <b>кубический ~</b> metr kub; <b>длина три ~а</b> uzunlığı üç metr; <b>длиной два ~а</b> uzunlığı eki metr olğan; <b>10 ~ов в секунду</b> saniyede 10 metr",
+            "text": "metr",
             "accent_pos": null
         }
     ]

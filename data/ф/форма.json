@@ -1,9 +1,9 @@
 {
     "word": "форма",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. şekil (-kli), piçim; <b>в ~е шара</b> kürre şeklinde; <b>придать ~у</b> şekil bermek; <b>принять ~у чего-либо</b> bir şeyniñ şeklini almaq; 2. şekil (-kli); <b>~ы работы</b> iş şekilleri; <b>~а государственного правления</b> akimiyet şekli; 3. (<i>одежда</i>) f<stress>o</stress>rma; urba, kiyim; <b>военная ~а</b> arbiy urba; 4.<i>лингв.</i> şekil (-kli); <b>~ы слова</b> sözlerniñ şekilleri; 5.<i>тех.</i> qalıp; <b>литейная ~а</b> tökmeci qalıbı; 6. f<stress>o</stress>rma; <b>заполнить ~у</b> formanı toldurmaq",
+            "text": "şekil",
             "accent_pos": null
         }
     ]

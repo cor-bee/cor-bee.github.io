@@ -1,9 +1,9 @@
 {
     "word": "бюро",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "büro; <b>справочное ~</b> malümat bürosı; <b>конструкторское ~</b> konstruktor(lar) bürosı",
+            "text": "büro",
             "accent_pos": null
         }
     ]

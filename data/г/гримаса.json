@@ -1,9 +1,9 @@
 {
     "word": "гримаса",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "yüz bürüştirm<stress>e</stress>, yüz ekşitm<stress>e</stress>, grim<stress>a</stress>sa; <b>презрительная ~</b> aşalayıcı yüz bürüştirm<stress>e</stress>",
+            "text": "yüz ekşitme",
             "accent_pos": null
         }
     ]

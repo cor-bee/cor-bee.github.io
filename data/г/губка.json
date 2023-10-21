@@ -1,9 +1,9 @@
 {
     "word": "губка",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "sünger; <b>вытирать классную доску ~ой</b> sınıf tahtasını süng<stress>e</stress>rnen sürtmek (<i>или</i> silmek)",
+            "text": "sünger",
             "accent_pos": null
         }
     ]

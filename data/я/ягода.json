@@ -1,9 +1,9 @@
 {
     "word": "ягода",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "yemiş, yer yemiş(i), bürtük yemiş; <b>~а шиповника</b> itburun ◊<b>одного поля ~ы</b> bir yuvanıñ quşu; <b>он нашего поля ~а</b> bu erif bizlerden (<i>или</i> bizim köylü, bizim taraflı, bizim yaqlı)",
+            "text": "bürtük yemiş; yer yemişi",
             "accent_pos": null
         }
     ]

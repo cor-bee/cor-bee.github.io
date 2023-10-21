@@ -1,9 +1,9 @@
 {
     "word": "секрет",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. sır; <b>держать в ~е</b> sır saqlamaq, gizli (<i>или</i> gizlep) tutmaq; 2.:<b>замок с ~ом</b> gizli cihazlı kilit",
+            "text": "sır",
             "accent_pos": null
         }
     ]

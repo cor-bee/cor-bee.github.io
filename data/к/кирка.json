@@ -1,9 +1,9 @@
 {
     "word": "кирка",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "qazm<stress>a</stress>; <b>работать ~ой</b> qazm<stress>a</stress>nen işlemek",
+            "text": "qazma",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "запуск",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>в работу</i>) işletüv, işletm<stress>e</stress>, areketke ketirüv (<i>или</i> ketirm<stress>e</stress>); işletilüv, işletilm<stress>e</stress>, areketke ketirilüv (<i>или</i> ketirilm<stress>e</stress>); <b>~ конвейера</b> konveyerni areketke ketirüv, konveyerniñ areketke ketirilüvi; <b>для ~а механизма</b> mehanizmni işletmek içün; 2. (<i>в полёт</i>) uçurıp yiberüv (<i>или</i> yiberm<stress>e</stress>), uçuruv, uçurm<stress>a</stress>; uçurılıp yiberilüv (<i>или</i> yiberilme), uçurıluv, uçurılm<stress>a</stress>; <b>~ космического корабля</b> k<stress>o</stress>smos gemisiniñ uçurıluvı (<i>или</i> uçurılıp yiberilüvi)",
+            "text": "yiberüv, uçuruv",
             "accent_pos": null
         }
     ]

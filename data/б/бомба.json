@@ -1,9 +1,9 @@
 {
     "word": "бомба",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "b<stress>o</stress>mba; <b>атомная ~</b> atom bombası",
+            "text": "bomba",
             "accent_pos": null
         }
     ]

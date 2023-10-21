@@ -1,9 +1,9 @@
 {
     "word": "резерв",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "yedek, rezerv, ihtiyat; <b>создавать ~</b> yedek (<i>или</i> rezerv) yapmaq, yedeklemek; <b>продовольственные ~ы</b> azıq (<i>или</i> erzaq, aşayt) yedekleri",
+            "text": "ihtiyat",
             "accent_pos": null
         }
     ]

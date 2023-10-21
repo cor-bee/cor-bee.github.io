@@ -1,9 +1,9 @@
 {
     "word": "земля",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>планета</i>) Yer, Dünya, Zemin; <b>Луна – спутник ~ли</b> Ay – Yerniñ (<i>или</i> Dünyanıñ) yoldaş<stress>ı</stress>(dır); 2. (<i>суша</i>) yer, qara; <b>с корабля увидели ~лю</b> gemiden qaranı körd<stress>i</stress>ler; <b>поверхность ~ли</b> yer yüzü, yer üstü; 3. (<i>почва</i>) yer, zemin; topraq; <b>вспаханная ~ля</b> sürülgen topraq (<i>или</i> yer); <b>~ли сельскохозяйственного назначения</b> çiftçilik topraqları; <b>~ли государственного запаса</b> devlet yedek topraqları; 4. (<i>страна</i>) ülke, yurt, el, memleket; <b>родная ~ля</b> ana vatan, baba-dede toprağı; 5. (<i>свет</i>) dünya; <b>на ~ле</b> (<i>на свете</i>) dünyada, yer yüzünde, alemde; <b>за тридевять ~ель</b> dünyanıñ çetinde (<i>или</i> çetine) ◊<b>сравнять с ~лёй</b> y<stress>e</stress>rnen tegizlep taşlamaq, y<stress>e</stress>rnen yeksan etmek",
+            "text": "1.yer, topraq, zemin; 2. Zemin (планета Земля)",
             "accent_pos": null
         }
     ]

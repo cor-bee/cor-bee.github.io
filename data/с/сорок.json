@@ -1,9 +1,9 @@
 {
     "word": "сорок",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "qırq; <b>у него ~ овец</b> onıñ qırq qoyu bar; <b>~ дней</b> qırq kün; <b>ему ~ пять лет</b> о, qırq beş yaşında; <b>ей исполнилось ~ лет</b> о, qırq yaşını toldurdı; <b>ему за ~</b> onıñ yaşı qırqnı keçe; <b>дать по ~ гривен</b> qırqar gr<stress>i</stress>vna bermek",
+            "text": "qırq",
             "accent_pos": null
         }
     ]

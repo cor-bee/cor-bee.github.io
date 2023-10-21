@@ -1,9 +1,9 @@
 {
     "word": "буфер",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>тех.</i>,<i>комп.</i> b<stress>u</stress>fer; <b>~ обмена</b> <i>комп.</i> deñişüv buferi",
+            "text": "bufer",
             "accent_pos": null
         }
     ]

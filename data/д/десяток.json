@@ -1,9 +1,9 @@
 {
     "word": "десяток",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "onluq, on dane; <b>~ки</b> onlar; <b>~ками</b> onar, onl<stress>a</stress>rnen, onl<stress>a</stress>rca",
+            "text": "onluq",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "листок",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. yapraq, yapraçıq; 2. (<i>документ</i>) kâğıt, varaqa; <b>личный ~ по учёту кадров</b> kadrlarnı esapqa aluv şahsiy varaqası",
+            "text": "yapraçıq",
             "accent_pos": null
         }
     ]

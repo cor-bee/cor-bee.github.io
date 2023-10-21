@@ -1,9 +1,9 @@
 {
     "word": "верх",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>верхняя часть</i>) üst, töpe, yuqarı; <b>~ горы</b> dağ(nıñ) töpesi; <b>с ~ом</b> töpeli; 2. (<i>высшая степень</i>) soñ derece; <b>~ безумия</b> delilikniñ üst perdesi (<i>или</i> soñ derecesi); <b>~ совершенства</b> mükemmellikniñ soñ dercesi; <b>~ мастерства</b> üstün ustalıq; <b>~ неприличия</b> edepsizlikniñ soñ derecesi; <b>он на ~у славы</b> şüretniñ (<i>или</i> şan-şüretniñ) yuqarısına irişti ◊<b>одержать ~ над кем-либо</b> birine üstün kelmek; birini yeñmek; <b>быть на ~у блаженства</b> soñ derece memnün olmaq",
+            "text": "üstü; töpesi",
             "accent_pos": null
         }
     ]

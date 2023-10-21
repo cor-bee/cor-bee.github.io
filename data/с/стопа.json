@@ -1,17 +1,9 @@
 {
     "word": "стопа",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>анат.</i> ayaq ◊<b>идти по чьим-либо ~ам</b> biriniñ izinden ketmek; <b>я понял желание сына идти по моим ~ам</b> oğlum menim izimden ketmege istegenini añladım",
-            "accent_pos": null
-        },
-        {
-            "text": "<i>лит.</i> turaq",
-            "accent_pos": null
-        },
-        {
-            "text": "(<i>бумаги</i>) top",
+            "text": "qadem",
             "accent_pos": null
         }
     ]

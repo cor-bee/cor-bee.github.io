@@ -1,9 +1,9 @@
 {
     "word": "фасад",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "fasad, qarçığa, evniñ ögü (<i>или</i> ög tarafı); <b>дом стоит ~ом на площадь</b> evniñ ögü meydanğa baqa (<i>или</i> baqıp tura)",
+            "text": "binanıñ ög tarafı",
             "accent_pos": null
         }
     ]

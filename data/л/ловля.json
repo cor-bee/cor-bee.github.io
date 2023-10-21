@@ -1,9 +1,9 @@
 {
     "word": "ловля",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "av, tutuv, tutm<stress>a</stress>; <b>рыбная ~</b> balıq avı, balıq tutuv",
+            "text": "tutuv",
             "accent_pos": null
         }
     ]

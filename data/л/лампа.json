@@ -1,9 +1,9 @@
 {
     "word": "лампа",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "l<stress>a</stress>mpa, lampat, qandil; <b>~ накаливания</b> qızuv lampası; <b>настольная ~</b> masa lampası; <b>электрическая ~</b> elektr<stress>i</stress>k lampası",
+            "text": "lampat",
             "accent_pos": null
         }
     ]

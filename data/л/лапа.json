@@ -1,9 +1,9 @@
 {
     "word": "лапа",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "panca; ayaq (<i>нога</i>); <b>гусиная ~а</b> qaz ayağı ◊<b>попасть в ~ы к кому-либо</b> biriniñ pancasına (<i>или</i> qoluna) tüşmek; <b>быть (оказаться) в ~ах у кого-либо</b> biriniñ pancasında olmaq",
+            "text": "panca",
             "accent_pos": null
         }
     ]

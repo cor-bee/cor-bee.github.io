@@ -1,9 +1,9 @@
 {
     "word": "слон",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1.<i>зоол.</i> fil; <b>африканский ~</b> <i>A</i>frika fili; 2.<i>шахм.</i> fil; <b>пойти ~ом</b> f<stress>i</stress>lnen yürmek",
+            "text": "fil",
             "accent_pos": null
         }
     ]

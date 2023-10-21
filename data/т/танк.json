@@ -1,9 +1,9 @@
 {
     "word": "танк",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "tank; <b>тяжёлый (лёгкий) ~</b> ağır (yengil) tank",
+            "text": "tank",
             "accent_pos": null
         }
     ]

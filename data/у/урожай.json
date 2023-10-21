@@ -1,9 +1,9 @@
 {
     "word": "урожай",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "bereket, mahsul; <b>богатый ~</b> bol bereket; <b>убирать ~</b> bereket(ni) cıymaq",
+            "text": "bereket",
             "accent_pos": null
         }
     ]

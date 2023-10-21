@@ -1,9 +1,9 @@
 {
     "word": "термос",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "t<stress>e</stress>rmos; <b>налить чай в ~</b> çaynı termosqa qoymaq",
+            "text": "termos",
             "accent_pos": null
         }
     ]

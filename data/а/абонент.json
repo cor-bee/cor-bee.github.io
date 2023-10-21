@@ -1,9 +1,9 @@
 {
     "word": "абонент",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "abonent; <b>~ телефонной сети</b> telefon ağınıñ abonenti",
+            "text": "abonent",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "кодекс",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "qanunname, k<stress>o</stress>deks (<i>свод законов</i>); mecelle (<i>собрник</i>); <b>уголовный ~</b> ceza qanunnamesi; <b>уголовно-процессуальный ~</b> ceza ve usul qanunnamesi; <b>~ об административных правонарушениях</b> memuriy uquq bozuvlar qanunnamesi; <b>налоговый ~</b> bergi qanunnamesi; <b>земельный ~</b> topraq qanunnamesi; <b>~ законов о труде</b> emek qanunnamesi",
+            "text": "qanunname (зведення законів)",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "пушинка",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "puf (<i>или</i> ulpaq) danesi, pufçıq, ulpaçıq; <b>~ одуванчика</b> mamateke yepelegi, yepelek; <b>снежная ~</b> qar pufçığı (<i>или</i> daneçigi)",
+            "text": "ulpaçıq",
             "accent_pos": null
         }
     ]

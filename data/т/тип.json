@@ -1,9 +1,9 @@
 {
     "word": "тип",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>разновидность</i>) çeşit, tür; <b>~ данных</b> <i>комп.</i> malümat çeşiti (<i>или</i> türü); <b>~ файла</b> <i>комп.</i> fayl çeşiti (<i>или</i> türü); <b>самолёт нового ~а</b> uçaqnıñ yañı çeşiti (<i>или</i> türü); 2. (<i>лит.</i>) tip; <b>художественный ~</b> bediiy tip; 3. (<i>биол.</i>) cınıs (-nsı); 4. (<i>о человеке</i>) erif; <b>какой-то странный ~</b> n<stress>a</stress>sıldır bir hucur erif",
+            "text": "1. tip, çeşit (вид); 2. erif (хлопець)",
             "accent_pos": null
         }
     ]

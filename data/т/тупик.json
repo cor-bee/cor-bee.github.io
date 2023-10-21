@@ -1,9 +1,9 @@
 {
     "word": "тупик",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>улица</i>) çıqmaz soqaq; 2. (<i>железнодорожный</i>) kör hat (-ttı); <b>поезд стоит в ~е</b> tren kör hatt<stress>a</stress>dır; 3. çıqmaz, qıyın (<i>или</i> küç) vaziyet (<i>или</i> al); <b>найти выход из ~а</b> çıqmazdan bir çıqış yolunı tapmaq; <b>выйти из ~а</b> çıqmazdan qurtulmaq; <b>поставить кого-либо в ~</b> birini şaşırtmaq",
+            "text": "çıqmaz soqaq",
             "accent_pos": null
         }
     ]

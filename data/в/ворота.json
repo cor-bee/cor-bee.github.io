@@ -1,9 +1,9 @@
 {
     "word": "ворота",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "qapı, araba qapı; <b>футбольные ~</b> futbol qapısı; <b>крепостные ~</b> qale qapısı",
+            "text": "araba qapı",
             "accent_pos": null
         }
     ]

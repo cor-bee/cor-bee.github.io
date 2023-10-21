@@ -1,9 +1,9 @@
 {
     "word": "шахта",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ş<stress>a</stress>htа, ocaq; <b>угольная ~</b> kömür ocağı (<i>или</i> şahtası)",
+            "text": "ocaq, tütkel, maden quyusı, maden ocağı",
             "accent_pos": null
         }
     ]

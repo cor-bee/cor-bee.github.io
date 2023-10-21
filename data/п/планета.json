@@ -1,9 +1,9 @@
 {
     "word": "планета",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "seyyare; <b>большие и малые ~ы</b> büyük ve kiçik seyyareler",
+            "text": "seyyare",
             "accent_pos": null
         }
     ]

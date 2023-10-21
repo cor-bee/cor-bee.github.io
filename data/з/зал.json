@@ -1,9 +1,9 @@
 {
     "word": "зал",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "zal; <b>спортивный ~</b> sport zalı; <b>актовый ~</b> toplaşuvlar (<i>или</i> meclisler) zalı; <b>~ суда</b> makeme zalı",
+            "text": "zal",
             "accent_pos": null
         }
     ]

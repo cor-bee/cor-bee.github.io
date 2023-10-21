@@ -1,9 +1,9 @@
 {
     "word": "звук",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "davuş, ses, seda; <b>~ скрипки</b> kemane sesi; <b>~ выстрела</b> atış davuşı; 2.<i>лингв.</i> ses; <b>гласные ~и</b> sozuq sesler ◊<b>ни ~а</b> ses-soluq yoq, ses-seda ç<stress>ı</stress>qmay, ç<stress>ı</stress>m-çırt, t<stress>ı</stress>m-tırış",
+            "text": "davuş",
             "accent_pos": null
         }
     ]

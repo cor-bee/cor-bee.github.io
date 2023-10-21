@@ -1,9 +1,9 @@
 {
     "word": "неволя",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "esaret, esirlik; <b>жить в ~е</b> esirlikte yaşamaq",
+            "text": "esaret, esirlik",
             "accent_pos": null
         }
     ]

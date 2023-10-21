@@ -1,9 +1,9 @@
 {
     "word": "душ",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "duş; <b>принимать ~</b> duştа yuvunmaq, duş yapmaq; <b>принять ~</b> duştа yuvunıp çıqmaq, duşqa kirip çıqmaq",
+            "text": "duş",
             "accent_pos": null
         }
     ]

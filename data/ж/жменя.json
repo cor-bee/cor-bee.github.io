@@ -1,9 +1,9 @@
 {
     "word": "жменя",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "avuç; <b>~ соли</b> bir avuç tuz",
+            "text": "avuç",
             "accent_pos": null
         }
     ]

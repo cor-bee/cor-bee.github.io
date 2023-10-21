@@ -1,9 +1,9 @@
 {
     "word": "каштан",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>бот.</i> kestane; <b>сладкий ~</b> şahbamate",
+            "text": "kestan",
             "accent_pos": null
         }
     ]

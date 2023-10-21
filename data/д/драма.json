@@ -1,9 +1,9 @@
 {
     "word": "драма",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>трагедия</i>) facia; 2.<i>театр.</i> dr<stress>a</stress>ma; <b>музыкальная ~</b> muzıkalı dr<stress>a</stress>ma",
+            "text": "drama",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "жук",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>зоол.</i> qoñuz; vızvız; <b>навозный ~</b> kübre qoñuzı (<i>или</i> böcegi); <b>майский ~</b> mayıs böcegi (<i>или</i> qoñuzı)",
+            "text": "qonuz",
             "accent_pos": null
         }
     ]

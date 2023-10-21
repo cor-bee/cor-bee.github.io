@@ -1,9 +1,9 @@
 {
     "word": "аргумент",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. delil, argument; <b>убедительный ~</b> inandırıcı (<i>или</i> qandırıcı) delil; <b>весомый ~</b> salmaqlı delil; 2.<i>мат.</i> argument; <b>~ функции</b> funktsiyanıñ argumenti",
+            "text": "delil",
             "accent_pos": null
         }
     ]

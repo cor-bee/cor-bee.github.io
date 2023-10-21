@@ -1,9 +1,9 @@
 {
     "word": "метал",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>муз.</i> (<i>жанр рок-музыки</i>) metal; <b>хеви-~</b> ağır metal, h<stress>e</stress>vi-m<stress>e</stress>tal",
+            "text": "maden",
             "accent_pos": null
         }
     ]

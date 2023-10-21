@@ -1,9 +1,9 @@
 {
     "word": "ствол",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>дерева</i>) kevde, terek kevdesi, kütük (<i>разг.</i>); <b>~ сосны</b> çam tereginiñ kevdesi; 2. (<i>оружия, орудия</i>) namlu",
+            "text": "kevde",
             "accent_pos": null
         }
     ]

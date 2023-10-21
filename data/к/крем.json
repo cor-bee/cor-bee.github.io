@@ -1,9 +1,9 @@
 {
     "word": "крем",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "krem; <b>намазать ~ом</b> kr<stress>e</stress>mnen silmek",
+            "text": "krem",
             "accent_pos": null
         }
     ]

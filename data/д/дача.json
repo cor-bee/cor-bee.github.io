@@ -1,9 +1,9 @@
 {
     "word": "дача",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "sayfiye, d<stress>a</stress>ça, yazlıq ev; <b>отдыхать на ~е</b> sayfiyede (<i>или</i> daçada) raatlanmaq",
+            "text": "daça",
             "accent_pos": null
         }
     ]

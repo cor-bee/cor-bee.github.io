@@ -1,9 +1,9 @@
 {
     "word": "спектакль",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "spektakl [-ль]; <b>~ крымскотатарского театра</b> qırımtatar teatriniñ spektakli",
+            "text": "oyun",
             "accent_pos": null
         }
     ]

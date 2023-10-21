@@ -1,9 +1,9 @@
 {
     "word": "спирт",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "spirt; <b>древесный ~</b> ağaç spirti; <b>винный ~</b> şarap spirti",
+            "text": "spirt",
             "accent_pos": null
         }
     ]

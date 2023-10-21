@@ -1,9 +1,9 @@
 {
     "word": "почерк",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. yazı; <b>красивый ~</b> dülber yazı; <b>неразборчивый ~</b> oqu(l)ması küç olğan yazı; 2. (<i>стиль</i>) icadiy üslüp; <b>~ художника</b> ressamnıñ icadiy üslübi",
+            "text": "yazı",
             "accent_pos": null
         }
     ]

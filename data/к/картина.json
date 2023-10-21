@@ -1,9 +1,9 @@
 {
     "word": "картина",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. resim (-smi); <b>~а известного художника</b> belli ressamnıñ yapqan resmi; 2. (<i>вид</i>) manzara, körüniş; <b>~а гор</b> dağlar(nıñ) manzarası; 3.<i>театр.</i> levha; <b>пьеса в пяти действиях и семи ~ах</b> beş perdeli ve yedi levhalı pesa",
+            "text": "resim",
             "accent_pos": null
         }
     ]

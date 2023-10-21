@@ -1,9 +1,9 @@
 {
     "word": "сова",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>зоол.</i> bayquş, miyavquş; <b>лесная ~</b> yayla horazı",
+            "text": "bayquş",
             "accent_pos": null
         }
     ]

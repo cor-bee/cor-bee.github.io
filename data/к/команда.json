@@ -1,9 +1,9 @@
 {
     "word": "команда",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>приказ</i>) emir (-mri), buyruq; <b>дать ~у</b> emir bermek; 2. (<i>командование</i>) komandanlıq, komandanlıq etüv (<i>или</i> etm<stress>e</stress>); <b>под ~ой офицера</b> zabitniñ (<i>или</i> ofitserniñ) komandanlığı astında; 3. (<i>отряд</i>) taqım, kom<stress>a</stress>nda; <b>спортивная ~а</b> sport taqımı; <b>сборная ~а по футболу</b> futbol cıym<stress>a</stress> taqımı",
+            "text": "komanda",
             "accent_pos": null
         }
     ]

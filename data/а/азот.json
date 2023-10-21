@@ -1,9 +1,9 @@
 {
     "word": "азот",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "azot; <b>атмосферный ~</b> avadaki azot, ava azotı",
+            "text": "azot",
             "accent_pos": null
         }
     ]

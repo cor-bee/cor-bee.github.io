@@ -1,9 +1,9 @@
 {
     "word": "татарин",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "tatar; <b>~ы Поволжья</b> Edil boyu tatarları; <b>казанские ~ы</b> Qazan tatarları; <b>крымский ~ин</b> qırımtatar; <b>крымские ~ы</b> qırımtatarlar",
+            "text": "tatar",
             "accent_pos": null
         }
     ]

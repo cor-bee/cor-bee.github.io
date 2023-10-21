@@ -1,13 +1,9 @@
 {
     "word": "плата",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>гонорар за труд, услугу</i>) maaş, ücret, aq (-qqı), alğı; <b>заработная ~а</b> maaş, aylıq, iş aqqı; 2. ücret, para, aqça; <b>~а за проезд</b> (<i>в транспорте</i>) yol ücreti; <b>~а за билет</b> bilet ücreti; <b>~а за коммунальные услуги</b> kommunal hızmetler ücreti; <b>входная ~а</b> kiriş ücreti (<i>или</i> parası, aqçası); <b>за небольшую ~у</b> ufaq bir para (<i>или</i> aqça) içün; <b>внести ~у за электричество</b> elektr<stress>i</stress>k ücretini ödemek",
-            "accent_pos": null
-        },
-        {
-            "text": "<i>тех.</i> pl<stress>a</stress>ta; <b>материнская ~</b> ana platası; <b>звуковая ~</b> davuş (<i>или</i> ses) platası",
+            "text": "ücret, ödeme, aq",
             "accent_pos": null
         }
     ]

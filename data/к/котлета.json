@@ -1,9 +1,9 @@
 {
     "word": "котлета",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "kotlet; <b>мясные и картофельные ~ы</b> et ve qartop kotletleri",
+            "text": "kotlet",
             "accent_pos": null
         }
     ]

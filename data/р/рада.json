@@ -1,9 +1,9 @@
 {
     "word": "рада",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>парламент в Украине</i>) r<stress>a</stress>da, şura; <b>Верховная ~</b> Yuqarı R<stress>a</stress>da, Yuqarı Şura; 2.<i>см.</i><b>рад</b> ",
+            "text": "şura; Рада Безпеки – Telükesizlik Şurası, Рада Міністрів – Nazirler Şurası",
             "accent_pos": null
         }
     ]

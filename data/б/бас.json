@@ -1,9 +1,9 @@
 {
     "word": "бас",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "bas; <b>говорить ~ом</b> b<stress>a</stress>snen (<i>или</i> qalın s<stress>e</stress>snen) aytmaq",
+            "text": "bas",
             "accent_pos": null
         }
     ]

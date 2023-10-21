@@ -1,9 +1,9 @@
 {
     "word": "барабан",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>большой</i>) davul; (<i>малый</i>) trampete; (<i>тамбурин</i>) dümbelek; <b>бить в ~</b> davul çalmaq; 2.<i>тех.</i> çarh; <b>тормозной ~</b> çana çarhı",
+            "text": "davul, trampete, dümbelek",
             "accent_pos": null
         }
     ]

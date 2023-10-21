@@ -1,9 +1,9 @@
 {
     "word": "медицина",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "tibbiyet, tip (-bbi); <b>народная ~</b> halq tibbiyeti; <b>~ здесь бессильна</b> bu yerde tibbiyet çaresiz (<i>или</i> fayda bermez)",
+            "text": "tip, tibbiyet",
             "accent_pos": null
         }
     ]

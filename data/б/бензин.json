@@ -1,9 +1,9 @@
 {
     "word": "бензин",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "benzin; <b>залить ~ в машину</b> maşnağa benzin qoymaq; <b>машина, работающая на ~е</b> benzinli maşna",
+            "text": "benzin",
             "accent_pos": null
         }
     ]

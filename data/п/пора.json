@@ -1,14 +1,10 @@
 {
     "word": "пора",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>время</i>) vaqıt (-qtı), maal [-ль], zaman, çağ, devir (-vri); <b>утренняя (вечерняя) ~а</b> saba (aqşam) vaqtı; 2. (<i>сезон</i>) mevsim; <b>летняя ~а</b> yaz mevsimi; 3.<i>в сказ.</i> vaqtı keldi, zamanı keldi; <b>~а в школу</b> mektepke ketmek vaqtı keldi ◊<b>до сих ~</b> а) (<i>до настоящего времени</i>)<stress>a</stress>lâ daа; <b>до сих ~ дома его ждут</b> evde onı<stress>a</stress>lâ daа bekleyler; б) (<i>до этого места</i>) bu yerg<stress>e</stress>ce (<i>или</i> yerim<stress>e</stress>ce, yeriñ<stress>e</stress>ce, yerin<stress>e</stress>ce); <b>озеро неглубокое, вода там мне до сих ~</b> göl teren degil, suv bu yerim<stress>e</stress>ce kele; <b>я прочитал книгу до сих ~</b> men kitapnı bu yerin<stress>e</stress>ce oqudım; <b>до тех ~</b> о vaqıtq<stress>a</stress>ce, о zamanğ<stress>a</stress>ce, şu vaqıtq<stress>a</stress>ce, şu zamanğ<stress>a</stress>ce; <b>до ~ы до времени</b> belli bir vaqıtq<stress>a</stress>ce (<i>или</i> vaqıtqa qadar); <b>с каких ~?</b> ne vaqıttan (<i>или</i> zamandan) berli?; <b>с давних ~</b> pek eski zaman(lar)dan berli; <b>с некоторых ~</b> belli bir zamandan berli; <b>с тех ~ прошло много лет</b> aradan çoq yıl keçti; <b>на первых ~ах</b> birinci vaqıt(ları); <b>в самую ~у</b> а) (<i>по времени</i>) tamam vaqtında; б) (<i>об одежде и т.д.</i>) tamam yerinde",
-            "accent_pos": 4
-        },
-        {
-            "text": "1. közeneçik, teşiçik; <b>~ы на коже</b> teriniñ teşiçikleri (<i>или</i> közeneçikleri); <b>~ы растений</b> ösümliklerde olğan közeneçikkler",
-            "accent_pos": 2
+            "text": "1. zaman, vaqıt (час); пора року – yıl mevsimi ; 2. delik, teşiçik (порожнина)",
+            "accent_pos": null
         }
     ]
 }

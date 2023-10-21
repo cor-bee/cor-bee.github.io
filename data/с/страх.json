@@ -1,9 +1,9 @@
 {
     "word": "страх",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "qorqu; <b>со ~ом</b> qorq<stress>u</stress>nen; <b>без ~а</b> q<stress>o</stress>rqmayıp, q<stress>o</stress>rqmadan, qorqusız; <b>на меня напал ~</b> içime bir qorqu tüşti; <b>~ за жизнь</b> can derdi çeküv (<i>или</i> çekm<stress>e</stress>); <b>~ смерти</b> ölüm qorqusı; <b>из ~а перед кем-либо (чем-либо)</b> birinden (bir şeyden) qorqqanından sebep, biri (bir şey) qorqusından sebep; <b>дрожать от ~а</b> qorqudan titremek; <b>наводить на кого-либо ~</b> birine qorqu salmaq",
+            "text": "qorqu",
             "accent_pos": null
         }
     ]

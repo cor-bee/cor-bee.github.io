@@ -1,9 +1,9 @@
 {
     "word": "театр",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "teatr (-ri); <b>Крымскотатарский академический музыкально-драматический ~</b> Qırımtatar akadem<stress>i</stress>k m<stress>u</stress>zıka ve dr<stress>a</stress>ma teatri",
+            "text": "teatr",
             "accent_pos": null
         }
     ]

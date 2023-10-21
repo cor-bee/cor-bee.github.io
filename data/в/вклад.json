@@ -1,9 +1,9 @@
 {
     "word": "вклад",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>в банке</i>) emanet, salım; <b>срочный ~</b> müddetli emanet; <b>сделать</b> ~ paranı emanet etmek; 2. isse; <b>ценный ~ в науку</b> ilimge qoşulğan müim isse",
+            "text": "salım; emanet (в банку)",
             "accent_pos": null
         }
     ]

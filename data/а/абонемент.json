@@ -1,9 +1,9 @@
 {
     "word": "абонемент",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "abonement; <b>межбиблиотечный ~</b> kitaphanelerara abonementi",
+            "text": "abonement",
             "accent_pos": null
         }
     ]

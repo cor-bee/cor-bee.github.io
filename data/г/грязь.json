@@ -1,9 +1,9 @@
 {
     "word": "грязь",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. çamur; <b>валяться в ~и</b> çamur içinde yatmaq; 2. leke (<i>пятно</i>); çirkin iş; küfür (<i>или</i> ayıp) söz (<i>о высказывании</i>) ◊<b>месить ~ь</b> çamur yoğurmaq",
+            "text": "çamur",
             "accent_pos": null
         }
     ]

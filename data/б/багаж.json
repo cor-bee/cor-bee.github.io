@@ -1,9 +1,9 @@
 {
     "word": "багаж",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "bagaj; yük; <b>послать вещи ~ом</b> şeylerni bagaj etip yibermek; <b>выдача ~а</b> bagaj berilüvi (<i>или</i> berilmesi); <b>где производится выдача ~а?</b> bagaj qayda berile?",
+            "text": "bagaj, bağlanıp qoyulğan şeyler",
             "accent_pos": null
         }
     ]

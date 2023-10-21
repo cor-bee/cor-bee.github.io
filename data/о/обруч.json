@@ -1,9 +1,9 @@
 {
     "word": "обруч",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "çember, qırşav; <b>деревянный ~</b> qasnaq; <b>набивать ~ на бочку</b> çapçaqnı qırşavlamaq",
+            "text": "qırşav",
             "accent_pos": null
         }
     ]

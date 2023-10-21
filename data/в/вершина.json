@@ -1,9 +1,9 @@
 {
     "word": "вершина",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. töpe, uc; <b>~а горы</b> dağ başı (<i>или</i> töpesi); <b>на самой ~е</b> eñ töpesinde; <b>взятая (покорённая) ~а</b> <i>спорт.</i> töpesine çıqılğan dağ (<i>или</i> bayır); 2. eñ yüksek derece; <b>~а славы</b> şüretniñ eñ yüksek derecesi; 3.<i>мат.</i> töpe, uc; <b>~а треугольника</b> üçköşelikniñ töpesi; <b>~а угла</b> köşeniñ ucu",
+            "text": "töpe; dağ başı",
             "accent_pos": null
         }
     ]

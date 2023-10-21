@@ -1,9 +1,9 @@
 {
     "word": "футляр",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "zarf, qap; qutu (<i>коробка</i>); <b>~ для скрипки</b> kemane qutusı; <b>~ для очков</b> közlük qutusı",
+            "text": "qap",
             "accent_pos": null
         }
     ]

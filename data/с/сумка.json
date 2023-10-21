@@ -1,9 +1,9 @@
 {
     "word": "сумка",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "çantа, torba; <b>школьная ~</b> mektep çantası; <b>санитарная ~</b> sanitar çantası",
+            "text": "çanta",
             "accent_pos": null
         }
     ]

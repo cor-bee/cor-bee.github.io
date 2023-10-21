@@ -1,9 +1,9 @@
 {
     "word": "фанера",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "fan<stress>e</stress>ra (<i>разг.</i> faner); <b>обшивка ~ой</b> fan<stress>e</stress>ranen qaplav; <b>трёхслойная ~</b> üç qat(lam)lı fan<stress>e</stress>ra",
+            "text": "faner",
             "accent_pos": null
         }
     ]

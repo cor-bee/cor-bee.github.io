@@ -1,9 +1,9 @@
 {
     "word": "курсант",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "kursant; <b>~ училища</b> oquv yurtunıñ kursantı",
+            "text": "kursant",
             "accent_pos": null
         }
     ]

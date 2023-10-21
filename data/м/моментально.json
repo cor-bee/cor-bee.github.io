@@ -1,9 +1,9 @@
 {
     "word": "моментально",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "birden, bir ande, der-demez, а deg<stress>e</stress>nce, lav, yıldırım tezlig<stress>i</stress>nen, calp etip; <b>~ вспыхнул огонь</b> bir ande (<i>или</i> lav etip) ateş yandı",
+            "text": "bir anda",
             "accent_pos": null
         }
     ]

@@ -1,13 +1,9 @@
 {
     "word": "ласка",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ohşav, ohşam<stress>a</stress>; <b>ребёнок нуждается в ~е</b> bala ohşalmağa istey",
-            "accent_pos": null
-        },
-        {
-            "text": "<i>зоол.</i> (<i>животное</i>) kelinçek",
+            "text": "1. ohşav; 2. kelinçek (тварина); 3. iltifat, nezaket",
             "accent_pos": null
         }
     ]

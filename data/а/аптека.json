@@ -1,9 +1,9 @@
 {
     "word": "аптека",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ilâchane, aphane, eczahane, apt<stress>e</stress>ka ◊<b>как в ~е</b> pek doğru, tamam-tamam",
+            "text": "ilâchane, aphane, apteka",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "злак",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "aşlıq, başaqlı ösümlik; <b>хлебные ~и</b> başaqlı zahire ösümlikleri; <b>кормовые ~и</b> başaqlı otlar",
+            "text": "aşlıq",
             "accent_pos": null
         }
     ]

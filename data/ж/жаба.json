@@ -1,9 +1,9 @@
 {
     "word": "жаба",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>зоол.</i> qır baqası ◊<b>грудная ~</b> <i>мед.</i> köküs tarlığı, yürek sıqıluv hastalığı",
+            "text": "qır baqa(sı)",
             "accent_pos": null
         }
     ]

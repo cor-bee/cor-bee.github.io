@@ -1,9 +1,9 @@
 {
     "word": "катастрофа",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>авария</i>) qaza; <b>железнодорожная ~</b> demiryol qazası; 2. (<i>бедствие</i>) felâket, müsibet, belâ; <b>социальная ~</b> içtimaiy felâket, cemiyetniñ başına kelgen belâ",
+            "text": "felâket",
             "accent_pos": null
         }
     ]

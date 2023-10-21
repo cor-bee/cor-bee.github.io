@@ -1,9 +1,9 @@
 {
     "word": "урок",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ders; <b>~ литературы</b> edebiyat dersi; <b>поучительный ~</b> ibret dersi; <b>брать ~и</b> aqça (<i>или</i> para) berip ders almaq; <b>давать ~и</b> ders bermek ◊<b>дать ~ кому-либо</b> birine ders bermek, biriniñ aqlını (başına) ketirmek",
+            "text": "ders",
             "accent_pos": null
         }
     ]

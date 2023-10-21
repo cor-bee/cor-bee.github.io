@@ -1,9 +1,9 @@
 {
     "word": "семафор",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "semafor; <b>~ открыт</b> semafor açıq",
+            "text": "semafor",
             "accent_pos": null
         }
     ]

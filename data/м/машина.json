@@ -1,9 +1,9 @@
 {
     "word": "машина",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "maşn<stress>a</stress>; <b>стиральная ~</b> yuvucı maşn<stress>a</stress>, çamaşır maşnası",
+            "text": "maşina",
             "accent_pos": null
         }
     ]

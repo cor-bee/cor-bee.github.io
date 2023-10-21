@@ -1,9 +1,9 @@
 {
     "word": "сеанс",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "seans, oturış; <b>дневной ~ в кино</b> kinonıñ kündüzki seansı",
+            "text": "seans",
             "accent_pos": null
         }
     ]

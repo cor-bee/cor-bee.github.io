@@ -1,9 +1,9 @@
 {
     "word": "магазин",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "tükân, mağaza (<i>уст.</i>); <b>продовольственный ~</b> erzaq tükânı",
+            "text": "tükân",
             "accent_pos": null
         }
     ]

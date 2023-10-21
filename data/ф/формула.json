@@ -1,9 +1,9 @@
 {
     "word": "формула",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "f<stress>o</stress>rmula; şartlı ifade; <b>~а воды</b> suv formulası; <b>алгебраическая ~а</b> algebra<stress>i</stress>k f<stress>o</stress>rmula; <b>~ы понижения степени</b> dereceni eksiltm<stress>e</stress> formulaları",
+            "text": "formula",
             "accent_pos": null
         }
     ]

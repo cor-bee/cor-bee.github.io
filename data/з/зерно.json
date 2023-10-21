@@ -1,9 +1,9 @@
 {
     "word": "зерно",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>единичное</i>) dane, bürtük; <b>~ пшеницы</b> boğday danesi; <b>жемчужное ~</b> inci danesi; 2. (<i>семя</i>) urluq; 3. (<i>хлеб</i>) aşlıq, zahire; 4. çegirdek, urluq; zerre (<i>крупица</i>) ◊<b>~ истины</b> aqiqat urluğı",
+            "text": "aşlıq, zahire",
             "accent_pos": null
         }
     ]

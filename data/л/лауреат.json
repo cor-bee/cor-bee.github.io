@@ -1,9 +1,9 @@
 {
     "word": "лауреат",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "laureat; <b>~ Нобелевской премии</b> N<stress>o</stress>bel mukâfatınıñ laureatı",
+            "text": "laureat",
             "accent_pos": null
         }
     ]

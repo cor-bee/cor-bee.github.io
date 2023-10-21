@@ -1,9 +1,9 @@
 {
     "word": "фунт",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>единица массы</i>) funt; 2. (<i>денежная единица</i>) funt; <b>британский ~</b> Brit<stress>a</stress>niya funtu<b>◊ это (тебе, вам, им) не ~ изюму</b> bu (saña, sizge, olarğa) şaqa (<i>или</i> oyuncaq) degil; <b>понять</b> (<i>или</i><b>узнать) почём ~ лиха</b> dünyanıñ qaç bucaq ekenini añlamaq (<i>или</i> bilmek)",
+            "text": "qadaq",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "прут",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "çubuq; <b>побить ~ом</b> çub<stress>u</stress>qnen urmaq (<i>или</i> şıpırmaq), çubuqlamaq; <b>быть побитым ~ом</b> çub<stress>u</stress>qnen urulmaq (<i>или</i> şıpırılmaq), çubuqlanmaq",
+            "text": "çubuq",
             "accent_pos": null
         }
     ]

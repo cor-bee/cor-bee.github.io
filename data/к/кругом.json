@@ -1,14 +1,10 @@
 {
     "word": "кругом",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<b>у меня голова идёт ~</b> (menim) başım aylana",
-            "accent_pos": 3
-        },
-        {
-            "text": "1. (<i>вокруг</i>) etraf, etraftа, etrafında, çevre-çette; <b>~ всё тихо</b> etraf çım-çırt; <b>~ горы</b> çevre-etraf(ımız) dağlıq; 2. (<i>совсем</i>) bütünley, b<stress>ü</stress>s-bütün, er bir ceetten; <b>он ~ виноват</b> er bir ceetten özü qabaatlı, bütün qabaat özünd<stress>e</stress>(dir); 3.<i>воен.</i> (<i>команда</i>)<b>~!</b> kerige dön!; <b>повернуться ~</b> artqa çevirilmek",
-            "accent_pos": 5
+            "text": "çevre-çette",
+            "accent_pos": null
         }
     ]
 }

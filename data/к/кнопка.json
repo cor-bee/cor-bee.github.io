@@ -1,9 +1,9 @@
 {
     "word": "кнопка",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. dögm<stress>e</stress>; <b>нажать на ~у</b> dögmege basmaq; 2. (<i>застёжка</i>) dögm<stress>e</stress>; <b>застегнуть на ~и</b> dögmelemek; 3. (<i>канцелярская</i>) raptiye, kn<stress>o</stress>pka",
+            "text": "knopka",
             "accent_pos": null
         }
     ]

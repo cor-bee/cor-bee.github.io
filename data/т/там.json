@@ -1,9 +1,9 @@
 {
     "word": "там",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "anda, о yerde; <b>~ жарко</b> anda sıcaq; <b>кто ~?</b> kim bar anda?; <b>~ видно будет кто прав, а кто виноват</b> kim aqlı, kim qabaatlı – anda añlaşılır (<i>или</i> anda kör<stress>e</stress>rmiz, baq<stress>a</stress>rmız)",
+            "text": "anda",
             "accent_pos": null
         }
     ]

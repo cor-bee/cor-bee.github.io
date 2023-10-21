@@ -1,9 +1,9 @@
 {
     "word": "парта",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "rale; <b>сесть за ~у</b> rale başına oturmaq; <b>за ~ой</b> rale başında; <b>двухместная ~а</b> eki adamlıq (<i>или</i> kişilik) rale",
+            "text": "rale",
             "accent_pos": null
         }
     ]

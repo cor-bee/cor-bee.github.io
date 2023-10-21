@@ -1,9 +1,9 @@
 {
     "word": "трата",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>расход</i>) masraf, arc; <b>большие ~ы</b> büyük masraflar; 2. (<i>действие</i>) masraf (<i>или</i> sarf, arc) etüv (<i>или</i> etm<stress>e</stress>); masraf (<i>или</i> sarf, arc) etilüv (<i>или</i> etilm<stress>e</stress>); <b>~а сил</b> küç sarf etüv, küçlerniñ sarf etilüvi",
+            "text": "sarf, masraf",
             "accent_pos": null
         }
     ]

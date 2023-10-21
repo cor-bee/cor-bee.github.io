@@ -1,9 +1,9 @@
 {
     "word": "щетина",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. qıl; <b>свиная ~а</b> domuz qılı; 2.<i>разг.</i>:<b>ты уже ~ой оброс</b> saqalıñ<stress>e</stress>ndi yetken",
+            "text": "qıl",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "жаркий",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. sıcaq; <b>~ая погода</b> sıcaq ava; 2. (<i>пылкий, страстный</i>) sıcaq, qızğın, araretli; <b>~ий спор</b> qızğın dava; 3. (<i>сильный, интенсивный</i>) qızğın, şiddetli, kergin; <b>~ий бой</b> şiddetli cenk (<i>или</i> uruş)",
+            "text": "sıcaq",
             "accent_pos": null
         }
     ]

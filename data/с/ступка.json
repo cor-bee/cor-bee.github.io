@@ -1,9 +1,9 @@
 {
     "word": "ступка",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "avan; <b>чугунная ~</b> çoyun avan",
+            "text": "avan",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "коробка",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>ящик</i>) qutu; <b>~ шоколадных конфет</b> bir qutu şokolad qanfet; <b>~ спичек</b> bir qutu sernik; 2.<i>строит.</i> çerçive; <b>дверная ~</b> qapı çerçivesi ◊<b>черепная ~</b> <i>анат.</i> qafa tası; <b>~ передач (скоростей)</b> tezlikler (<i>или</i> suratlar) qutusı",
+            "text": "qutu",
             "accent_pos": null
         }
     ]

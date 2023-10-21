@@ -1,9 +1,9 @@
 {
     "word": "товар",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "mal; <b>~ы широкого потребления</b> keñ istimal malları; <b>бракованный ~</b> qusurlı mal; <b>экспортный ~</b> ihracat malı; <b>дефицитный ~</b> qıt mal; <b>производство ~ов</b> mal işlep çıqaruv (<i>или</i> istisal etüv), mallarnıñ işlenip çıqarıluvı (<i>или</i> istisal etilüvi) ◊<b>на всякий ~ – свой купец</b> <i>посл.</i> çürük baqqlanıñ soqur alıcısı olur",
+            "text": "mal",
             "accent_pos": null
         }
     ]

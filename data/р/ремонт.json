@@ -1,9 +1,9 @@
 {
     "word": "ремонт",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "tamir; tamir etüv (<i>или</i> etm<stress>e</stress>); tamir etilüv (<i>или</i> etilm<stress>e</stress>); tüzetüv, tüzetm<stress>e</stress>, oñaruv, oñarm<stress>a</stress>; tüzetilüv, tüzetilm<stress>e</stress>, oñarıluv, oñarılm<stress>a</stress> (<i>починка</i>); yamatuv, yamatm<stress>a</stress>; yamatıluv, yamatılm<stress>a</stress> (<i>латание</i>); <b>~ квартиры</b> kvart<stress>i</stress>ra tamiri, kvartiranı tamir etüv, kvartiranıñ tamir etilüvi; <b>сделать ~</b> tamir etmek, tüzetmek, oñarmaq; <b>~ одежды</b> urba(nı) yamatuv; <b>~ палатки</b> çadır yamatılması",
+            "text": "tamir, tamirlev",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "сезон",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "mevsim; <b>курортный ~</b> kurort (<i>или</i> raatlanuv) mevsimi ◊<b>бархатный ~</b> küz (mevsimi); <b>мёртвый ~</b> ölü mevsim",
+            "text": "mevsim",
             "accent_pos": null
         }
     ]

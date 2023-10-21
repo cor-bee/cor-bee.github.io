@@ -1,9 +1,9 @@
 {
     "word": "обмотка",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>физ.</i> sarğı; <b>вторичная ~</b> ekinci sarğı",
+            "text": "sarğı",
             "accent_pos": null
         }
     ]

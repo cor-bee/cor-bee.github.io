@@ -1,9 +1,9 @@
 {
     "word": "мести",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. sipirmek; <b>~ двор</b> azbar(nı) sipirmek; 2. (<i>гнать</i>) savurmaq; <b>ветер метёт пыль и листья</b> yel esip toz ve yapraqlarnı savura ◊<b>на дворе метёт</b> tışarıda qar furtunası bar",
+            "text": "sipirmek",
             "accent_pos": null
         }
     ]

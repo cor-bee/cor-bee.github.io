@@ -1,9 +1,9 @@
 {
     "word": "щавель",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>бот.</i> qozuqulaq, ekşi yapraq, eşekqulaq, atqulaq; <b>конский ~</b> atqulaq, lapata (<i>диал. юж.</i>)",
+            "text": "qozuqulaq",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "кладка",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>то, что сложено из кирпичей, камней</i>) qalav, qalam<stress>a</stress>; <b>делать ~у</b> qalamaq; <b>кирпичная ~а</b> tola qalavı; <b>каменная ~а</b> taş qalavı; <b>сухая ~а</b> quru qalav; 2. (<i>отложенные яйца</i>)<i>био.</i> bastırılıp qoyulğan yımırtalar",
+            "text": "töşeme",
             "accent_pos": null
         }
     ]

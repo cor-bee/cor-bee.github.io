@@ -1,9 +1,9 @@
 {
     "word": "хрящ",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>анат.</i> kemirçek; <b>носовой ~</b> burun kemirçegi; <b>~ гортани</b> tamaq kemirçegi",
+            "text": "kemirçek",
             "accent_pos": null
         }
     ]

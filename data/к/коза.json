@@ -1,9 +1,9 @@
 {
     "word": "коза",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "eçki; <b>ангорская ~</b> Ankara eçkisi; <b>~ с козлёнком</b> ulaqlı eçki",
+            "text": "eçki",
             "accent_pos": null
         }
     ]

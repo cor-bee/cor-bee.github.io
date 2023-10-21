@@ -1,9 +1,9 @@
 {
     "word": "ящик",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. y<stress>a</stress>şçik, qutu; <b>~ груш</b> bir y<stress>a</stress>şçik armut; <b>почтовый ~</b> poçtа qutusı; <b>картонный ~</b> karton qutu; 2. (<i>выдвижной, в столе</i>) çekmece ◊<b>~ входящих сообщений</b> <i>инт.</i> alınğan (<i>или</i> kelgen) beyanatlar qutusı",
+            "text": "yaşçik",
             "accent_pos": null
         }
     ]

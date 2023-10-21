@@ -1,9 +1,9 @@
 {
     "word": "часто",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "sıq, sıq-sıq; <b>~ встречаться</b> sıq-sıq körüşmek; sıq-sıq rastkelişmek",
+            "text": "sıq, sıq-sıq",
             "accent_pos": null
         }
     ]

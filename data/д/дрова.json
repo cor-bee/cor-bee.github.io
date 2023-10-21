@@ -1,9 +1,9 @@
 {
     "word": "дрова",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "odun; <b>сухие (сырые) ~а</b> quru (sılaq) odun; <b>рубить ~а</b> odun kesmek; <b>колоть ~а</b> odun yarmaq; <b>охапка ~</b> bir quçaq odun; <b>заготовить ~а на зиму</b> qışlıq odun azırlap qoymaq",
+            "text": "odun",
             "accent_pos": null
         }
     ]

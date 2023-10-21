@@ -1,9 +1,9 @@
 {
     "word": "рапорт",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "bildirm<stress>e</stress>, r<stress>a</stress>port; <b>подать ~</b> r<stress>a</stress>port bermek",
+            "text": "raport",
             "accent_pos": null
         }
     ]

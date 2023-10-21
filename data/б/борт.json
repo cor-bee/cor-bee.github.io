@@ -1,9 +1,9 @@
 {
     "word": "борт",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>одежды</i>) yaqa, kenar; 2. (<i>грузовика, корабля</i>) kenar, yan, çet, taraf; <b>правый ~ корабля</b> geminiñ oñ yanı; (<b>железнодорожная) платформа без ~ов</b> kenarsız yük vagonı; 3. (<i>о корабле, саолёте</i>) kögerte; <b>на ~у</b> gemide (<i>корабля</i>), uçaqta (<i>самолёта</i>); <b>взять на ~</b> gemige almaq (<i>корабля</i>), uçaqqa almaq (<i>самолёта</i>); <b>выбросить за ~</b> а) gemiden atmaq; б) bir kenarğa atmaq; <b>за ~ом самолёта</b> uçaq kögertesinden tış; <b>человек за ~ом</b> deñizde adam bar; <b>~-о-~</b> yan-yanaşa; <b>корабли с оружием на ~у</b> silâ taşığan gemiler ◊<b>остаться за ~ом</b> tıştа qalmaq",
+            "text": "kögerte; kenar",
             "accent_pos": null
         }
     ]

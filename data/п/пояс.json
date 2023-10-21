@@ -1,9 +1,9 @@
 {
     "word": "пояс",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. quşaq, qayış; 2. (<i>талия</i>) bel; <b>по ~</b> beline qadar, belin<stress>e</stress>ce; 3.<i>геогр.</i> quşaq; <b>климатический ~</b> iklim quşağı; <b>тропический ~</b> tropikiy quşaq; <b>часовой ~</b> saat quşağı ◊<b>заткунуть за ~</b> eki ayağını bir çızmağa soqmaq; <b>кланяться в ~</b> eki bükülip selâm bermek; <b>спасательный ~</b> adam qurtarıcı kemer",
+            "text": "quşaq",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "ребро",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. qaburğa; <b>он такой худой, что рёбра видны</b> o, öyle arıq ki, tap qaburğaları çıqıp qalğan; 2.<i>мат.</i> qaburğa; <b>боковое ~ призмы</b> prizmanıñ yan qaburğası",
+            "text": "qaburğa",
             "accent_pos": null
         }
     ]

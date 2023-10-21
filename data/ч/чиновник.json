@@ -1,9 +1,9 @@
 {
     "word": "чиновник",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "memur; <b>~и</b> memurlar, mertebeli şahıslar",
+            "text": "memür",
             "accent_pos": null
         }
     ]

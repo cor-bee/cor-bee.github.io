@@ -1,9 +1,9 @@
 {
     "word": "абориген",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "aborigen, yerli; <b>~ы</b> aborigenler, yerli halq",
+            "text": "aborigen",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "носок",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. çorap; 2. uc (<i>конец</i>); ayaq(nıñ) ucu (<i>ноги</i>); burun (-rnu) (<i>обуви</i>); <b>~ок чулка</b> çorapnıñ ucu; <b>она ходила на ~ках</b> о, ayaqlarınıñ ucuna basıp yüre edi",
+            "text": "uc (передня вузька частина чогось); çorap (шкарпетка)",
             "accent_pos": null
         }
     ]

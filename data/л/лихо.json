@@ -1,13 +1,9 @@
 {
     "word": "лихо",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>уст.</i> (<i>зло</i>) yaramaylıq, belâ ◊<b>хватить (хлебнуть) ~а</b> çoq çekmek (<i>или</i> körmek, körip keçirmek), ç<stress>e</stress>kmegeni (<i>или</i> k<stress>ö</stress>rmegeni, körip keçirgeni) q<stress>a</stress>lmamaq; <b>узнать почём фунт ~а</b> dünyanıñ qaç bucaq olğanını añlamaq (<i>или</i> bilmek); <b>не поминайте ~ом</b> bir yerde yañlışqan olsam, bağışl<stress>a</stress>ñız, qusurım bar olsa, bağışl<stress>a</stress>ñız",
-            "accent_pos": null
-        },
-        {
-            "text": "<i>нареч.</i> yig<stress>i</stress>tçe(sine); bir şeyden saq<stress>ı</stress>nmayıp (<i>или</i> saq<stress>ı</stress>nmadan); <b>~ пляшет!</b> <stress>a</stress>mma da oynay (<i>прост.</i> töşey)!",
+            "text": "belâ, bahıtsızlıq, kemlik; ğam, qasevet, qayğı; робити лихо – kemlik etmek",
             "accent_pos": null
         }
     ]

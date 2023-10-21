@@ -1,9 +1,9 @@
 {
     "word": "призма",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "pr<stress>i</stress>zma, menşur; <b>трёхгранная ~</b> üç haneli pr<stress>i</stress>zma",
+            "text": "prizma",
             "accent_pos": null
         }
     ]

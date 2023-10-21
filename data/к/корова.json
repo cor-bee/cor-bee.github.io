@@ -1,9 +1,9 @@
 {
     "word": "корова",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "sığır, nanay (<i>диал. ст.</i>); <b>молочная ~</b> sütlü sığır; <b>дойная ~</b> sağılğan sığır; <b>яловая ~</b> qısır sığır; <b>~ отелилась</b> sığır buzavladı",
+            "text": "sığır",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "солома",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "toban, saman (<i>диал.</i>); <b>грузить ~у на телегу</b> tobannı arabağa yüklemek ◊<b>кабы знал, где упасть, (да) ~ки бы подостлал</b> <i>погов.</i> yıqılacaq yerimni bilgen olsam toban töşer edim",
+            "text": "toban",
             "accent_pos": null
         }
     ]

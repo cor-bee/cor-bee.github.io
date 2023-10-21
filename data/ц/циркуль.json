@@ -1,9 +1,9 @@
 {
     "word": "циркуль",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "pergel; <b>ножка ~я</b> pergelniñ ayağı; <b>измерять ~ем</b> perg<stress>e</stress>lnen ölçemek, pergellemek; <b>быть измеренны</b> м<b>~ем</b> pergellenmek",
+            "text": "pergel",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "шашки",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "dam<stress>a</stress>, dam<stress>a</stress> oyunı; <b>играть в ~</b> dam<stress>a</stress> oyunı oynamaq",
+            "text": "dama oyunı",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "зайти",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. kirmek; <b>~ в класс</b> sınıfqa kirmek; <b>~ глубоко в лес</b> orman(nıñ) içine kirmek; <b>я зашёл на минутку</b> bir daqqaçıqqa kirdim, bir ayaq kirdim; 2. (<i>за кем-либо, чем-либо</i>) barıp (kelip) almaq; <b>~ за книгой</b> barıp (kelip) kitap almaq; 3. (<i>начаться</i>) başlanmaq; <b>речь зашла о политике</b> laf siyaset aqqında başlandı; 4. (<i>о солнце, луне</i>) batmaq, qonmaq, qavuşmaq; <b>солнце зашло</b> kün battı (<i>или</i> qondı, qavuştı)",
+            "text": "kirmek; qonmaq",
             "accent_pos": null
         }
     ]

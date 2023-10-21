@@ -1,9 +1,9 @@
 {
     "word": "комплект",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "komplekt; taqım (<i>набор</i>); qat (<i>белья, одежды</i>); toplam, cıyıntıq (<i>сборник</i>); <b>~ белья</b> bir qat çamaşır; <b>~ слесарных инструментов</b> çilengirlik taqımı",
+            "text": "komplekt",
             "accent_pos": null
         }
     ]

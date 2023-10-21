@@ -1,9 +1,9 @@
 {
     "word": "анкета",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ank<stress>e</stress>tа; sualname [-льн-] (<i>опросный лист</i>); <b>заполнять ~у</b> anketа(nı) toldurmaq",
+            "text": "anketa",
             "accent_pos": null
         }
     ]

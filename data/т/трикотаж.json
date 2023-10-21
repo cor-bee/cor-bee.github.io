@@ -1,9 +1,9 @@
 {
     "word": "трикотаж",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "trikotaj; <b>бельевой ~</b> don-kölmek trikotajı",
+            "text": "trikotaj",
             "accent_pos": null
         }
     ]

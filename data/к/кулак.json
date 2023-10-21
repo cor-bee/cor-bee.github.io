@@ -1,9 +1,9 @@
 {
     "word": "кулак",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. yumruq; <b>сжимать ~и</b> yumruqlarnı sıqmaq; 2. (<i>богатый крестьянин</i>) kulak, zengin köylü",
+            "text": "yumruq",
             "accent_pos": null
         }
     ]

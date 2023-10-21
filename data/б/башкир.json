@@ -1,9 +1,9 @@
 {
     "word": "башкир",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "başqırt; <b>~ы</b> başqırtlar",
+            "text": "başqırt",
             "accent_pos": null
         }
     ]

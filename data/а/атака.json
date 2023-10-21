@@ -1,9 +1,9 @@
 {
     "word": "атака",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ücüm; şıba; <b>броситься в ~у</b> ücümge atılmaq",
+            "text": "ücüm",
             "accent_pos": null
         }
     ]

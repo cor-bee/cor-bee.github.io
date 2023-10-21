@@ -1,9 +1,9 @@
 {
     "word": "фронт",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. cebe; <b>сражаться на ~е</b> cebede cenkleşmek; <b>командующий ~ом</b> cebe komandanı; <b>война на два ~а</b> eki cebeli cenk; <b>уйти на ~</b> cebege ketmek; 2. saa, cebe; <b>культурный ~</b> medeniyet saası; <b>Народный ~</b> Halq cebesi; <b>единым ~ом</b> bir cebe alında; <b>действовать на два ~а</b> eki tarafqa areket etmek; <b>холодный (тёплый) ~</b> <i>метеор.</i> suvuq (issi) cebe",
+            "text": "cebe",
             "accent_pos": null
         }
     ]

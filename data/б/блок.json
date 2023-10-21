@@ -1,9 +1,9 @@
 {
     "word": "блок",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>объединение</i>) blok; <b>предвыборный ~</b> saylav bloku; 2. (<i>грузоподъёмный механизм</i>) blok, çığırıq",
+            "text": "blok; çığırıq",
             "accent_pos": null
         }
     ]

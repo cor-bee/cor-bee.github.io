@@ -1,9 +1,9 @@
 {
     "word": "рейсмус",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>тех.</i> r<stress>e</stress>ysmus; <b>~ столярный</b> dülger reysmusı; <b>~ слесарный</b> çilengir reysmusı",
+            "text": "reysmus",
             "accent_pos": null
         }
     ]

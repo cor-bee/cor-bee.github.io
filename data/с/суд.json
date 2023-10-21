@@ -1,9 +1,9 @@
 {
     "word": "суд",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "makeme (<i>вар.</i> mahkeme); <b>подать на кого-либо в ~</b> birine qarşı makeme davasını açmaq; <b>предстать перед ~ом</b> makeme ögüne (<i>или</i> üzerine) çıqmaq; <b>предать ~у</b> ,<b>привлечь к ~у</b> ,<b>отдать под ~</b> makemege çekmek (<i>или</i> bermek); <b>быть привлечённым к ~у</b> makemege çekilmek (<i>или</i> berilmek); <b>~ присяжных</b> yeminliler makemesi; <b>третейский ~</b> akemlik makemesi; <b>~ Линча</b> Linç makemesi; <b>зал ~а</b> makeme zalı",
+            "text": "makeme",
             "accent_pos": null
         }
     ]

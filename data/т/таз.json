@@ -1,13 +1,9 @@
 {
     "word": "таз",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "tas; <b>медный ~</b> baqır tas",
-            "accent_pos": null
-        },
-        {
-            "text": "<i>анат.</i> tas, tas kemigi",
+            "text": "1. tas (посуд); 2. tas kemigi (кістка)",
             "accent_pos": null
         }
     ]

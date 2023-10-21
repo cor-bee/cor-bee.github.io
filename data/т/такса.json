@@ -1,13 +1,9 @@
 {
     "word": "такса",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "(<i>расценка</i>) ücret, tarife, t<stress>a</stress>ksa; <b>платить по ~е</b> ücretke köre ödemek",
-            "accent_pos": null
-        },
-        {
-            "text": "(<i>собака</i>) t<stress>a</stress>ksa",
+            "text": "taksa",
             "accent_pos": null
         }
     ]

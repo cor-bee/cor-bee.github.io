@@ -1,9 +1,9 @@
 {
     "word": "кран",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>запорное устройство</i>) musluq, çağanya (<i>диал. юж.</i>), kran; <b>водопроводный ~</b> suv musluğı; 2. (<i>подъёмный</i>) kran",
+            "text": "1. kran (підйомна машина); 2. qurna (водопровідний)",
             "accent_pos": null
         }
     ]

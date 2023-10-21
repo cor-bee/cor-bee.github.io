@@ -1,9 +1,9 @@
 {
     "word": "установка",
-    "shortening_pos": 8,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>устройство</i>) tertibat, cihaz, donatm<stress>a</stress>, mehanizm; <b>вентиляционная ~а</b> avalandıruv tertibatı (<i>или</i> cihazı); <b>бетоносмесительная ~а</b> beton qarıştıruv tertibatı (<i>или</i> cihazı); 2. (<i>действие</i>) yerleştirüv, yerleştirm<stress>e</stress>, qoyuv, qoym<stress>a</stress>, tiklev, tiklem<stress>e</stress>; yerleştirilüv, yerleştirilm<stress>e</stress>, qoyuluv, qoyulm<stress>a</stress>, tiklenüv, tiklenm<stress>e</stress>; <b>~а антенны</b> antennanı tiklev, antennanıñ tiklenüvi; 3.<i>комп.</i> (<i>компьютерной программы</i>) quruv, qurma; quruluv, qurulma; <b>~а текстового редактора Word</b> Word metin türlendirgiçini quruv; <b>в процессе ~и программы произошла ошибка</b> programma qurulğanda bir hata oldı; 4. (<i>цель</i>) maqsat (-dı), yol; 5. (<i>указание, директива</i>) kösteriş; <b>получить ~и в работе</b> işte kösterişler almaq",
+            "text": "1. tertibat (техн.); 2. yerleştirme, yerleştirilme (дія)",
             "accent_pos": null
         }
     ]

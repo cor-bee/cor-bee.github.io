@@ -1,9 +1,9 @@
 {
     "word": "таблетка",
-    "shortening_pos": 7,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ap; <b>проглотить ~у</b> apnı yutmaq (<i>или</i> içmek); <b>принять ~у от головной боли</b> baş ağrısından ap içmek",
+            "text": "ap",
             "accent_pos": null
         }
     ]

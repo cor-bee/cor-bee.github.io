@@ -1,9 +1,9 @@
 {
     "word": "нитка",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "yip; <b>грубая ~а</b> qalın yip; <b>белая ~а</b> beyaz yip; <b>с ~ой</b> y<stress>i</stress>pnen; yipli; <b>серебряная ~а</b> yipiş; <b>с серебряной ~ой</b> yipişli; <b>пояс шитый серебряной ~ой</b> yipişli quşaq; <b>катушечные ~и</b> maqara yipi; <b>хлопчатобумажные ~и</b> pamuq yipi; <b>штопальные ~и</b> cörmev yipi; <b>без ниток</b> yipsiz; <b>вдевать ~у в иголку</b> yipni inege keçirmek; <b>нанизывать на ~у</b> yipke tizmek ◊<b>мокрый до ~и</b> sım-sılaq; <b>с миру по ~е – голому рубашка</b> <i>погов.</i> er saqallıdan bir saç (<i>или</i> tel) kösege saqal olur",
+            "text": "yip",
             "accent_pos": null
         }
     ]

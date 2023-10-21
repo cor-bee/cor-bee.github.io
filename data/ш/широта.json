@@ -1,9 +1,9 @@
 {
     "word": "широта",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>простор</i>) keñlik; 2.<i>геогр.</i> enlik; <b>45 градусов 25 минут северной ~ы</b> 45 derece 25 daqqa şimal enligi",
+            "text": "1. kenişlik; 2. enlik (геогр.)",
             "accent_pos": null
         }
     ]

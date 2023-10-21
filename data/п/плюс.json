@@ -1,9 +1,9 @@
 {
     "word": "плюс",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "plüs; <b>два ~ три равно пять</b> eki plüs üç beş ola (<i>или</i> beşke musaviy), ekige üç qoşsaq beş ola; <b>~ три градуса</b> plüs üç gr<stress>a</stress>dus (<i>или</i> derece)",
+            "text": "plüs",
             "accent_pos": null
         }
     ]

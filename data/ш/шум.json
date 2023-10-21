@@ -1,9 +1,9 @@
 {
     "word": "шум",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. gürülti; ses (<i>звук</i>); şuvultı (<i>дождя, реки</i>); şatırdı (<i>треск, звук кипения</i>); tıpırdı (<i>лёгкий шум, шорох</i>); <b>~ мотора</b> motornıñ gürültisi; <b>~ дождя</b> yağmur şuvultısı; <b>с ~ом течёт река</b> (şuvul-şuvul) şuvuldap özen aqa; <b>~ кипящей воды</b> (şatır-şatır) qaynağan suvnıñ sesi (<i>или</i> şatırdısı); 2. (<i>шум голосов, суматоха</i>) şamatа, ses-şamata, ziy-çuv, velvele, argur; yayğara (<i>истерика</i>); <b>поднять ~</b> şamatа qoparmaq; <b>напрасный ~</b> boş (<i>или</i> n<stress>a</stress>file, quru) şamata; <b>у соседей опять ~, ссора</b> qomşularda kene qavğa-şamata; 3. şamata; <b>~ вокруг нового фильма</b> yañı film etrafında qoparılğan şamata ◊<b>много ~а из ничего</b> <i>o</i>lmaycaq şey içün qoparılğan şamatа,<stress>o</stress>lmaycaq şey içün çıqqan aleket; <b>~ в ушах</b> qulaq içinde bir şamatа",
+            "text": "şamata; şuvultı (звук); köpük (піна)",
             "accent_pos": null
         }
     ]

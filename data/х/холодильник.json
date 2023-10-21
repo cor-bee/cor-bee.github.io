@@ -1,9 +1,9 @@
 {
     "word": "холодильник",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "suvutqıç, buzdolap; <b>включить ~</b> suvutqıçnı işletmek; <b>выключить ~</b> suvutqıçnı çıqarmaq",
+            "text": "buzdolap",
             "accent_pos": null
         }
     ]

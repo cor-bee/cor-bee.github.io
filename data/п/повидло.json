@@ -1,9 +1,9 @@
 {
     "word": "повидло",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "pov<stress>i</stress>dlo (<i>разг.</i> pav<stress>i</stress>dla); <b>яблочное ~</b> alm<stress>a</stress> povidlosı",
+            "text": "povidlo",
             "accent_pos": null
         }
     ]

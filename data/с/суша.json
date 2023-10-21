@@ -1,9 +1,9 @@
 {
     "word": "суша",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "topraq, qara; <b>на ~е и на море</b> qarada ve deñizde",
+            "text": "qara",
             "accent_pos": null
         }
     ]

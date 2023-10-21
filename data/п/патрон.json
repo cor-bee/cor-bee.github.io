@@ -1,9 +1,9 @@
 {
     "word": "патрон",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "patron, fişenk (<i>уст.</i>); <b>боевой ~</b> muarebe patronı",
+            "text": "patron",
             "accent_pos": null
         }
     ]

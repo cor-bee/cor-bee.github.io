@@ -1,9 +1,9 @@
 {
     "word": "шторм",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "furtuna, boran; <b>выдержать сильный ~</b> küçlü (<i>или</i> quvetli) furtuna keçirmek",
+            "text": "furtuna",
             "accent_pos": null
         }
     ]

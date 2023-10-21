@@ -1,13 +1,9 @@
 {
     "word": "актив",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>фин.</i> aktiv; <b>~ы</b> aktivler; <b>вывести ~ы из страны</b> aktivlerini memleketten çıqarıp almaq; <b>~ы банка</b> banknıñ aktivleri",
-            "accent_pos": null
-        },
-        {
-            "text": "eñ faal azalar; <b>партийный ~</b> fırqa teşkilâtınıñ eñ faal azaları",
+            "text": "aktiv",
             "accent_pos": null
         }
     ]

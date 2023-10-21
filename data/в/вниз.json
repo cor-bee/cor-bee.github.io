@@ -1,9 +1,9 @@
 {
     "word": "вниз",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "aşağı, aşağığa, eniş aşağı, tüpke; <b>спускаться ~</b> aşağı tüşmek; <b>~ лицом</b> yüzü qoyun; <b>~ головой</b> baş aşağı; <b>спускаться ~ по лестнице</b> merdivenden tüşmek; <b>~ по течению</b> suvnıñ aqqan tarafına, aqıntı tarafqa ◊<b>катиться ~</b> baş aşağı ketmek; <b>смотреть на кого-либо сверху ~</b> birine yüksekten baqmaq",
+            "text": "aşağı, eniş-aşağı",
             "accent_pos": null
         }
     ]

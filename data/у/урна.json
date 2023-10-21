@@ -1,9 +1,9 @@
 {
     "word": "урна",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>избирательная</i>) sandıq,<stress>u</stress>rna; <b>избирательная ~а</b> rey sandığı, saylav sandığı; <b>бросить бюллетень в ~у</b> bülletenni sandıqqa taşlamaq; 2. (<i>для мусора</i>) qutu, çöplük qutusı; <b>мусорная ~а</b> çöplük qutusı",
+            "text": "urna",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "тон",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. ton; perde; <b>звук высокого ~а</b> tonu ince olğan ses; <b>задать ~</b> ton bermek; <b>играй ~ом выше</b> bir ton yuqarıdan çal; 2. (<i>цветовой</i>) tüs; ton; <b>радующие глаз ~а</b> göñül ohşayıcı tüsler; <b>тёмный ~</b> qoyu tüs; <b>тёплые ~а</b> sıcaq tüsler; <b>различные ~а зелёного цвета</b> yeşilniñ çeşit tonları; 3. (<i>манера</i>) ton, eda; ses (<i>голос</i>); <b>мягкий ~</b> yımşaq ton; <b>властным ~ом</b> emir etici bir s<stress>e</stress>snen; <b>говорить на повышенных ~ах</b> yüksek perdeden laf etmek; 4. tarz; <b>в полемическом ~е</b> polem<stress>i</stress>k tarzda",
+            "text": "ton",
             "accent_pos": null
         }
     ]

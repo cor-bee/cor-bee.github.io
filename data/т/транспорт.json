@@ -1,9 +1,9 @@
 {
     "word": "транспорт",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "naqliyat, ulaştırm<stress>a</stress>, tr<stress>a</stress>nsport; taşıtlar (<i>совокупность машин</i>); <b>пассажирский ~</b> yolcu naqliyatı; <b>грузовой ~</b> yük naqliyatı; <b>общественный ~</b> cemaat naqliyatı, toplu taşıtlar",
+            "text": "transport, naqliyat",
             "accent_pos": null
         }
     ]

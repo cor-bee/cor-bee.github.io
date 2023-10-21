@@ -1,13 +1,9 @@
 {
     "word": "сплав",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "(<i>металлов</i>) qaynaq, maden qaynağı; <b>алюминиевые ~ы</b> alümin qaynaqları",
-            "accent_pos": null
-        },
-        {
-            "text": "(<i>леса по реке</i>) terek kevdelerini suvğa taşlap aqızuv (<i>или</i> aqızm<stress>a</stress>)",
+            "text": "maden qaynağı",
             "accent_pos": null
         }
     ]

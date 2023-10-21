@@ -1,9 +1,9 @@
 {
     "word": "тайм",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "taym; <b>первый ~ закончился вничью</b> birinci taymda ne biri yuttı, ne o biri",
+            "text": "taym",
             "accent_pos": null
         }
     ]

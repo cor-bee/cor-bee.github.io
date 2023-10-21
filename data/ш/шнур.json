@@ -1,9 +1,9 @@
 {
     "word": "шнур",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. şnur; <b>электрический ~</b> <i>тех.</i> elektr<stress>i</stress>k şnuru; 2. sıcım, qaytan; <b>шёлковый ~</b> yipek sıcım",
+            "text": "1. şnur; 2. çığ qaytanı (лавинний); sıcım",
             "accent_pos": null
         }
     ]

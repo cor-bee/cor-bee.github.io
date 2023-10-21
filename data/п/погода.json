@@ -1,9 +1,9 @@
 {
     "word": "погода",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ava; <b>хорошая ~а</b> yahşı ava; <b>какая хорошая ~а!</b> ne güzel ava!; <b>~а портится</b> ava bozula; <b>дождливая ~а</b> yağmurlı ava; <b>перемены ~ы</b> avanıñ deñişip turması ◊<b>это не делает ~ы</b> bunıñ büyük bir emiyeti yoq; <b>ждать у моря ~ы</b> yoq (<i>или o</i>lmaycaq) şeyge ümüt bağlamaq",
+            "text": "ava",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "дружба",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "dostluq; <b>узы ~ы</b> dostluq bağları",
+            "text": "dostluq",
             "accent_pos": null
         }
     ]

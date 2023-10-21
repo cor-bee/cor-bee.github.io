@@ -1,9 +1,9 @@
 {
     "word": "боязнь",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "qorqu, perva; <b>~ь одиночества</b> yalıñızlıq qorqusı; <b>из ~и</b> qorqudan",
+            "text": "qorqu",
             "accent_pos": null
         }
     ]

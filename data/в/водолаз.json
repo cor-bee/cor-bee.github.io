@@ -1,9 +1,9 @@
 {
     "word": "водолаз",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "dalıcı, dalğıç; <b>~ погрузился в воду</b> dalıcı suvğa daldı",
+            "text": "dalğıç",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "укус",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. tişlev, tişlem<stress>e</stress>; çaquv, çaqm<stress>a</stress> (<i>насекомого</i>); <b>~ ядовитой змеи смертелен</b> zeerli yılannıñ tişlemesi öldüre; 2. (<i>укушенное место</i>) tişlengen yer, tişlegen yeri, tiş yarası; çaqılğan yer, çaqqan yeri (<i>насекомого</i>); <b>комариные ~ы</b> süyrüsineklerniñ çaqqan yerleri",
+            "text": "tişlev, tişleme",
             "accent_pos": null
         }
     ]

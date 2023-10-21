@@ -1,9 +1,9 @@
 {
     "word": "карнавал",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "karnaval; <b>новогодний ~</b> Yañı yıl karnavalı",
+            "text": "karnaval",
             "accent_pos": null
         }
     ]

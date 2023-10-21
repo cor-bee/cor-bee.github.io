@@ -1,9 +1,9 @@
 {
     "word": "заголовок",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "serleva; <b>~ статьи</b> maqaleniñ serlevası",
+            "text": "başı",
             "accent_pos": null
         }
     ]

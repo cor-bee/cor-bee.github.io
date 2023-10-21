@@ -1,13 +1,9 @@
 {
     "word": "судно",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "gemi; <b>парусные ~а</b> yelkenli gemileri",
-            "accent_pos": null
-        },
-        {
-            "text": "necaset savutı, s<stress>u</stress>dno; <b>подкладывать ~ больному</b> hastа tübüne savut qoymaq",
+            "text": "gemi",
             "accent_pos": null
         }
     ]

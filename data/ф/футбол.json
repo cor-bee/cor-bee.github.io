@@ -1,9 +1,9 @@
 {
     "word": "футбол",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "futbol; <b>играть в ~</b> futbol oynamaq; <b>команда по ~у</b> futbol taqımı; <b>сборная Украины по ~у</b> Ukra<stress>i</stress>na futbol cıym<stress>a</stress> taqımı",
+            "text": "futbol",
             "accent_pos": null
         }
     ]

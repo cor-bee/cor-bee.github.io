@@ -1,9 +1,9 @@
 {
     "word": "турок",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "türk; <b>~ки</b> türkler",
+            "text": "türk",
             "accent_pos": null
         }
     ]

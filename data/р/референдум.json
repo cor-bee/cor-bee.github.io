@@ -1,9 +1,9 @@
 {
     "word": "референдум",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>полит.</i> refer<stress>e</stress>ndum; <b>проводить ~</b> refer<stress>e</stress>ndum keçirmek (<i>или</i> ötkermek)",
+            "text": "referendum",
             "accent_pos": null
         }
     ]

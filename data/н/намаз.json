@@ -1,9 +1,9 @@
 {
     "word": "намаз",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>мус.</i> namaz; <b>совершить ~</b> namaz qılmaq; <b>джума-~</b> cuma namazı",
+            "text": "namaz, salât",
             "accent_pos": null
         }
     ]

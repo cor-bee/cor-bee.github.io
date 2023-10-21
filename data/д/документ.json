@@ -1,9 +1,9 @@
 {
     "word": "документ",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. vesiqa, üccet, kâğıt; <b>важные ~ы</b> müim vesiqalar; <b>путевой ~</b> yol vesiqası; 2.<i>комп.</i> vesiqa; <b>текстовый ~</b> metin vesiqası",
+            "text": "vesiqa",
             "accent_pos": null
         }
     ]

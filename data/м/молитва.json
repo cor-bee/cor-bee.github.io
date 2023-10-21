@@ -1,9 +1,9 @@
 {
     "word": "молитва",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "dua (<i>разг.</i> duva), ibadet, sena; namaz, salât (<i>ежедневная пятиразовая в исламе</i>); <b>прочитать ~у</b> dua oqumaq; <b>призыв к ~е</b> (<i>мус.</i>) ezan",
+            "text": "dua; молитви – namaz-niyaz",
             "accent_pos": null
         }
     ]

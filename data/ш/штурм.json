@@ -1,9 +1,9 @@
 {
     "word": "штурм",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ücüm; <b>брать крепость ~ом</b> qaleni (<i>или</i> kermenni) ücüm etip almaq",
+            "text": "ücüm",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "величина",
-    "shortening_pos": 7,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>размер, объём</i>) büyüklik, irilik, kölem, acim; <b>~ой с грецкий орех</b> ceviz büyükliginde; 2.<i>мат.</i> deger; <b>неизвестная ~а</b> belli<stress>o</stress>lmağan deger; <b>однородные ~ы</b> bir soy degerler; <b>искомая ~а</b> qıdırılğan deger; <b>малая ~а</b> ufaq deger; 3. (<i>выдающийся человек</i>) meşur, müteber, sım<stress>a</stress>; <b>в науке он крупная ~а</b> ilimde о ulu sım<stress>a</stress>",
+            "text": "büyüklik",
             "accent_pos": null
         }
     ]

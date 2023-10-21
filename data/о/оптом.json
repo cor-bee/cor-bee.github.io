@@ -1,9 +1,9 @@
 {
     "word": "оптом",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "kötere, toptan; <b>купить ~</b> kötere (<i>или</i> toptan) satın almaq",
+            "text": "kötere; купити оптом – kötere satın almaq",
             "accent_pos": null
         }
     ]

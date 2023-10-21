@@ -1,9 +1,9 @@
 {
     "word": "статус",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "st<stress>a</stress>tus; <b>~ языка</b> til(niñ) statusı",
+            "text": "status",
             "accent_pos": null
         }
     ]

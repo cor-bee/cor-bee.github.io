@@ -1,9 +1,9 @@
 {
     "word": "велосипед",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ayaqmaşna; <b>ехать на ~е</b> ayaqmaşn<stress>a</stress>nen ketmek; <b>кататься на ~е</b> ayaqmaşn<stress>a</stress>nen kezmek",
+            "text": "ayaqmaşina",
             "accent_pos": null
         }
     ]

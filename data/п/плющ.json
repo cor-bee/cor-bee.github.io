@@ -1,9 +1,9 @@
 {
     "word": "плющ",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<i>бот.</i> çırmavuq; <b>крымский ~</b> qaya çırmavuğı",
+            "text": "çırmavuq",
             "accent_pos": null
         }
     ]

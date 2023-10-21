@@ -1,9 +1,9 @@
 {
     "word": "штукатурка",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "sıva, qaba sılav; <b>трёхслойная ~</b> üç qatlı sıva; <b>известковая ~</b> kireç sıvası",
+            "text": "qaba sılav, sıvama, sıvalama",
             "accent_pos": null
         }
     ]

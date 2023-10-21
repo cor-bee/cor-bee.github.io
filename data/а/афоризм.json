@@ -1,9 +1,9 @@
 {
     "word": "афоризм",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "vecize, aforizm, ikmetli ibare; <b>~ы Ашика Умера</b> Aşıq Ümerniñ vecizeleri (<i>или</i> ikmetli sözleri)",
+            "text": "aforizm",
             "accent_pos": null
         }
     ]

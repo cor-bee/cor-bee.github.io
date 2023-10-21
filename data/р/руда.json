@@ -1,9 +1,9 @@
 {
     "word": "руда",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "külçe, ham maden; <b>железная ~</b> demir külçesi",
+            "text": "külçe",
             "accent_pos": null
         }
     ]

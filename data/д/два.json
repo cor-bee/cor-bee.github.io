@@ -1,9 +1,9 @@
 {
     "word": "два",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. eki; <b>~ дня</b> eki kün; <b>две книги</b> eki kitap; <b>двадцать ~</b> yigirmi eki; <b>по</b> ~ ekişer, ekişer-ekişer; <b>каждые ~ дня</b> er eki kün; <b>через ~ дня</b> eki künden soñ; 2. (<i>школьная отметка</i>) eki, eki baa; <b>получить ~ по физике</b> fizikadan eki almaq",
+            "text": "eki",
             "accent_pos": null
         }
     ]

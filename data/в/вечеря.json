@@ -1,9 +1,9 @@
 {
     "word": "вечеря",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "<b>тайная ~</b> (<i>событие, описываемое в Евангелии</i>) soñki (<i>или</i> gizli) aqşam yemegi",
+            "text": "aqşamlıq aş",
             "accent_pos": null
         }
     ]

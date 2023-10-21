@@ -1,9 +1,9 @@
 {
     "word": "пляж",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "plâj; <b>песчаный ~</b> qumlu plâj; <b>галечный ~</b> çaqıllı plâj",
+            "text": "plâj",
             "accent_pos": null
         }
     ]

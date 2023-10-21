@@ -1,9 +1,9 @@
 {
     "word": "служба",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. hızmet; <b>военная ~а</b> arbiy hızmet, askerlik hızmeti; <b>быть на ~е</b> hızmette olmaq; <b>быть на ~е в армии</b> ordu hızmetinde olmaq; <b>поступить на ~у</b> işke kirmek; 2. hızmet; <b>~а безопасности</b> telükesizlik hızmeti; <b>~а поддержки</b> yardım hızmeti",
+            "text": "hızmet",
             "accent_pos": null
         }
     ]

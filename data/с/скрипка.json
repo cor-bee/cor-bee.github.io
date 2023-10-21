@@ -1,9 +1,9 @@
 {
     "word": "скрипка",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "kemane; <b>играть на ~е</b> kemane çalmaq",
+            "text": "kemane",
             "accent_pos": null
         }
     ]

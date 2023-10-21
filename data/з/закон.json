@@ -1,9 +1,9 @@
 {
     "word": "закон",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "qanun; <b>~ природы</b> tabiat qanunı; <b>основной ~</b> esas qanun; <b>нарушить ~</b> qanunnı bozmaq; <b>~ вступил в силу</b> qanun quvetini aldı; <b>~ имеет обратную силу (не имеет обратной силы)</b> qanunnıñ keri quveti bar (yoq)",
+            "text": "qanun; по закону – qanun boyunca",
             "accent_pos": null
         }
     ]

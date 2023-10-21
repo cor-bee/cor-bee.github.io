@@ -1,9 +1,9 @@
 {
     "word": "хвала",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "alğış, maqtav, maqtam<stress>a</stress>; <b>осыпать ~ой</b> maqtavlar yağdırmaq; <b>~а герою!</b> m<stress>a</stress>şalla (<i>или a</i>ferin) qaramanğa!",
+            "text": "maqtav",
             "accent_pos": null
         }
     ]

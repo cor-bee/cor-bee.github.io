@@ -1,9 +1,9 @@
 {
     "word": "для",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>ради</i>) içün; <b>всё ~ победы</b> er şey ğalebe içün; <b>~ чего?</b> nege?, ne içün?; 2. (<i>предназначенный</i>) içün, mahsus; <b>мешок ~ угля</b> kömür çuvalı; <b>ведро ~ воды</b> suv qopqası; 3. (<i>с целью</i>) içün, dep; <b>я пришёл ~ того, чтобы взять книгу</b> kitapnı almaq içün keldim; kitapnı alayım dep keldim",
+            "text": "içün",
             "accent_pos": null
         }
     ]

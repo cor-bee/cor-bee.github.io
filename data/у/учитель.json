@@ -1,9 +1,9 @@
 {
     "word": "учитель",
-    "shortening_pos": 6,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "oca, muallim; <b>школьный ~ь</b> mektep ocası; <b>~ь истории</b> tarih ocası; <b>народный ~ь</b> halq ocası; <b>работать ~ем</b> ocalıq etmek, oca olıp çalışmaq",
+            "text": "oca, muallim",
             "accent_pos": null
         }
     ]

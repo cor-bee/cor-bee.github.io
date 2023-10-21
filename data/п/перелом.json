@@ -1,9 +1,9 @@
 {
     "word": "перелом",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "sınıq, qırıq (<i>диал. юж.</i>); <b>врач обнаружил ~ костей таза</b> ekim yanbaş kemiginiñ sınığını taptı ◊<b>на ~е эпох (столетий)</b> eki devir (asır) arasında",
+            "text": "sınıq",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "сода",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "s<stress>o</stress>da; <b>чайная ~</b> çay sodası; <b>каустическая ~</b> kaust<stress>i</stress>k s<stress>o</stress>da",
+            "text": "soda; сода чайна (питна) – çay sodası, içilgen soda",
             "accent_pos": null
         }
     ]

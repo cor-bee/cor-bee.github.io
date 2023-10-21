@@ -1,9 +1,9 @@
 {
     "word": "пюре",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ezm<stress>e</stress>, püre; <b>яблочное ~</b> alm<stress>a</stress> ezmesi; <b>картофельное ~</b> qartop ezmesi (<i>или</i> püresi)",
+            "text": "ezme",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "вишня",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. (<i>плод</i>) vişn<stress>e</stress>; vişn<stress>e</stress> danesi; <b>спелая ~ня</b> pişken vişn<stress>e</stress>; <b>с ~нями</b> vişneli; <b>без ~ен</b> vişnesiz; <b>цвета ~ни</b> vişn<stress>e</stress> tüste; <b>косточка ~ни</b> vişn<stress>e</stress> çegirdegi; 2. (<i>дерево</i>) vişn<stress>e</stress> teregi; <b>дикая ~ня</b> it kiraz, köpek kiraz",
+            "text": "vişne",
             "accent_pos": null
         }
     ]

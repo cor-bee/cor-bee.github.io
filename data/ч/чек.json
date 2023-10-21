@@ -1,9 +1,9 @@
 {
     "word": "чек",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "çek; <b>кассовый ~</b> k<stress>a</stress>ssa çeki",
+            "text": "çek",
             "accent_pos": null
         }
     ]

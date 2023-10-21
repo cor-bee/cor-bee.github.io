@@ -1,9 +1,9 @@
 {
     "word": "чайник",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "çayn<stress>i</stress>k; demlik (<i>заварочный</i>); <b>носик ~а</b> çayn<stress>i</stress>k sümegi",
+            "text": "çaynik",
             "accent_pos": null
         }
     ]

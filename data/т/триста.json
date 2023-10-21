@@ -1,9 +1,9 @@
 {
     "word": "триста",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "üç yüz; <b>эта вещь стоит ~ гривен</b> bu şey üç yüz gr<stress>i</stress>vna tura, bu şeyniñ fiyatı üç yüz gr<stress>i</stress>vna",
+            "text": "üç yüz",
             "accent_pos": null
         }
     ]

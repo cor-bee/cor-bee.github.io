@@ -1,13 +1,9 @@
 {
     "word": "тепло",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "sıcaq, sıcaqlıq; <b>солнечное ~о</b> küneş sıcağı; <b>~о печки</b> sobanın sıcaqlığı; <b>избыточное ~о</b> artqaç sıcaqlıq; <b>на улице 30 градусов ~а</b> azbarda otuz gr<stress>a</stress>dus (<i>или</i> derece) sıcaq; <b>держи ноги в ~е, голову в холоде</b> ayağını sıcaq, başını serin tut",
-            "accent_pos": null
-        },
-        {
-            "text": "<i>нареч.</i> 1. sıcaq; <b>~ одеться</b> sıcaq kiyinmek; 2.<i>в сказ.</i> sıcaq; <b>сегодня ~</b> bugün ava(sı) sıc<stress>a</stress>q(tır); <b>в комнате ~</b> odanıñ içi sıc<stress>a</stress>q(tır); 3. sıcaq, samimiy<stress>e</stress>tnen, candan; <b>меня ~ встретили</b> meni sıcaq (<i>или</i> samimiy) qarşılad<stress>ı</stress>lar",
+            "text": "issi",
             "accent_pos": null
         }
     ]

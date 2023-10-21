@@ -1,9 +1,9 @@
 {
     "word": "ядро",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. özek; <b>~ ореха</b> cevizniñ aşı; <b>~ персика</b> şeftaliniñ çegirdegi; 2. (<i>древесины</i>) terekniñ özegi; 3.<i>физ.</i> özek; <b>~ атома</b> atom özegi; 4.<i>спорт.</i> gülle, yadro; 5. (<i>пушечное</i>) gülle, top",
+            "text": "özek",
             "accent_pos": null
         }
     ]

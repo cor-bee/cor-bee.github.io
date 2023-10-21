@@ -1,13 +1,9 @@
 {
     "word": "охота",
-    "shortening_pos": 4,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "(<i>на диких животных</i>) av, avlav, avlam<stress>a</stress>; avlanuv, avlanm<stress>a</stress>; avcılıq (<i>занятие охотника</i>); <b>выйти на ~у</b> avğa çıqmaq; <b>~а на медведя</b> ayuv avı",
-            "accent_pos": null
-        },
-        {
-            "text": "(<i>желание</i>) istek, aves, tilek, aveslik, arzu; <b>с большой ~ой</b> büyük avesl<stress>i</stress>knen, büyük ist<stress>e</stress>knen; <b>без ~ы</b> isteksiz; <b>не имеющий ~ы</b> istegi<stress>o</stress>lmağan, isteksiz; <b>отсутствие ~ы</b> iseksizlik; <b>у него нет ~ы работать</b> işlemege istegi yoq",
+            "text": "1. av; 2. istek (бажання)",
             "accent_pos": null
         }
     ]

@@ -1,9 +1,9 @@
 {
     "word": "внизу",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. aşağıda, tüpte; <b>тетрадь лежит ~</b> defter aşağıd<stress>a</stress>dır; 2. tübünde; <b>~ письма стоит подпись</b> mektüpniñ tübünde imza çekilgen (<i>или</i> qoyulğan)",
+            "text": "aşağıda, tüpte",
             "accent_pos": null
         }
     ]

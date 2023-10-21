@@ -1,9 +1,9 @@
 {
     "word": "досада",
-    "shortening_pos": 5,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "ökünç; <b>она плачет от ~ы</b> ökünçinden о ağlay; <b>какая ~а!</b> tüf-tüf!",
+            "text": "ökünç",
             "accent_pos": null
         }
     ]

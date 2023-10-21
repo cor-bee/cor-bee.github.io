@@ -1,9 +1,9 @@
 {
     "word": "дата",
-    "shortening_pos": 3,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "kün, tarih (-hı); <b>поставить ~у</b> tarihını (<i>или</i> kününi) yazmaq (<i>или</i> belgilemek); <b>~а выдачи</b> (<i>документа</i>) berilgen künü; <b>~а написания</b> yazılğan künü; <b>~а рождения</b> doğğan künü (<i>или</i> tarihı); <b>~а поставки</b> <i>эк.</i> teslim etilgen künü; <b>~а изготовления</b> işlenip çıqarılğan künü",
+            "text": "tarih",
             "accent_pos": null
         }
     ]

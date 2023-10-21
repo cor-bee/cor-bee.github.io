@@ -1,9 +1,9 @@
 {
     "word": "портфель",
-    "shortening_pos": 0,
+    "shortening_pos": null,
     "articles": [
         {
-            "text": "1. portfel, çantа; 2. (<i>в финансах</i>) portfel; <b>кредитный ~</b> kredit portfeli",
+            "text": "çanta",
             "accent_pos": null
         }
     ]
